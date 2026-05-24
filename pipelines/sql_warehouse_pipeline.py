@@ -13,7 +13,8 @@ datasets = {
     "velocity_risk_analysis": "data/gold/velocity_risk_analysis.csv",
     "fraud_loss_analysis": "data/gold/fraud_loss_analysis.csv",
     "fraud_watchlist": "data/gold/fraud_watchlist.csv",
-    "fraud_alerts": "data/gold/fraud_alerts.csv"
+    "fraud_alerts": "data/gold/fraud_alerts.csv",
+    "fraud_trend_analysis": "data/gold/fraud_trend_analysis.csv"
 }
 
 for table_name, file_path in datasets.items():

@@ -28,7 +28,10 @@ country_df = pd.read_sql(
     "SELECT * FROM country_risk_analysis",
     conn
 )
-
+trend_df = pd.read_sql(
+    "SELECT * FROM fraud_trend_analysis",
+    conn
+)
 # KPI Cards
 col1, col2, col3 = st.columns(3)
 
@@ -68,6 +71,16 @@ critical_alerts = pd.read_sql(
 )
 
 st.dataframe(critical_alerts)
+st.subheader("📈 Fraud Trends Over Time")
+
+trend_chart = trend_df.set_index(
+    "transaction_date"
+)[[
+    "fraud_cases",
+    "suspicious_transactions"
+]]
+
+st.line_chart(trend_chart)
 # Fraud Alerts
 st.subheader("🚨 Fraud Alerts")
 

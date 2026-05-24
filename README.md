@@ -4,6 +4,7 @@ A modern analytics engineering project simulating real-time fraud analytics work
 ## Architecture Diagram
 
 ![Architecture Diagram](dashboards/architecture_diagram.png)
+
 ## Architecture
 
 Bronze Layer

@@ -1,343 +1,329 @@
 entity,score,watchlist_type
-1757,180.0,Customer
-4801,170.0,Customer
-3320,165.0,Customer
-2454,160.0,Customer
-3007,160.0,Customer
-1008,125.0,Customer
-3716,120.0,Customer
-1970,120.0,Customer
-1410,115.0,Customer
-3971,115.0,Customer
-1104,115.0,Customer
-4531,115.0,Customer
-2658,115.0,Customer
-1461,115.0,Customer
-2821,115.0,Customer
-3704,115.0,Customer
-4928,115.0,Customer
-4791,115.0,Customer
-1081,115.0,Customer
-2677,115.0,Customer
-4298,115.0,Customer
-2777,115.0,Customer
-3089,115.0,Customer
-3666,110.0,Customer
-1688,110.0,Customer
-4631,110.0,Customer
-3111,105.0,Customer
-4781,105.0,Customer
-3180,105.0,Customer
-3300,105.0,Customer
-3184,105.0,Customer
-4580,105.0,Customer
-1051,105.0,Customer
-1060,105.0,Customer
-4527,105.0,Customer
-1863,105.0,Customer
-3216,105.0,Customer
-1869,105.0,Customer
-1897,105.0,Customer
-2630,105.0,Customer
-2698,105.0,Customer
-2566,105.0,Customer
-2560,105.0,Customer
-2580,105.0,Customer
-3513,105.0,Customer
-3525,105.0,Customer
-1196,105.0,Customer
-4993,105.0,Customer
-1145,105.0,Customer
-1127,105.0,Customer
-3399,105.0,Customer
+2096,175.0,Customer
+4944,170.0,Customer
+4210,165.0,Customer
+1969,165.0,Customer
+4459,165.0,Customer
+2376,165.0,Customer
+4926,160.0,Customer
+4322,160.0,Customer
+3799,135.0,Customer
+3336,130.0,Customer
+4640,125.0,Customer
+4700,125.0,Customer
+1231,125.0,Customer
+2651,125.0,Customer
+2407,125.0,Customer
+3985,115.0,Customer
+1135,115.0,Customer
+4683,115.0,Customer
+1048,115.0,Customer
+2996,115.0,Customer
+1149,115.0,Customer
+1602,115.0,Customer
+1071,110.0,Customer
+3199,110.0,Customer
+1362,110.0,Customer
+2295,110.0,Customer
+1366,105.0,Customer
+2943,105.0,Customer
+2993,105.0,Customer
+2961,105.0,Customer
+3815,105.0,Customer
+3987,105.0,Customer
+1227,105.0,Customer
+4223,105.0,Customer
+1410,105.0,Customer
+4097,105.0,Customer
+4208,105.0,Customer
+4540,105.0,Customer
+4201,105.0,Customer
+3853,105.0,Customer
+3741,105.0,Customer
+3489,105.0,Customer
+3592,105.0,Customer
+3623,105.0,Customer
+3302,105.0,Customer
 3356,105.0,Customer
-3484,105.0,Customer
-3494,105.0,Customer
-1077,105.0,Customer
-1345,105.0,Customer
-3790,105.0,Customer
-2683,105.0,Customer
-3679,105.0,Customer
-2864,105.0,Customer
-3607,105.0,Customer
-2920,105.0,Customer
-1282,105.0,Customer
-1390,105.0,Customer
-4027,105.0,Customer
-4017,105.0,Customer
-2400,105.0,Customer
-2587,105.0,Customer
-2611,105.0,Customer
-3961,105.0,Customer
-2579,105.0,Customer
-4257,105.0,Customer
-4195,105.0,Customer
-2148,105.0,Customer
-4069,105.0,Customer
-4086,105.0,Customer
-4130,105.0,Customer
-2239,105.0,Customer
-1451,105.0,Customer
-1458,105.0,Customer
-1966,105.0,Customer
-4340,105.0,Customer
-2279,105.0,Customer
-4632,105.0,Customer
-1860,105.0,Customer
-1846,105.0,Customer
-4374,105.0,Customer
-Vincent and Sons,100.0,Merchant
-Walker-Brown,100.0,Merchant
-"Walker, Taylor and Wagner",100.0,Merchant
-"Ward, Santiago and Kirk",100.0,Merchant
-"Warner, Peters and Green",100.0,Merchant
-Watson and Sons,100.0,Merchant
-"Washington, Stevens and Stone",100.0,Merchant
-White Inc,100.0,Merchant
-White-Lester,100.0,Merchant
-Webb and Sons,100.0,Merchant
-"Weber, Franco and Alvarez",100.0,Merchant
-Williams and Sons,100.0,Merchant
-"Williams, Jordan and Armstrong",100.0,Merchant
-3864,100.0,Customer
-"Williams, Russell and Foster",100.0,Merchant
-Baker-Knight,100.0,Merchant
-Anthony Inc,100.0,Merchant
-Acosta-Armstrong,100.0,Merchant
-Allen Ltd,100.0,Merchant
-Alvarez PLC,100.0,Merchant
-"Allen, Carrillo and Brown",100.0,Merchant
-Anderson Ltd,100.0,Merchant
-Anderson-Shepherd,100.0,Merchant
-"Bauer, Douglas and Santiago",100.0,Merchant
-Baker-Foster,100.0,Merchant
-"Armstrong, Camacho and Braun",100.0,Merchant
-Bailey LLC,100.0,Merchant
-Berry-Adams,100.0,Merchant
-"Benton, Robertson and Ochoa",100.0,Merchant
-"Benson, Solis and Henson",100.0,Merchant
-Bell-Smith,100.0,Merchant
-Burke Ltd,100.0,Merchant
-Burns-Williams,100.0,Merchant
-Butler Inc,100.0,Merchant
-"Butler, Matthews and Underwood",100.0,Merchant
-"Black, Hancock and Harris",100.0,Merchant
-Bond PLC,100.0,Merchant
-"Bowman, Wright and Drake",100.0,Merchant
-"Bradley, Coleman and Wilson",100.0,Merchant
-Bradley-Ortiz,100.0,Merchant
-Bridges-Christian,100.0,Merchant
-Bridges-Murillo,100.0,Merchant
-"Bright, Richardson and Wyatt",100.0,Merchant
-"Brown, Schwartz and Gomez",100.0,Merchant
-"Brown, Wiggins and Trujillo",100.0,Merchant
-"Bryant, Carter and Walters",100.0,Merchant
-Bullock-Barrera,100.0,Merchant
-Clark-Lloyd,100.0,Merchant
-"Conner, Hensley and Porter",100.0,Merchant
-Costa Group,100.0,Merchant
-"Crawford, Wilson and Meza",100.0,Merchant
-Butler-Brown,100.0,Merchant
-Calhoun-Mitchell,100.0,Merchant
-Carter-Smith,100.0,Merchant
-Chang-Newton,100.0,Merchant
-"Crosby, Baker and Reynolds",100.0,Merchant
-Daniel-Benson,100.0,Merchant
-David LLC,100.0,Merchant
-Davidson-Coffey,100.0,Merchant
-"Davis, Guzman and Callahan",100.0,Merchant
-"Davis, Pope and Yoder",100.0,Merchant
-"Dean, Mejia and Wood",100.0,Merchant
-"Davis, Cooper and Chavez",100.0,Merchant
-"Hodge, Waters and Espinoza",100.0,Merchant
-Harmon PLC,100.0,Merchant
-Harris LLC,100.0,Merchant
-"Harris, Thompson and Pittman",100.0,Merchant
-Decker Group,100.0,Merchant
-"Elliott, Rivera and Mooney",100.0,Merchant
-Duffy LLC,100.0,Merchant
-"Douglas, Williams and Jones",100.0,Merchant
-"Espinoza, Moore and Johnson",100.0,Merchant
-Evans and Sons,100.0,Merchant
-Farrell-Edwards,100.0,Merchant
-Ellis PLC,100.0,Merchant
-"Fernandez, Mendez and Crane",100.0,Merchant
-"Flores, Pearson and Reynolds",100.0,Merchant
-Flores Inc,100.0,Merchant
-Fleming-Avery,100.0,Merchant
-Garcia Group,100.0,Merchant
-Garcia and Sons,100.0,Merchant
-Garcia-Woods,100.0,Merchant
-"Fowler, Gray and Anderson",100.0,Merchant
-Francis-Bell,100.0,Merchant
-"Freeman, Wilson and Jefferson",100.0,Merchant
-Frye-Lang,100.0,Merchant
-"Gaines, Bell and Rivera",100.0,Merchant
-"Gentry, Carroll and Robbins",100.0,Merchant
-Garza-Santiago,100.0,Merchant
-Gibson LLC,100.0,Merchant
-"Garrett, English and Stewart",100.0,Merchant
-Graves-Ortiz,100.0,Merchant
-Gonzalez-Carney,100.0,Merchant
-"Gonzalez, Taylor and Martinez",100.0,Merchant
-Gill-Lopez,100.0,Merchant
-Higgins Group,100.0,Merchant
-Hendricks Group,100.0,Merchant
-Hendrix-Holland,100.0,Merchant
-"Hernandez, Carpenter and Melton",100.0,Merchant
-Green-Gonzalez,100.0,Merchant
-"Gray, Davidson and Rogers",100.0,Merchant
-Griffith-Martin,100.0,Merchant
-Gutierrez Inc,100.0,Merchant
-"Hall, Edwards and Rivera",100.0,Merchant
-Gutierrez-Clarke,100.0,Merchant
-Hall and Sons,100.0,Merchant
-"Hall, Contreras and Welch",100.0,Merchant
-"Hall, Graham and Reilly",100.0,Merchant
-"Hall, Farley and Hernandez",100.0,Merchant
-"Haney, Summers and Williams",100.0,Merchant
-Hanna Group,100.0,Merchant
-Hawkins Inc,100.0,Merchant
-"Hawkins, Smith and Fitzgerald",100.0,Merchant
-Heath-Hernandez,100.0,Merchant
-"Henderson, Roberson and Evans",100.0,Merchant
-"Johnson, Perez and Williams",100.0,Merchant
-"Johnson, Frye and Collier",100.0,Merchant
-"Johnson, Flores and Johnson",100.0,Merchant
+2268,105.0,Customer
+1623,105.0,Customer
+3926,105.0,Customer
+3918,105.0,Customer
+2300,105.0,Customer
+3027,105.0,Customer
+2852,105.0,Customer
+2848,105.0,Customer
+1680,105.0,Customer
+1745,105.0,Customer
+1215,105.0,Customer
+4887,105.0,Customer
+4692,105.0,Customer
+4713,105.0,Customer
+4620,105.0,Customer
+1207,105.0,Customer
+1975,105.0,Customer
+1800,105.0,Customer
+1751,105.0,Customer
+2810,105.0,Customer
+2315,105.0,Customer
+2644,105.0,Customer
+2111,105.0,Customer
+2165,105.0,Customer
+2078,105.0,Customer
+1026,105.0,Customer
+1006,105.0,Customer
+1930,105.0,Customer
+2172,105.0,Customer
+2813,105.0,Customer
+2782,105.0,Customer
+1824,105.0,Customer
+1842,105.0,Customer
+1177,105.0,Customer
+1186,105.0,Customer
+3063,105.0,Customer
+Washington Group,100.0,Merchant
+Wallace-Krause,100.0,Merchant
+"Wallace, Shaw and Morris",100.0,Merchant
+"Wallace, Johnson and Smith",100.0,Merchant
+"Wallace, Ho and Lucas",100.0,Merchant
+Walker-Peterson,100.0,Merchant
+Walker Ltd,100.0,Merchant
+"Wagner, Cruz and Lawson",100.0,Merchant
+"Wade, Swanson and Harrison",100.0,Merchant
+Vaughan LLC,100.0,Merchant
+Vance-Lewis,100.0,Merchant
+Valdez and Sons,100.0,Merchant
+"Torres, Watson and Murphy",100.0,Merchant
+"White, Robinson and Jones",100.0,Merchant
+"Wells, Walker and Terry",100.0,Merchant
+Weiss-Johnson,100.0,Merchant
+"Weiss, Moore and Francis",100.0,Merchant
+Adams-Bauer,100.0,Merchant
+"Adams, Krueger and Johnson",100.0,Merchant
+"Adams, Guzman and Delgado",100.0,Merchant
+Braun-Lowe,100.0,Merchant
+"Bradley, Yu and Young",100.0,Merchant
+Bowman Ltd,100.0,Merchant
+"Blanchard, Moran and Garcia",100.0,Merchant
+"Black, Turner and Mueller",100.0,Merchant
+Black Group,100.0,Merchant
+"Bishop, Collier and Zimmerman",100.0,Merchant
+Berry Group,100.0,Merchant
+"Berger, Cruz and King",100.0,Merchant
+Bell-Hodges,100.0,Merchant
+Barton-Sloan,100.0,Merchant
+Barton-Le,100.0,Merchant
+"Barron, Richard and Williams",100.0,Merchant
+Barrett Group,100.0,Merchant
+Ballard-Brooks,100.0,Merchant
+Ball Ltd,100.0,Merchant
+Chapman PLC,100.0,Merchant
+Cervantes Group,100.0,Merchant
+Carter-West,100.0,Merchant
+Carter LLC,100.0,Merchant
+"Carpenter, Hood and Wright",100.0,Merchant
+"Campos, Phillips and Henderson",100.0,Merchant
+Callahan-Miller,100.0,Merchant
+Cain-James,100.0,Merchant
+"Butler, Reed and Castaneda",100.0,Merchant
+Bryant Inc,100.0,Merchant
+Brown-Terrell,100.0,Merchant
+Brown-Jensen,100.0,Merchant
+Brown-Henderson,100.0,Merchant
+"Brown, Kelley and Davis",100.0,Merchant
+Brown LLC,100.0,Merchant
+"Brewer, Smith and Curry",100.0,Merchant
+"Davis, Lewis and Meza",100.0,Merchant
+Davis Group,100.0,Merchant
+Davidson Inc,100.0,Merchant
+Daniels-Henry,100.0,Merchant
+Cummings PLC,100.0,Merchant
+Cuevas-Phillips,100.0,Merchant
+Cross LLC,100.0,Merchant
+Cox-Wolfe,100.0,Merchant
+Cox-Coleman,100.0,Merchant
+Cooper Ltd,100.0,Merchant
+Cooke-Jimenez,100.0,Merchant
+Clayton and Sons,100.0,Merchant
+Clay-Carter,100.0,Merchant
+Clarke-Murphy,100.0,Merchant
+"Clark, Harper and Chavez",100.0,Merchant
+Christensen-Avila,100.0,Merchant
+Franklin Inc,100.0,Merchant
+"Francis, Bonilla and Thompson",100.0,Merchant
+"Ford, Reese and Adams",100.0,Merchant
+Fitzpatrick LLC,100.0,Merchant
+"Fitzgerald, Ho and Thomas",100.0,Merchant
+Fisher Ltd,100.0,Merchant
+Fisher Group,100.0,Merchant
+Estes LLC,100.0,Merchant
+"Ellis, Lee and Humphrey",100.0,Merchant
+Edwards-Hicks,100.0,Merchant
+"Duran, Jones and Ware",100.0,Merchant
+Donaldson LLC,100.0,Merchant
+Deleon and Sons,100.0,Merchant
+Delacruz-Ford,100.0,Merchant
+Delacruz Group,100.0,Merchant
+"Dean, Phillips and Cummings",100.0,Merchant
+Hartman Inc,100.0,Merchant
+Harrison Ltd,100.0,Merchant
+Harrison Group,100.0,Merchant
+Hanson-Romero,100.0,Merchant
+Hanson-Davis,100.0,Merchant
+"Hamilton, Hill and Barron",100.0,Merchant
+"Greer, Johnson and Martinez",100.0,Merchant
+Gordon-Russo,100.0,Merchant
+Goodman-Delacruz,100.0,Merchant
+Gibbs and Sons,100.0,Merchant
+Gates and Sons,100.0,Merchant
+"Garcia, Henson and Ramos",100.0,Merchant
+Gallagher Group,100.0,Merchant
+"Frye, Quinn and Mueller",100.0,Merchant
+"Freeman, Peters and Allen",100.0,Merchant
+"Johnson, Dorsey and Vargas",100.0,Merchant
 Johnson Inc,100.0,Merchant
-"Jensen, Butler and Smith",100.0,Merchant
-Jackson-Wells,100.0,Merchant
-Jackson LLC,100.0,Merchant
-"Hunt, Cunningham and Mccall",100.0,Merchant
-Howell LLC,100.0,Merchant
-"Horne, Chapman and Turner",100.0,Merchant
-Hoffman Ltd,100.0,Merchant
-Hodge-Zamora,100.0,Merchant
-Turner-Young,100.0,Merchant
-"Parker, Hall and Mendoza",100.0,Merchant
-Parks-Guzman,100.0,Merchant
-Patrick-Goodman,100.0,Merchant
-Perry-Frank,100.0,Merchant
-Payne-Reyes,100.0,Merchant
-Peterson-Burke,100.0,Merchant
-"Phillips, Moyer and Valdez",100.0,Merchant
-Rangel-Freeman,100.0,Merchant
-"Potter, Lee and Smith",100.0,Merchant
-"Ramirez, Howard and Parks",100.0,Merchant
-Randall-Li,100.0,Merchant
-Johnson-Cooper,100.0,Merchant
-Johnson-Garrett,100.0,Merchant
-Johnson-Gibson,100.0,Merchant
-Jones Inc,100.0,Merchant
-"Jones, Allen and Bell",100.0,Merchant
-"Jones, Moss and Brown",100.0,Merchant
-"Kim, Cummings and Thompson",100.0,Merchant
-"Knight, Morales and Silva",100.0,Merchant
-"Lawson, Hill and Arroyo",100.0,Merchant
-Lane-Brown,100.0,Merchant
-"Le, Shaw and Walter",100.0,Merchant
-"Leach, Williams and Garrett",100.0,Merchant
-Lopez Ltd,100.0,Merchant
-Lee Ltd,100.0,Merchant
-Lee-Mccann,100.0,Merchant
-Long-Edwards,100.0,Merchant
-"Lopez, Jackson and Jackson",100.0,Merchant
-"Lopez, Harris and Dennis",100.0,Merchant
-Lopez-Banks,100.0,Merchant
-Malone-Smith,100.0,Merchant
-"Miles, Cunningham and Jones",100.0,Merchant
-Mann-Scott,100.0,Merchant
-Marks-Daniel,100.0,Merchant
-"Martin, Andrews and Williamson",100.0,Merchant
-"Martin, Medina and Hunter",100.0,Merchant
-Martinez Inc,100.0,Merchant
-"Martinez, Kennedy and Mendoza",100.0,Merchant
-"Martinez, Sparks and Hammond",100.0,Merchant
-Mccall-Mathis,100.0,Merchant
-"Mccarthy, Cooper and Robertson",100.0,Merchant
-Mcgrath Inc,100.0,Merchant
-Mcneil LLC,100.0,Merchant
-Mendez and Sons,100.0,Merchant
-Mendez-Johnson,100.0,Merchant
-Mercado-Smith,100.0,Merchant
-Merritt-Kemp,100.0,Merchant
-Moss Inc,100.0,Merchant
-Miller-Stevenson,100.0,Merchant
-Miller-Swanson,100.0,Merchant
-"Mills, Stein and Baker",100.0,Merchant
-Mitchell Inc,100.0,Merchant
-Mitchell-Greer,100.0,Merchant
-Mitchell-Kelly,100.0,Merchant
-Moreno and Sons,100.0,Merchant
-Nguyen Group,100.0,Merchant
-"Moss, Little and Copeland",100.0,Merchant
-Murphy-Wu,100.0,Merchant
-"Myers, Harvey and Woodward",100.0,Merchant
-Orr Group,100.0,Merchant
-Olson-Dixon,100.0,Merchant
-Orr-Rodriguez,100.0,Merchant
-Ortiz-Crawford,100.0,Merchant
-"Wilson, Jones and Mccoy",100.0,Merchant
-"Vasquez, Lewis and Carroll",100.0,Merchant
-Simmons-Moore,100.0,Merchant
-Simpson Inc,100.0,Merchant
-"Smith, Fuller and Collins",100.0,Merchant
-Smith-Miller,100.0,Merchant
-Smith-Mcdonald,100.0,Merchant
-Smith-Fitzgerald,100.0,Merchant
-Strickland and Sons,100.0,Merchant
-"Taylor, Walker and Castillo",100.0,Merchant
-Taylor-Mathews,100.0,Merchant
-Sosa-Michael,100.0,Merchant
-"Richard, Shepherd and Salas",100.0,Merchant
-Rice-Hall,100.0,Merchant
-Richards and Sons,100.0,Merchant
-Richards-Romero,100.0,Merchant
-Ryan Inc,100.0,Merchant
-Richardson-Phillips,100.0,Merchant
-"Roberts, Rodriguez and Wilkerson",100.0,Merchant
-Robinson-Taylor,100.0,Merchant
-Rodriguez-Bennett,100.0,Merchant
-Robles-Spears,100.0,Merchant
-Rogers-Smith,100.0,Merchant
-Romero Ltd,100.0,Merchant
-Sanders and Sons,100.0,Merchant
-Romero and Sons,100.0,Merchant
-Rosales-Hammond,100.0,Merchant
-"Rubio, Adams and Cummings",100.0,Merchant
-"Sanders, Brown and Rodriguez",100.0,Merchant
-"Salas, Marsh and James",100.0,Merchant
-"Shelton, Moreno and Howard",100.0,Merchant
-"Schultz, Hudson and Brooks",100.0,Merchant
-"Wood, Buchanan and Ayers",100.0,Merchant
-"Wilson, Oliver and Sanchez",100.0,Merchant
-Willis-Barron,100.0,Merchant
-Wilson Ltd,100.0,Merchant
-Todd-Travis,100.0,Merchant
-Townsend-Lee,100.0,Merchant
-"Travis, Adams and Rios",100.0,Merchant
-"Turner, Lozano and Delgado",100.0,Merchant
-"Yang, Gonzalez and Anderson",100.0,Merchant
-Thompson Group,100.0,Merchant
-"Thomas, Ramsey and Stevenson",100.0,Merchant
-"Thomas, Nguyen and Jones",100.0,Merchant
-Thompson PLC,100.0,Merchant
-Adams PLC,50.0,Merchant
-Walker Inc,50.0,Merchant
-Walker Ltd,50.0,Merchant
-Hernandez LLC,50.0,Merchant
-Hernandez Group,50.0,Merchant
-Harvey Ltd,50.0,Merchant
-Gomez and Sons,50.0,Merchant
-Davis Group,50.0,Merchant
-Davis PLC,50.0,Merchant
-Davis Ltd,50.0,Merchant
-Garcia Inc,50.0,Merchant
-Anderson and Sons,50.0,Merchant
-Jones PLC,50.0,Merchant
-Smith and Sons,50.0,Merchant
-Parker and Sons,50.0,Merchant
-Smith Ltd,50.0,Merchant
-Robinson PLC,33.33,Merchant
-Thomas Ltd,33.33,Merchant
+"Jacobs, Young and Flores",100.0,Merchant
+Jackson-Hicks,100.0,Merchant
+Irwin Group,100.0,Merchant
+Huff Ltd,100.0,Merchant
+Hill-Bowman,100.0,Merchant
+"Hernandez, Gonzalez and Wilson",100.0,Merchant
+"Hernandez, Boyle and Wood",100.0,Merchant
+Hernandez Group,100.0,Merchant
+"Herman, Thomas and Nunez",100.0,Merchant
+"Hayes, Mcdaniel and Taylor",100.0,Merchant
+Hayes Group,100.0,Merchant
+Lee PLC,100.0,Merchant
+Le Ltd,100.0,Merchant
+"Lawson, Atkins and Avila",100.0,Merchant
+Lane-Carpenter,100.0,Merchant
+"Lambert, Olsen and Rivas",100.0,Merchant
+Lamb-Gregory,100.0,Merchant
+"Kramer, Perez and Russell",100.0,Merchant
+Knapp-Rodriguez,100.0,Merchant
+Knapp-Reyes,100.0,Merchant
+"Kemp, Thomas and Madden",100.0,Merchant
+Keller Ltd,100.0,Merchant
+Jones-Moss,100.0,Merchant
+Jones-Ellis,100.0,Merchant
+Johnson-Thomas,100.0,Merchant
+"Johnson, Nicholson and Oliver",100.0,Merchant
+"Johnson, Hood and Watkins",100.0,Merchant
+Mendoza LLC,100.0,Merchant
+Medina-Russell,100.0,Merchant
+Mcguire-Wright,100.0,Merchant
+"Mcguire, Stark and Ferguson",100.0,Merchant
+Mcguire and Sons,100.0,Merchant
+"Mcgrath, Hernandez and Lloyd",100.0,Merchant
+"Mcdowell, Wolf and Gomez",100.0,Merchant
+Mccoy-Duffy,100.0,Merchant
+Martinez-Sharp,100.0,Merchant
+"Martin, Strong and Garcia",100.0,Merchant
+Martin PLC,100.0,Merchant
+Marshall-Peterson,100.0,Merchant
+Marquez-Mckenzie,100.0,Merchant
+Lyons Group,100.0,Merchant
+Lopez-Logan,100.0,Merchant
+Lee-Haley,100.0,Merchant
+"Orozco, Davis and Kelly",100.0,Merchant
+Nicholson Ltd,100.0,Merchant
+Nichols-Williams,100.0,Merchant
+Nguyen-Wright,100.0,Merchant
+"Nguyen, Ramirez and Walker",100.0,Merchant
+"Myers, Monroe and Hall",100.0,Merchant
+"Murphy, Osborn and Dillon",100.0,Merchant
+"Moyer, Thompson and Hampton",100.0,Merchant
+"Morton, Atkins and Hobbs",100.0,Merchant
+Moreno LLC,100.0,Merchant
+Moore Group,100.0,Merchant
+Montoya PLC,100.0,Merchant
+Molina Group,100.0,Merchant
+"Mitchell, Ruiz and West",100.0,Merchant
+"Mitchell, Ramos and Palmer",100.0,Merchant
+Reynolds Inc,100.0,Merchant
+Reynolds Group,100.0,Merchant
+Reid-Anderson,100.0,Merchant
+Reed-Roberts,100.0,Merchant
+Ray-Dickerson,100.0,Merchant
+"Phillips, Harvey and Jones",100.0,Merchant
+Phillips PLC,100.0,Merchant
+"Phelps, Miller and Hawkins",100.0,Merchant
+Peters Group,100.0,Merchant
+Perry Inc,100.0,Merchant
+Perez and Sons,100.0,Merchant
+"Patterson, Smith and Spencer",100.0,Merchant
+Patel-Cameron,100.0,Merchant
+"Patel, Phillips and Roth",100.0,Merchant
+Parker-Johnson,100.0,Merchant
+Ortiz-Green,100.0,Merchant
+"Sanders, Wright and Alvarez",100.0,Merchant
+Russell Inc,100.0,Merchant
+"Roy, Walton and Hayes",100.0,Merchant
+"Roth, Diaz and Salazar",100.0,Merchant
+Rojas and Sons,100.0,Merchant
+"Rogers, Murphy and Reilly",100.0,Merchant
+"Rodriguez, Fuentes and Cook",100.0,Merchant
+"Rocha, Davies and Bowman",100.0,Merchant
+Robertson-Williams,100.0,Merchant
+Roberts PLC,100.0,Merchant
+Rivera-Villegas,100.0,Merchant
+Riddle LLC,100.0,Merchant
+Rich Inc,100.0,Merchant
+Rice and Sons,100.0,Merchant
+Reynolds and Sons,100.0,Merchant
+Sosa-Nguyen,100.0,Merchant
+"Snyder, Johnson and Porter",100.0,Merchant
+Smith-Olsen,100.0,Merchant
+Smith-Edwards,100.0,Merchant
+Smith-Brown,100.0,Merchant
+Smith Inc,100.0,Merchant
+Smith Group,100.0,Merchant
+Sims PLC,100.0,Merchant
+"Simpson, Padilla and West",100.0,Merchant
+Silva LLC,100.0,Merchant
+Scott-Ramos,100.0,Merchant
+"Schneider, Davis and Kelly",100.0,Merchant
+Schmidt LLC,100.0,Merchant
+Savage-Harris,100.0,Merchant
+"Torres, Munoz and Williams",100.0,Merchant
+Thompson-Freeman,100.0,Merchant
+Thompson Ltd,100.0,Merchant
+"Thomas, Hernandez and Moore",100.0,Merchant
+"Thomas, Gilmore and Ramos",100.0,Merchant
+Thomas Ltd,100.0,Merchant
+Taylor-Rivera,100.0,Merchant
+"Stokes, Wallace and Collins",100.0,Merchant
+"Stewart, Williams and Watson",100.0,Merchant
+Stewart LLC,100.0,Merchant
+Stephenson-Simmons,100.0,Merchant
+"Baker, Espinoza and Mcintosh",100.0,Merchant
+"Anderson, Jones and Brown",100.0,Merchant
+Aguilar Ltd,100.0,Merchant
+Steele-Andrews,100.0,Merchant
+Stark-Haley,100.0,Merchant
+Stanton and Sons,100.0,Merchant
+"Spencer, Holmes and Hartman",100.0,Merchant
+Yang and Sons,100.0,Merchant
+Wright-Gibson,100.0,Merchant
+Woodward-Marquez,100.0,Merchant
+Wolfe Ltd,100.0,Merchant
+Wolf PLC,100.0,Merchant
+"Wilson, Williamson and Carter",100.0,Merchant
+Williams-Winters,100.0,Merchant
+Williams-Mcgee,100.0,Merchant
+Williams-Cain,100.0,Merchant
+"Williams, Miller and Miller",100.0,Merchant
+Williams Inc,100.0,Merchant
+"Watkins, Miller and Jones",100.0,Merchant
+Watson-Perez,100.0,Merchant
+"Weeks, Chandler and Holder",100.0,Merchant
+"Young, Vazquez and Alvarado",100.0,Merchant
+Thompson Inc,50.0,Merchant
+Miller PLC,50.0,Merchant
+Sanders and Sons,50.0,Merchant
+Johnson Group,50.0,Merchant
+Hill PLC,50.0,Merchant
+Garcia Group,50.0,Merchant
+Smith PLC,33.33,Merchant
 Smith LLC,33.33,Merchant
+Johnson and Sons,33.33,Merchant

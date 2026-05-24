@@ -1,961 +1,973 @@
 merchant,total_transactions,fraud_cases,total_amount,fraud_rate_percent
-Acosta-Armstrong,1,1,212.57,100.0
-Adams PLC,2,1,5283.54,50.0
-"Adams, Hernandez and Hernandez",1,0,1850.13,0.0
-Allen Ltd,1,1,1625.01,100.0
-"Allen, Carrillo and Brown",1,1,2079.26,100.0
-"Allen, Evans and Johnson",1,0,4933.19,0.0
-"Allen, Maynard and Kennedy",1,0,4453.45,0.0
-"Allen, Smith and Hurst",1,0,4423.04,0.0
-"Allen, Stephens and Dixon",1,0,2582.47,0.0
-"Allen, Stone and Lee",1,0,22.11,0.0
-"Alvarado, Schwartz and Johnson",1,0,2607.84,0.0
-Alvarez PLC,1,1,591.42,100.0
-Anderson Inc,1,0,843.99,0.0
-Anderson Ltd,1,1,350.57,100.0
-Anderson PLC,1,0,3451.25,0.0
-Anderson and Sons,2,1,4542.31,50.0
-"Anderson, Forbes and Coleman",1,0,4869.73,0.0
-Anderson-Blake,1,0,4226.6,0.0
-Anderson-Burke,1,0,4099.16,0.0
-Anderson-Carter,1,0,832.76,0.0
-Anderson-Johnson,1,0,1170.74,0.0
-Anderson-Shepherd,1,1,2963.74,100.0
-"Andrews, Sullivan and Bradley",1,0,442.43,0.0
-Anthony Inc,1,1,3015.18,100.0
-Anthony-Trujillo,1,0,2006.55,0.0
-Armstrong LLC,1,0,2058.43,0.0
-"Armstrong, Camacho and Braun",1,1,811.38,100.0
-"Armstrong, Stokes and Carter",1,0,2349.67,0.0
-Atkins-Hart,1,0,3399.24,0.0
-"Atkinson, Young and Rogers",1,0,2700.0,0.0
-Bailey LLC,1,1,4046.85,100.0
-Bailey PLC,1,0,1738.49,0.0
-"Bailey, Austin and Barnes",1,0,659.97,0.0
-"Bailey, Jones and Stewart",1,0,3111.24,0.0
-Baird Ltd,1,0,2422.39,0.0
-Baker-Foster,1,1,2625.81,100.0
-Baker-Knight,1,1,28.66,100.0
-"Baldwin, Boyle and Humphrey",1,0,3787.64,0.0
-Barajas and Sons,1,0,2985.43,0.0
-Barnes PLC,1,0,2846.77,0.0
-Barnes and Sons,1,0,3901.43,0.0
-"Barnes, Harmon and Stewart",1,0,486.06,0.0
-Barnes-Fitzgerald,1,0,4927.2,0.0
-Barnes-Parker,1,0,2875.85,0.0
-Barr-Davidson,1,0,4433.35,0.0
-Barton-Contreras,1,0,1471.87,0.0
-Bass-Armstrong,1,0,549.2,0.0
-"Bates, Baker and Miranda",1,0,2791.41,0.0
-"Bauer, Douglas and Santiago",1,1,3928.53,100.0
-"Bean, Murillo and Miranda",1,0,1244.61,0.0
-Beard-Mckay,1,0,2344.68,0.0
-Beck-Johnson,1,0,4244.3,0.0
-"Bell, Fuentes and Williams",1,0,704.27,0.0
-Bell-Smith,1,1,4488.38,100.0
-"Bennett, Mathews and Evans",1,0,3273.55,0.0
-"Benson, Solis and Henson",1,1,3280.4,100.0
-"Benton, Robertson and Ochoa",1,1,2211.05,100.0
-Berg Inc,1,0,2928.76,0.0
-Berg-Walker,1,0,84.05,0.0
-Berry-Adams,1,1,2747.28,100.0
-Berry-Sanchez,1,0,4079.39,0.0
-"Black, Hancock and Harris",1,1,3851.88,100.0
-Black-Bell,1,0,3283.35,0.0
-Blackwell-Edwards,1,0,315.59,0.0
-Blair-White,1,0,2155.35,0.0
-Blake-Roberts,1,0,2787.34,0.0
-"Blankenship, Alexander and Martinez",1,0,3256.47,0.0
-Bond PLC,1,1,1224.27,100.0
-Bowen-Miranda,1,0,2523.85,0.0
-"Bowers, Garcia and Torres",1,0,3102.15,0.0
-"Bowers, Mclean and Smith",1,0,1875.61,0.0
-"Bowers, Torres and Hanna",1,0,2785.11,0.0
-"Bowman, Wright and Drake",1,1,1758.88,100.0
-Bowman-Barajas,1,0,1121.05,0.0
-"Bradford, Martinez and Ayala",1,0,3114.12,0.0
-"Bradley, Coleman and Wilson",1,1,558.94,100.0
-Bradley-Ortiz,1,1,15.41,100.0
-Brady PLC,1,0,4972.66,0.0
-"Brandt, Smith and Hawkins",1,0,1029.34,0.0
-Braun Ltd,1,0,2478.16,0.0
-Brewer-Sanchez,1,0,3637.65,0.0
-Bridges-Christian,1,1,1562.16,100.0
-Bridges-Murillo,1,1,2872.63,100.0
-"Bright, Richardson and Wyatt",1,1,3793.08,100.0
-Brooks-Cox,1,0,3575.51,0.0
-Brooks-Rollins,1,0,1815.64,0.0
-Brown Ltd,1,0,2569.44,0.0
-Brown PLC,2,0,7587.049999999999,0.0
-"Brown, Bauer and Walker",1,0,1537.75,0.0
-"Brown, Johnson and Gilbert",1,0,4079.65,0.0
-"Brown, Montoya and Le",1,0,2780.82,0.0
-"Brown, Schwartz and Gomez",1,1,2113.79,100.0
-"Brown, Wiggins and Trujillo",1,1,4157.79,100.0
-Brown-Fowler,1,0,2110.76,0.0
-Brown-Jordan,1,0,2752.71,0.0
-Brown-Palmer,1,0,1305.77,0.0
-Brown-White,1,0,3388.2,0.0
-Bryan Inc,1,0,3576.17,0.0
-Bryan-Sanchez,1,0,872.73,0.0
-"Bryant, Carter and Walters",1,1,3354.75,100.0
-"Bryant, Christian and Thomas",1,0,476.33,0.0
-Bryant-Kaufman,1,0,612.1,0.0
-Buchanan-Cook,1,0,2293.85,0.0
-Buckley PLC,1,0,1737.7,0.0
-Bullock Group,1,0,1501.08,0.0
-Bullock-Barrera,1,1,1545.9,100.0
-Burke Ltd,1,1,2676.93,100.0
-Burns-Williams,1,1,4077.44,100.0
-Burton LLC,1,0,2613.19,0.0
-Burton PLC,1,0,3938.26,0.0
-Bush-Washington,1,0,2738.2,0.0
-Butler Inc,1,1,2860.38,100.0
-"Butler, Chase and Smith",1,0,3636.38,0.0
-"Butler, Matthews and Underwood",1,1,682.33,100.0
-Butler-Brown,1,1,3611.36,100.0
-Byrd Ltd,1,0,208.11,0.0
-"Caldwell, Smith and Bell",1,0,363.53,0.0
-Calhoun LLC,1,0,2245.29,0.0
-Calhoun-Mitchell,1,1,385.65,100.0
-"Campbell, Edwards and Ayers",1,0,272.11,0.0
-"Campbell, Lin and Beck",1,0,1379.56,0.0
-"Campbell, Rice and Ibarra",1,0,4732.2,0.0
-"Campbell, Soto and Jacobs",1,0,3284.25,0.0
-Campbell-Hicks,1,0,1033.33,0.0
-Campbell-Salazar,1,0,1846.27,0.0
-"Cannon, Lester and Sullivan",1,0,1386.24,0.0
-Cardenas-Little,1,0,1405.56,0.0
-Carlson-Solomon,1,0,4970.39,0.0
-"Carpenter, Baldwin and Hinton",1,0,1699.8,0.0
-Carroll-Olsen,1,0,1764.97,0.0
-"Carter, Crawford and Barrera",1,0,4443.25,0.0
-"Carter, Soto and Robinson",1,0,1491.26,0.0
-Carter-Brewer,1,0,4112.74,0.0
-Carter-Smith,1,1,1836.27,100.0
-Castillo Ltd,1,0,3262.88,0.0
-Castro-Lee,1,0,3875.16,0.0
-Chaney PLC,1,0,1672.11,0.0
-Chang-Alvarez,1,0,2874.24,0.0
-Chang-Newton,1,1,4089.95,100.0
-"Chapman, Warren and Paul",1,0,4245.04,0.0
-"Charles, Taylor and Rodriguez",1,0,3767.0,0.0
-Clark-Lloyd,1,1,2153.06,100.0
-Clark-Perez,1,0,2310.8,0.0
-Clements and Sons,1,0,2614.32,0.0
-"Cohen, Wilson and Saunders",1,0,2540.34,0.0
-Cole Group,1,0,814.51,0.0
-"Cole, Long and Flores",1,0,2236.75,0.0
-Coleman Ltd,1,0,625.97,0.0
-"Coleman, Smith and Blake",1,0,75.31,0.0
-Collins-Evans,1,0,2259.67,0.0
-Collins-Fitzgerald,1,0,4193.73,0.0
-Collins-Perez,1,0,513.06,0.0
-Collins-Scott,1,0,3784.39,0.0
-Collins-Stevenson,1,0,2162.9,0.0
-Colon Inc,1,0,4467.74,0.0
-"Conner, Hensley and Porter",1,1,4522.93,100.0
-Contreras Group,1,0,744.08,0.0
-"Conway, Davis and Keller",1,0,1918.59,0.0
-Conway-Jones,1,0,1428.9,0.0
-"Cook, Fuller and Hawkins",1,0,1912.74,0.0
-Cook-Gordon,1,0,418.25,0.0
-Cooper-Griffin,1,0,273.81,0.0
-Costa Group,1,1,2942.31,100.0
-Cox and Sons,1,0,173.16,0.0
-Cox-Wilson,1,0,3523.91,0.0
-"Crawford, Wiley and Davis",1,0,4363.81,0.0
-"Crawford, Wilson and Meza",1,1,31.96,100.0
-"Crosby, Baker and Reynolds",1,1,3621.45,100.0
-"Cruz, Myers and Patterson",1,0,4414.26,0.0
-Curtis LLC,1,0,1772.94,0.0
-Curtis-Chavez,1,0,4654.02,0.0
-Daniel-Benson,1,1,3433.76,100.0
-Daniels PLC,1,0,3642.85,0.0
-Davenport and Sons,1,0,973.09,0.0
-David LLC,1,1,1563.06,100.0
-David-Roberts,1,0,2476.75,0.0
-Davidson-Coffey,1,1,781.04,100.0
-Davis Group,2,1,3350.46,50.0
-Davis Inc,1,0,1987.06,0.0
-Davis Ltd,2,1,4228.65,50.0
-Davis PLC,2,1,4594.42,50.0
-Davis and Sons,1,0,1634.34,0.0
-"Davis, Cooper and Chavez",1,1,2854.44,100.0
-"Davis, Guzman and Callahan",1,1,2873.53,100.0
-"Davis, Lyons and Burns",1,0,48.03,0.0
-"Davis, Martinez and Strong",1,0,3991.07,0.0
-"Davis, Perry and Joseph",1,0,4089.28,0.0
-"Davis, Pope and Yoder",1,1,1279.61,100.0
-"Davis, Wilson and Thornton",1,0,4915.63,0.0
-Davis-Case,1,0,2151.39,0.0
-Davis-Jones,1,0,3993.52,0.0
-Davis-Martinez,1,0,4939.01,0.0
-Davis-Nguyen,1,0,3966.14,0.0
-Dawson Group,1,0,4686.53,0.0
-"Dean, Mejia and Wood",1,1,3198.25,100.0
-Decker Group,1,1,941.0,100.0
-"Delacruz, Perez and Williams",1,0,4723.13,0.0
-Dennis-Foster,1,0,2958.78,0.0
-Dickerson-Frazier,1,0,401.67,0.0
-"Douglas, Williams and Jones",1,1,284.35,100.0
-Douglas-Neal,1,0,2792.5,0.0
-Douglas-Rice,1,0,4992.18,0.0
-"Doyle, Roth and Wright",1,0,1146.04,0.0
-Duffy LLC,1,1,2761.56,100.0
-Duran-Clark,1,0,1362.04,0.0
-Edwards LLC,1,0,4503.61,0.0
-Edwards PLC,1,0,449.4,0.0
-"Edwards, Frye and Daniels",1,0,2637.05,0.0
-"Edwards, Romero and Figueroa",1,0,3415.01,0.0
-"Edwards, Watts and Pena",1,0,1874.69,0.0
-Elliott Group,1,0,1841.84,0.0
-"Elliott, Rivera and Mooney",1,1,1638.25,100.0
-Ellis PLC,1,1,1778.37,100.0
-"Ellis, Cook and Meyer",1,0,1094.67,0.0
-"Ellis, Murphy and Smith",1,0,3715.82,0.0
-"Esparza, Ayers and Kelley",1,0,1792.48,0.0
-Esparza-Walker,1,0,2174.89,0.0
-"Espinoza, Moore and Johnson",1,1,3687.94,100.0
-Estes Inc,1,0,2224.98,0.0
-Evans Inc,1,0,4009.71,0.0
-Evans PLC,1,0,2281.29,0.0
-Evans and Sons,1,1,556.31,100.0
-"Farmer, Manning and Rodriguez",1,0,3750.16,0.0
-Farrell and Sons,1,0,3549.02,0.0
-Farrell-Edwards,1,1,2650.49,100.0
-Ferguson Group,1,0,358.07,0.0
-Ferguson-Ferguson,1,0,2274.08,0.0
-"Fernandez, Mendez and Crane",1,1,1749.73,100.0
-Ferrell Group,1,0,3664.46,0.0
-Figueroa and Sons,1,0,3394.22,0.0
-Fisher Inc,1,0,989.36,0.0
-"Fleming, Dunn and Eaton",1,0,2002.75,0.0
-Fleming-Avery,1,1,1858.04,100.0
-Flores Inc,1,1,401.0,100.0
-"Flores, Pearson and Reynolds",1,1,3118.31,100.0
-Flores-Lyons,1,0,4095.73,0.0
-Flores-Meza,1,0,534.14,0.0
-Flores-Perez,1,0,962.57,0.0
-Flowers and Sons,1,0,2805.63,0.0
-Floyd-Elliott,1,0,4359.28,0.0
-"Forbes, Vega and Hatfield",1,0,3551.71,0.0
-Ford-Bishop,1,0,460.36,0.0
-Foster-Frank,1,0,1773.47,0.0
-Fowler Group,1,0,3113.48,0.0
-"Fowler, Gray and Anderson",1,1,1207.71,100.0
-"Fowler, Hale and Miller",1,0,2747.55,0.0
-Francis-Bell,1,1,1043.72,100.0
-Frederick-Swanson,1,0,4853.62,0.0
-"Freeman, English and Vasquez",1,0,2619.81,0.0
-"Freeman, Wilson and Jefferson",1,1,4407.24,100.0
-Freeman-Morgan,1,0,2337.19,0.0
-Freeman-Stone,1,0,3810.02,0.0
-Freeman-Williams,1,0,343.94,0.0
-French-Richardson,1,0,3577.55,0.0
-French-Strickland,1,0,107.43,0.0
-Frey LLC,1,0,416.51,0.0
-"Frey, Gillespie and Merritt",1,0,1208.95,0.0
-Frye-Lang,1,1,71.23,100.0
-"Fuentes, White and Hall",1,0,3371.44,0.0
-Fuentes-Kim,1,0,1178.41,0.0
-"Gaines, Bell and Rivera",1,1,3523.52,100.0
-Gallagher-Small,1,0,741.12,0.0
-Gallegos Inc,1,0,4642.73,0.0
-Gallegos-Hogan,1,0,1450.64,0.0
-Garcia Group,1,1,1414.49,100.0
-Garcia Inc,2,1,2480.16,50.0
-Garcia and Sons,1,1,4263.9,100.0
-"Garcia, Kirby and Contreras",1,0,2329.2,0.0
-"Garcia, Knight and Herrera",1,0,582.27,0.0
-Garcia-Cruz,1,0,1455.7,0.0
-Garcia-Davis,1,0,4047.89,0.0
-Garcia-Woods,1,1,4663.22,100.0
-Gardner Inc,1,0,4114.83,0.0
-Gardner-Pope,1,0,2383.25,0.0
-Garner-Stanley,1,0,1409.27,0.0
-"Garrett, English and Stewart",1,1,666.22,100.0
-Garza-Santiago,1,1,2429.11,100.0
-"Gates, Martinez and Stewart",1,0,366.48,0.0
-"Gentry, Carroll and Robbins",1,1,2054.57,100.0
-Gibson LLC,1,1,3470.44,100.0
-"Gibson, Young and Shaw",1,0,4662.86,0.0
-Gilbert-Moore,1,0,2867.15,0.0
-Giles-Hester,1,0,4418.94,0.0
-Gill-Lopez,1,1,3167.35,100.0
-Gomez and Sons,2,1,2689.76,50.0
-"Gomez, Guerrero and Robertson",1,0,4856.61,0.0
-"Gomez, Manning and Brown",1,0,1180.74,0.0
-Gomez-Compton,1,0,1243.44,0.0
-Gomez-Smith,1,0,3021.96,0.0
-Gonzalez Inc,1,0,4930.87,0.0
-Gonzalez and Sons,1,0,1510.24,0.0
-"Gonzalez, Reed and Stevens",1,0,1134.4,0.0
-"Gonzalez, Taylor and Martinez",1,1,4342.39,100.0
-Gonzalez-Carney,1,1,2317.37,100.0
-"Goodman, Long and Garrett",1,0,1070.66,0.0
-Goodwin-Smith,1,0,4233.34,0.0
-"Gordon, Cannon and Morrow",1,0,3721.35,0.0
-Gordon-Nunez,1,0,1111.95,0.0
-Graham-Cooley,1,0,3043.18,0.0
-Graham-Tyler,1,0,3002.5,0.0
-"Grant, Singh and Martinez",1,0,132.06,0.0
-Graves Group,1,0,1030.54,0.0
-Graves-Ortiz,1,1,4596.94,100.0
-"Gray, Davidson and Rogers",1,1,4994.46,100.0
-"Gray, Hughes and Bailey",1,0,2804.05,0.0
-"Gray, Navarro and Meadows",1,0,3423.95,0.0
-"Gray, Perez and Armstrong",1,0,1903.22,0.0
-"Green, Alvarez and Archer",1,0,2274.58,0.0
-Green-Gonzalez,1,1,4353.31,100.0
-Green-Mcbride,1,0,3968.32,0.0
-Greene-Davenport,1,0,649.34,0.0
-"Griffin, Fitzgerald and Yang",1,0,4535.14,0.0
-"Griffin, Moore and Morgan",1,0,3114.86,0.0
-Griffith-Martin,1,1,4655.06,100.0
-Gross-Hicks,1,0,287.88,0.0
-Gross-Shepherd,1,0,4475.13,0.0
-Guerra LLC,1,0,3416.68,0.0
-"Guerra, Campbell and Leonard",1,0,4446.84,0.0
-Gutierrez Inc,1,1,476.73,100.0
-"Gutierrez, Mercado and Ayala",1,0,1943.22,0.0
-Gutierrez-Clarke,1,1,4281.85,100.0
-Guzman LLC,1,0,2407.62,0.0
-"Hahn, Arroyo and Nichols",1,0,2102.74,0.0
-Hale Group,1,0,2062.08,0.0
-Hale Ltd,1,0,3960.8,0.0
-Hall Inc,1,0,2440.61,0.0
-Hall PLC,1,0,112.27,0.0
-Hall and Sons,1,1,1408.77,100.0
-"Hall, Contreras and Welch",1,1,1697.14,100.0
-"Hall, Edwards and Rivera",1,1,4233.06,100.0
-"Hall, Farley and Hernandez",1,1,4141.42,100.0
-"Hall, Graham and Reilly",1,1,191.06,100.0
-Hall-Rodriguez,1,0,4138.91,0.0
-Hamilton and Sons,1,0,3432.42,0.0
-Hamilton-Jacobs,1,0,3375.2,0.0
-Hammond PLC,1,0,3276.04,0.0
-"Hammond, Carroll and Rangel",1,0,4901.19,0.0
-Haney Inc,1,0,1682.39,0.0
-"Haney, Summers and Williams",1,1,3722.85,100.0
-Hanna Group,1,1,1367.22,100.0
-Hansen Ltd,1,0,3896.54,0.0
-Harmon PLC,1,1,3262.17,100.0
-Harper Ltd,1,0,2762.23,0.0
-"Harper, Cooper and Williams",1,0,2437.84,0.0
-"Harper, Lopez and Roberson",1,0,864.17,0.0
-"Harrell, Rogers and Lawson",1,0,1654.68,0.0
-Harris LLC,1,1,353.25,100.0
-"Harris, Austin and Chaney",1,0,1887.23,0.0
-"Harris, Dickson and Terry",1,0,3603.39,0.0
-"Harris, Thompson and Pittman",1,1,4894.6,100.0
-"Harrison, Mcclure and Taylor",1,0,3123.83,0.0
-Hartman-Rodriguez,1,0,261.94,0.0
-Harvey Ltd,2,1,3859.37,50.0
-Harvey-Martinez,1,0,4909.03,0.0
-Hawkins Inc,1,1,4504.3,100.0
-Hawkins PLC,1,0,507.31,0.0
-"Hawkins, Smith and Fitzgerald",1,1,3452.23,100.0
-Heath-Hernandez,1,1,298.34,100.0
-"Hebert, May and Yates",1,0,4561.6,0.0
-"Henderson, Roberson and Evans",1,1,3363.85,100.0
-Hendricks Group,1,1,4357.57,100.0
-Hendrix-Holland,1,1,2414.07,100.0
-Hernandez Group,2,1,4579.86,50.0
-Hernandez LLC,2,1,6872.2,50.0
-"Hernandez, Brown and Guerra",1,0,3819.98,0.0
-"Hernandez, Carpenter and Melton",1,1,3709.87,100.0
-"Hernandez, Webb and West",1,0,327.14,0.0
-Hernandez-Fitzpatrick,1,0,3031.19,0.0
-Hernandez-Schroeder,1,0,912.41,0.0
-"Herrera, Cameron and Salas",1,0,1867.92,0.0
-Herrera-Elliott,1,0,127.61,0.0
-Hickman Inc,1,0,4628.35,0.0
-"Hicks, Duncan and Petty",1,0,2537.22,0.0
-Hicks-Roth,1,0,4575.94,0.0
-Higgins Group,1,1,579.65,100.0
-Hill-Bennett,1,0,4570.81,0.0
-"Hodge, Waters and Espinoza",1,1,3180.21,100.0
-Hodge-Zamora,1,1,2458.0,100.0
-"Hodges, Lawrence and Mata",1,0,3877.66,0.0
-Hoffman Ltd,1,1,1524.37,100.0
-Hoffman-Evans,1,0,1936.72,0.0
-Holder-Hartman,1,0,2665.06,0.0
-Holland Ltd,1,0,1866.45,0.0
-Holmes-Brooks,1,0,2695.18,0.0
-Hood-Wright,1,0,4048.0,0.0
-Hopkins-Wells,1,0,2847.75,0.0
-"Horne, Chapman and Turner",1,1,3561.63,100.0
-Horton Group,1,0,727.58,0.0
-"Horton, Martinez and Foley",1,0,631.8,0.0
-Houston-Villarreal,1,0,1702.07,0.0
-Howard Group,1,0,2311.51,0.0
-Howard LLC,1,0,1330.5,0.0
-Howell LLC,1,1,262.63,100.0
-Hudson-Davis,1,0,3447.07,0.0
-Hughes Group,1,0,3100.36,0.0
-Hughes PLC,1,0,3909.07,0.0
-"Hughes, Rodriguez and Ray",1,0,391.18,0.0
-Hughes-Hawkins,1,0,4113.77,0.0
-Hughes-Lopez,1,0,2482.4,0.0
-"Hunt, Cunningham and Mccall",1,1,2761.88,100.0
-"Hunter, Jenkins and Clark",1,0,2666.07,0.0
-"Ibarra, Wu and Russell",1,0,763.03,0.0
-Jackson LLC,1,1,1173.26,100.0
-Jackson and Sons,1,0,4035.68,0.0
-"Jackson, Cox and Stephens",1,0,2115.84,0.0
-"Jackson, Tucker and Rodriguez",1,0,4315.27,0.0
-Jackson-Gonzalez,1,0,2454.37,0.0
-Jackson-Mills,1,0,3463.79,0.0
-Jackson-Moore,1,0,447.9,0.0
-Jackson-Wells,1,1,2875.85,100.0
-Jacobs-Mathis,1,0,556.89,0.0
-"James, Collier and Ritter",1,0,1520.73,0.0
-"James, Mason and Schmidt",1,0,2198.42,0.0
-"James, Robbins and Harrison",1,0,2613.78,0.0
-James-Molina,1,0,1722.7,0.0
-Jefferson-Shepherd,1,0,3852.82,0.0
-Jenkins Ltd,2,0,8824.039999999999,0.0
-"Jenkins, Martinez and Lee",1,0,274.4,0.0
-"Jensen, Butler and Smith",1,1,1584.05,100.0
-"Jimenez, Parsons and Young",1,0,378.0,0.0
-Johnson Group,1,0,3854.72,0.0
-Johnson Inc,1,1,4744.5,100.0
-Johnson Ltd,1,0,4928.27,0.0
-Johnson PLC,1,0,2805.1,0.0
-Johnson and Sons,4,0,12891.48,0.0
-"Johnson, Clark and Moore",1,0,455.68,0.0
-"Johnson, Flores and Johnson",1,1,4717.76,100.0
-"Johnson, Frye and Collier",1,1,1529.63,100.0
-"Johnson, Graham and Henderson",1,0,3993.27,0.0
-"Johnson, Hoffman and Sosa",1,0,56.02,0.0
-"Johnson, Perez and Williams",1,1,840.01,100.0
-"Johnson, Roach and Allen",1,0,3625.43,0.0
-"Johnson, Thompson and Harvey",1,0,2377.92,0.0
-Johnson-Cooper,1,1,4314.18,100.0
-Johnson-Garrett,1,1,3803.91,100.0
-Johnson-Gibson,1,1,1513.58,100.0
-Johnson-Hall,1,0,2369.33,0.0
-Johnson-Horton,1,0,365.7,0.0
-Johnson-Myers,1,0,1289.0,0.0
-Johnston Group,1,0,1178.27,0.0
-Johnston Ltd,1,0,4634.29,0.0
-Jones Group,2,0,4963.91,0.0
-Jones Inc,1,1,683.21,100.0
-Jones PLC,2,1,3071.1699999999996,50.0
-Jones and Sons,1,0,1883.97,0.0
-"Jones, Allen and Bell",1,1,2167.39,100.0
-"Jones, Bowers and Harrison",1,0,4578.78,0.0
-"Jones, Clark and Lee",1,0,802.16,0.0
-"Jones, Garcia and Perez",1,0,3694.12,0.0
-"Jones, Hull and Roach",1,0,1398.5,0.0
-"Jones, Moss and Brown",1,1,871.75,100.0
-"Jones, Stout and Phillips",1,0,1219.9,0.0
-Jones-Burns,1,0,3287.82,0.0
-Jones-Garcia,1,0,1336.93,0.0
-Jones-Kelly,1,0,2905.11,0.0
-Jones-Mcfarland,1,0,2847.1,0.0
-Jones-Pruitt,1,0,1369.64,0.0
-Jordan-Howell,1,0,183.78,0.0
-"Joseph, Gomez and Vasquez",1,0,265.52,0.0
-Juarez Group,1,0,1211.38,0.0
-Juarez Ltd,1,0,2920.94,0.0
-Kane Inc,1,0,2042.74,0.0
-Kaufman Ltd,1,0,24.82,0.0
-Kelley Ltd,1,0,3943.87,0.0
-Kelly-Ellis,1,0,351.9,0.0
-"Kim, Cummings and Thompson",1,1,3354.39,100.0
-King Inc,1,0,1341.6,0.0
-King Ltd,1,0,2972.32,0.0
-King PLC,3,0,9495.960000000001,0.0
-King and Sons,1,0,180.96,0.0
-"King, Branch and Ware",1,0,2991.7,0.0
-King-Barry,1,0,3108.15,0.0
-King-Roberts,1,0,3422.56,0.0
-Knight and Sons,1,0,848.83,0.0
-"Knight, Kelly and Miller",1,0,3354.4,0.0
-"Knight, Morales and Silva",1,1,1409.37,100.0
-"Koch, Morgan and Moore",1,0,814.38,0.0
-"Krause, White and Brown",1,0,4097.17,0.0
-Landry PLC,1,0,3053.55,0.0
-"Lane, Daniels and Jordan",1,0,2983.14,0.0
-Lane-Brown,1,1,3964.12,100.0
-Lang-Davis,1,0,1291.11,0.0
-Lawrence-Lane,1,0,629.21,0.0
-"Lawson, Hill and Arroyo",1,1,2060.31,100.0
-"Lawson, Martin and Castaneda",1,0,2101.17,0.0
-"Le, Shaw and Walter",1,1,3935.94,100.0
-Le-Harper,1,0,4508.38,0.0
-"Leach, Williams and Garrett",1,1,2364.78,100.0
-Lee Ltd,1,1,4058.09,100.0
-"Lee, Jenkins and Brown",1,0,3033.37,0.0
-"Lee, Moore and Mata",1,0,4083.37,0.0
-Lee-Jackson,1,0,1343.87,0.0
-Lee-Mccann,1,1,4642.27,100.0
-Leonard PLC,1,0,3401.94,0.0
-Leonard-King,1,0,2237.67,0.0
-Lester PLC,1,0,753.22,0.0
-Lester and Sons,1,0,252.29,0.0
-"Lewis, Robertson and Whitaker",1,0,1358.16,0.0
-Lewis-Garrett,1,0,3070.05,0.0
-Li Inc,1,0,2038.02,0.0
-Li-Vargas,1,0,2822.32,0.0
-Little LLC,1,0,3383.27,0.0
-"Little, Cunningham and Carter",1,0,3168.92,0.0
-Liu-Parker,1,0,2254.56,0.0
-"Logan, Cohen and Long",1,0,2005.15,0.0
-Long and Sons,1,0,4409.73,0.0
-"Long, Collins and Donovan",1,0,529.5,0.0
-"Long, Rose and Santana",1,0,1004.64,0.0
-Long-Edwards,1,1,2046.86,100.0
-Lopez Ltd,1,1,1262.52,100.0
-Lopez PLC,1,0,2982.58,0.0
-Lopez and Sons,1,0,1506.67,0.0
-"Lopez, Harris and Dennis",1,1,784.17,100.0
-"Lopez, Jackson and Jackson",1,1,4801.09,100.0
-Lopez-Banks,1,1,295.16,100.0
-Lopez-Bryant,1,0,220.56,0.0
-Lopez-Clark,1,0,2197.96,0.0
-Love Inc,1,0,3120.89,0.0
-"Lowery, Nichols and Johnson",1,0,3292.96,0.0
-Lyons Ltd,1,0,4439.07,0.0
-Lyons-Brown,1,0,1852.99,0.0
-Malone-Ray,1,0,2666.78,0.0
-Malone-Smith,1,1,740.34,100.0
-Mann-Scott,1,1,2739.13,100.0
-Manning Ltd,1,0,241.02,0.0
-Marks-Daniel,1,1,1605.11,100.0
-"Marquez, Rodriguez and Carter",1,0,175.16,0.0
-Marquez-Wolfe,1,0,4713.5,0.0
-Marshall PLC,1,0,4480.47,0.0
-Martin Inc,2,0,4883.88,0.0
-"Martin, Andrews and Williamson",1,1,4110.63,100.0
-"Martin, Hall and Reyes",1,0,2481.0,0.0
-"Martin, Medina and Hunter",1,1,618.73,100.0
-"Martin, Nguyen and Ellis",1,0,337.54,0.0
-Martin-Green,1,0,2127.54,0.0
-Martinez Group,1,0,1853.24,0.0
-Martinez Inc,1,1,2913.46,100.0
-Martinez and Sons,2,0,6403.76,0.0
-"Martinez, Erickson and Schultz",1,0,514.93,0.0
-"Martinez, Kennedy and Mendoza",1,1,1253.34,100.0
-"Martinez, Lewis and Freeman",1,0,556.93,0.0
-"Martinez, Patterson and Brown",1,0,2503.47,0.0
-"Martinez, Sparks and Hammond",1,1,2510.83,100.0
-Martinez-Bridges,1,0,1388.96,0.0
-Martinez-Gonzalez,1,0,2038.77,0.0
-Massey PLC,1,0,4426.02,0.0
-Mathis-Garcia,1,0,3972.13,0.0
-Matthews PLC,1,0,1964.61,0.0
-Maxwell-Navarro,1,0,2718.65,0.0
-May Inc,1,0,3757.52,0.0
-May-Shelton,1,0,3094.5,0.0
-Mccall-Mathis,1,1,2637.79,100.0
-"Mccarthy, Cooper and Robertson",1,1,644.36,100.0
-"Mccarthy, Oliver and Wheeler",1,0,3849.33,0.0
-Mccarthy-Ramos,1,0,4762.71,0.0
-Mccoy Group,1,0,1771.8,0.0
-Mccoy PLC,1,0,1783.88,0.0
-"Mccullough, Burns and Rojas",1,0,461.89,0.0
-Mcdaniel-Middleton,1,0,3228.24,0.0
-"Mcdonald, Bonilla and Jones",1,0,2420.93,0.0
-"Mcdowell, Mcintyre and Thomas",1,0,2695.75,0.0
-Mcgrath Inc,1,1,4774.42,100.0
-Mcgrath-Henderson,1,0,944.17,0.0
-Mckay Ltd,1,0,4575.14,0.0
-Mcknight LLC,1,0,3658.95,0.0
-Mcmillan-Richardson,1,0,2921.84,0.0
-Mcneil LLC,1,1,1279.17,100.0
-"Meadows, Hoover and Thompson",1,0,360.68,0.0
-Medina-Thompson,1,0,4249.68,0.0
-Mendez Inc,1,0,2786.39,0.0
-Mendez and Sons,1,1,4545.46,100.0
-Mendez-Johnson,1,1,1870.53,100.0
-Mendez-Pennington,1,0,2181.94,0.0
-Mendoza and Sons,1,0,3881.34,0.0
-"Mendoza, Sims and Garcia",1,0,323.19,0.0
-Mendoza-Price,1,0,146.06,0.0
-Mercado-Smith,1,1,2688.92,100.0
-Merritt-Kemp,1,1,2817.56,100.0
-"Michael, Green and Conrad",1,0,3587.5,0.0
-"Miles, Cunningham and Jones",1,1,1384.3,100.0
-Miller PLC,1,0,4305.4,0.0
-"Miller, Miller and Conner",1,0,2759.16,0.0
-"Miller, Washington and Collins",1,0,2590.84,0.0
-Miller-Stevenson,1,1,1155.94,100.0
-Miller-Swanson,1,1,1998.89,100.0
-"Mills, Stein and Baker",1,1,2170.27,100.0
-Mitchell Inc,1,1,1230.02,100.0
-"Mitchell, Holt and Harvey",1,0,2290.68,0.0
-Mitchell-Greer,1,1,4822.63,100.0
-Mitchell-Kelly,1,1,1471.56,100.0
-Mitchell-Rodriguez,1,0,4068.52,0.0
-Moore LLC,2,0,6194.76,0.0
-Moore and Sons,1,0,4431.1,0.0
-Moore-Garcia,1,0,4709.61,0.0
-Moore-Herman,1,0,4304.79,0.0
-Moreno and Sons,1,1,478.12,100.0
-"Moreno, Garcia and Hanson",1,0,4459.52,0.0
-Morgan and Sons,1,0,868.49,0.0
-Morgan-Sherman,1,0,158.74,0.0
-Morris PLC,1,0,3293.21,0.0
-Morris-Hull,1,0,4198.11,0.0
-Morrison and Sons,1,0,2806.45,0.0
-"Morrison, English and Jackson",1,0,1248.15,0.0
-Morrison-Santos,1,0,3900.47,0.0
-"Moses, Rodriguez and Harper",1,0,1475.38,0.0
-Moses-Stanley,1,0,4058.46,0.0
-Moss Inc,1,1,4191.62,100.0
-"Moss, Little and Copeland",1,1,780.39,100.0
-Munoz PLC,1,0,3208.85,0.0
-"Munoz, Young and Stark",1,0,3776.87,0.0
-"Murphy, Gutierrez and Odonnell",1,0,637.38,0.0
-"Murphy, Hernandez and Duncan",1,0,361.56,0.0
-"Murphy, Levy and Carlson",1,0,3846.56,0.0
-"Murphy, Stephens and Coleman",1,0,1060.66,0.0
-Murphy-Lewis,1,0,3158.73,0.0
-Murphy-Wu,1,1,2184.11,100.0
-Murray and Sons,1,0,3978.13,0.0
-"Myers, Harvey and Woodward",1,1,3036.81,100.0
-Navarro PLC,1,0,718.03,0.0
-Navarro-Avila,1,0,3077.23,0.0
-"Nelson, Davidson and Smith",1,0,2236.86,0.0
-"Nelson, Glenn and Hodge",1,0,4445.35,0.0
-Newman LLC,1,0,2168.14,0.0
-Newman-Frye,1,0,2488.51,0.0
-Nguyen Group,1,1,1111.52,100.0
-"Nguyen, Stein and Carter",1,0,74.6,0.0
-"Nguyen, Thompson and Hines",1,0,628.03,0.0
-Norris Group,1,0,2902.75,0.0
-"Norris, Harrison and Hansen",1,0,1764.89,0.0
-Nunez-Lee,1,0,2333.91,0.0
-Oliver LLC,1,0,1495.95,0.0
-Olson PLC,1,0,2728.84,0.0
-Olson-Dixon,1,1,4918.52,100.0
-Oneal and Sons,1,0,4196.95,0.0
-Orozco-Rodriguez,1,0,3886.88,0.0
-Orr Group,1,1,3848.73,100.0
-Orr and Sons,1,0,3876.62,0.0
-Orr-Rodriguez,1,1,4125.86,100.0
-"Ortega, Wilson and Allen",1,0,3965.7,0.0
-"Ortiz, Kane and George",1,0,4660.79,0.0
-"Ortiz, Morrow and Howard",1,0,1795.6,0.0
-Ortiz-Crawford,1,1,4708.28,100.0
-Osborn LLC,1,0,1020.3,0.0
-"Owen, Melton and Richardson",1,0,2453.35,0.0
-"Padilla, Lane and Howard",1,0,4917.25,0.0
-Page-Mcknight,1,0,1124.59,0.0
-Parker and Sons,2,1,2943.08,50.0
-"Parker, Hall and Mendoza",1,1,3718.88,100.0
-"Parker, Lawrence and Castillo",1,0,3408.33,0.0
-Parker-Ortiz,1,0,1917.31,0.0
-Parks-Guzman,1,1,3116.04,100.0
-Parks-Molina,1,0,4196.13,0.0
-Parsons Ltd,1,0,98.09,0.0
-Parsons-Harris,1,0,213.22,0.0
-Patel Group,1,0,1750.01,0.0
-Patel Inc,1,0,2241.68,0.0
-Patel-Joseph,1,0,3690.44,0.0
-Patel-Mccarthy,1,0,412.61,0.0
-Patrick LLC,1,0,186.92,0.0
-Patrick-Goodman,1,1,3865.91,100.0
-Paul-Lopez,1,0,774.58,0.0
-Payne-Reyes,1,1,4844.28,100.0
-Pearson PLC,1,0,648.05,0.0
-"Pena, Malone and Lee",1,0,884.22,0.0
-Pena-Herman,1,0,2816.55,0.0
-Perez Group,2,0,9778.73,0.0
-Perez LLC,1,0,2598.46,0.0
-"Perez, Delacruz and Rodgers",1,0,1978.04,0.0
-Perez-Carlson,1,0,1751.89,0.0
-Perry-Frank,1,1,2993.06,100.0
-"Peterson, Beard and Jones",1,0,1077.91,0.0
-Peterson-Burke,1,1,2934.3,100.0
-Phelps Inc,1,0,2938.03,0.0
-Phillips Ltd,1,0,2236.81,0.0
-"Phillips, Collins and Graham",1,0,2543.47,0.0
-"Phillips, Moyer and Valdez",1,1,1270.32,100.0
-Pierce and Sons,1,0,3599.03,0.0
-"Pierce, Gray and Wise",1,0,629.71,0.0
-"Pierce, Wright and Taylor",1,0,755.05,0.0
-Ponce-Dixon,1,0,3668.97,0.0
-Ponce-Price,1,0,3372.52,0.0
-Poole-Hunt,1,0,4829.82,0.0
-"Pope, Ramirez and Mora",1,0,133.64,0.0
-Porter Inc,1,0,1875.61,0.0
-"Porter, Alvarez and Boyd",1,0,1508.54,0.0
-Porter-Jackson,1,0,377.27,0.0
-"Potter, Lee and Smith",1,1,4025.14,100.0
-Powell Group,1,0,2301.43,0.0
-Powell Inc,1,0,1814.89,0.0
-Powell-Salazar,1,0,2822.98,0.0
-Powers Group,1,0,4516.99,0.0
-Pratt Inc,1,0,2136.49,0.0
-"Preston, Hurst and Bennett",1,0,1045.05,0.0
-"Price, Conley and Jones",1,0,510.76,0.0
-"Price, Higgins and Mccann",1,0,3952.52,0.0
-"Prince, Nichols and Reyes",1,0,1928.64,0.0
-Pruitt Ltd,1,0,1524.45,0.0
-Ramirez LLC,1,0,2342.54,0.0
-"Ramirez, Howard and Parks",1,1,2788.32,100.0
-"Ramirez, Mejia and Friedman",1,0,3303.76,0.0
-"Ramirez, Stephens and Rodriguez",1,0,2583.61,0.0
-Ramirez-Alvarez,1,0,2062.5,0.0
-Ramos LLC,1,0,2958.59,0.0
-Ramos PLC,1,0,2808.61,0.0
-"Ramos, Davis and Atkins",1,0,4051.42,0.0
-Ramos-Cardenas,1,0,127.8,0.0
-Ramos-Miller,1,0,1061.14,0.0
-Ramos-Rogers,1,0,2216.21,0.0
-Randall-Li,1,1,657.15,100.0
-Rangel-Freeman,1,1,3575.84,100.0
-Ray-Rodriguez,1,0,2789.68,0.0
-Reeves-Bishop,1,0,4131.86,0.0
-Reeves-Shah,1,0,1366.99,0.0
-Reyes-Blackburn,1,0,4378.96,0.0
-Reynolds-Alexander,1,0,300.91,0.0
-Rice-Hall,1,1,1965.94,100.0
-"Richard, Shepherd and Salas",1,1,1679.24,100.0
-Richards and Sons,1,1,1570.56,100.0
-Richards-Romero,1,1,2865.6,100.0
-"Richardson, Simpson and Reilly",1,0,1639.83,0.0
-Richardson-Phillips,1,1,1011.13,100.0
-Riggs-Gallagher,1,0,3514.48,0.0
-Riley Ltd,1,0,28.05,0.0
-Riley-Foster,1,0,3588.03,0.0
-Rivas Inc,1,0,4497.05,0.0
-"Rivas, Perez and Sutton",1,0,2594.97,0.0
-"Rivera, Cook and Martin",1,0,3841.75,0.0
-"Rivera, Parker and Reed",1,0,3518.99,0.0
-"Robbins, Watts and Walker",1,0,716.04,0.0
-Robbins-Cannon,1,0,1085.96,0.0
-"Roberts, Miller and Barry",1,0,3482.19,0.0
-"Roberts, Rodriguez and Wilkerson",1,1,1235.3,100.0
-Roberts-Williams,1,0,1397.37,0.0
-Robertson Inc,1,0,4270.51,0.0
-Robertson and Sons,1,0,1793.16,0.0
-Robinson Ltd,1,0,1150.56,0.0
-Robinson PLC,3,1,8624.01,33.33
-"Robinson, Ferguson and Summers",1,0,463.72,0.0
-Robinson-Stafford,1,0,1088.42,0.0
-Robinson-Suarez,1,0,4550.99,0.0
-Robinson-Taylor,1,1,346.62,100.0
-Robles-Spears,1,1,3050.16,100.0
-Rodgers LLC,1,0,583.11,0.0
-Rodriguez LLC,2,0,5308.66,0.0
-Rodriguez PLC,1,0,4292.9,0.0
-"Rodriguez, Bailey and Cruz",1,0,797.7,0.0
-"Rodriguez, Hernandez and Pace",1,0,1327.39,0.0
-"Rodriguez, Snyder and Flores",1,0,2001.67,0.0
-Rodriguez-Bennett,1,1,2492.44,100.0
-Rodriguez-Gill,1,0,2826.83,0.0
-Rogers Group,1,0,205.05,0.0
-"Rogers, Jordan and Williams",1,0,1972.71,0.0
-Rogers-Smith,1,1,629.68,100.0
-Romero Ltd,1,1,1360.25,100.0
-Romero and Sons,1,1,577.06,100.0
-Rosales-Hammond,1,1,4038.65,100.0
-Ross-Mcgee,1,0,2349.08,0.0
-Ross-Peterson,1,0,2997.03,0.0
-Roth-Garrett,1,0,173.57,0.0
-"Rubio, Adams and Cummings",1,1,1589.58,100.0
-Ruiz Inc,1,0,3936.96,0.0
-Ryan Inc,1,1,4016.33,100.0
-"Ryan, Fernandez and Martinez",1,0,2002.22,0.0
-"Salas, Marsh and James",1,1,1159.02,100.0
-"Salazar, Gould and Matthews",1,0,2448.06,0.0
-Salinas PLC,1,0,1589.87,0.0
-"Salinas, Holloway and Miller",1,0,1680.7,0.0
-Sanchez and Sons,1,0,3610.77,0.0
-Sanders PLC,1,0,3754.07,0.0
-Sanders and Sons,1,1,4838.83,100.0
-"Sanders, Brown and Rodriguez",1,1,3729.72,100.0
-"Sanders, York and Kidd",1,0,2597.56,0.0
-"Sandoval, Rivera and Jackson",1,0,3096.72,0.0
-Schmidt-Wall,1,0,4367.96,0.0
-Schneider and Sons,1,0,1725.2,0.0
-Schneider-Castro,1,0,3318.52,0.0
-"Schroeder, Ruiz and Thomas",1,0,1431.36,0.0
-"Schroeder, Wilson and Martin",1,0,3183.55,0.0
-"Schultz, Hudson and Brooks",1,1,4299.96,100.0
-Scott PLC,1,0,3492.99,0.0
-Scott-Robinson,1,0,4359.1,0.0
-Shaffer-Taylor,1,0,4158.49,0.0
-"Shelton, Hensley and Holloway",1,0,2491.41,0.0
-"Shelton, Moreno and Howard",1,1,974.77,100.0
-Shelton-Cherry,1,0,2704.21,0.0
-"Shepard, Garcia and Wright",1,0,3739.18,0.0
-Sherman Group,1,0,1458.84,0.0
-Shields-Jordan,1,0,1556.27,0.0
-Short Group,1,0,4684.33,0.0
-Silva Inc,1,0,4164.34,0.0
-"Silva, Garcia and Meyer",1,0,3769.68,0.0
-"Silva, Johnson and Morrison",1,0,1014.22,0.0
-Silva-Watkins,1,0,3399.79,0.0
-Simmons-Buck,1,0,4301.56,0.0
-Simmons-Moore,1,1,3393.67,100.0
-Simpson Inc,1,1,3272.55,100.0
-"Simpson, Garcia and Miller",1,0,440.4,0.0
-Sims Ltd,1,0,1545.37,0.0
-Singh-Garcia,1,0,3484.12,0.0
-Skinner-Richardson,1,0,4487.72,0.0
-Sloan Inc,1,0,4564.22,0.0
-Small-Reid,1,0,2091.18,0.0
-Smith Group,1,0,1625.02,0.0
-Smith Inc,3,0,8588.95,0.0
-Smith LLC,3,1,4441.5,33.33
-Smith Ltd,2,1,3954.99,50.0
-Smith and Sons,2,1,2449.41,50.0
-"Smith, Anderson and Martin",1,0,1957.94,0.0
-"Smith, Carey and Wilcox",1,0,1005.35,0.0
-"Smith, Fuller and Collins",1,1,3022.32,100.0
-"Smith, Palmer and Baker",1,0,4800.41,0.0
-"Smith, Palmer and Bradford",1,0,3300.71,0.0
-"Smith, Small and Scott",1,0,1454.69,0.0
-"Smith, Thompson and Riley",1,0,439.51,0.0
-"Smith, Wright and Thompson",1,0,800.86,0.0
-Smith-Bennett,1,0,2688.12,0.0
-Smith-Fitzgerald,1,1,3354.74,100.0
-Smith-Mcdonald,1,1,2195.05,100.0
-Smith-Miller,1,1,346.57,100.0
-Smith-Smith,1,0,320.87,0.0
-Smith-Tate,1,0,2381.28,0.0
-"Snow, Day and Mueller",1,0,3730.33,0.0
-Snyder-Lamb,1,0,1074.28,0.0
-Solis and Sons,1,0,2737.53,0.0
-Sosa-Michael,1,1,2471.3,100.0
-Sparks LLC,1,0,1841.55,0.0
-"Stafford, Martinez and Thomas",1,0,4720.61,0.0
-"Stanley, Jones and Peterson",1,0,203.37,0.0
-Stark PLC,1,0,263.3,0.0
-"Stephens, Petersen and Santos",1,0,304.97,0.0
-"Stevenson, Brown and Smith",1,0,2180.43,0.0
-Stewart and Sons,1,0,4361.77,0.0
-"Stewart, Harris and Best",1,0,79.6,0.0
-Strickland PLC,1,0,537.85,0.0
-Strickland and Sons,1,1,268.07,100.0
-Sullivan Inc,1,0,2006.3,0.0
-"Sutton, Cross and Vaughn",1,0,3736.18,0.0
-Taylor Inc,1,0,2826.41,0.0
-"Taylor, Mcdonald and Walker",1,0,446.56,0.0
-"Taylor, Walker and Castillo",1,1,2922.09,100.0
-"Taylor, Walker and Johnson",1,0,1658.8,0.0
-Taylor-Mathews,1,1,2683.92,100.0
-Terry PLC,1,0,1296.5,0.0
-Thomas Group,1,0,4046.55,0.0
-Thomas Ltd,3,1,5626.030000000001,33.33
-"Thomas, Glass and Gibson",1,0,4093.28,0.0
-"Thomas, Nguyen and Jones",1,1,1966.45,100.0
-"Thomas, Ramsey and Stevenson",1,1,2329.32,100.0
-Thomas-Pearson,1,0,2425.0,0.0
-Thompson Group,2,2,6948.84,100.0
-Thompson PLC,1,1,441.43,100.0
-Thompson-King,1,0,205.72,0.0
-Todd-Travis,1,1,1238.56,100.0
-"Torres, Wood and Zamora",1,0,761.97,0.0
-"Torres, Young and Baker",1,0,2193.27,0.0
-Torres-Williams,1,0,3580.58,0.0
-Townsend-Lee,1,1,4416.53,100.0
-"Travis, Adams and Rios",1,1,4587.07,100.0
-"Turner, Lozano and Delgado",1,1,4238.21,100.0
-"Turner, Oconnor and Paul",1,0,2889.99,0.0
-Turner-Young,1,1,2616.45,100.0
-"Vasquez, Lewis and Carroll",1,1,276.92,100.0
-"Vasquez, Neal and Singleton",1,0,2093.95,0.0
-"Vasquez, Salazar and Nelson",1,0,308.53,0.0
-Vaughan and Sons,1,0,237.03,0.0
-Vega PLC,1,0,610.66,0.0
-"Vega, Turner and Baker",1,0,2985.07,0.0
-Vega-Levy,1,0,4318.24,0.0
-Velasquez LLC,1,0,2807.57,0.0
-"Velasquez, Franklin and Powers",1,0,4914.22,0.0
-"Velasquez, Hill and Williams",1,0,1321.32,0.0
-Villanueva Inc,1,0,13.92,0.0
-Vincent and Sons,1,1,3368.35,100.0
-"Wade, Brown and Jenkins",1,0,36.79,0.0
-Walker Inc,2,1,6433.889999999999,50.0
-Walker Ltd,2,1,3781.17,50.0
-"Walker, Gomez and Fernandez",1,0,4445.03,0.0
-"Walker, Taylor and Wagner",1,1,3396.2,100.0
-Walker-Brown,1,1,2642.85,100.0
-Walsh and Sons,1,0,2870.65,0.0
-"Walsh, Clayton and Bradshaw",1,0,2000.4,0.0
-"Ward, Luna and Valencia",1,0,4268.27,0.0
-"Ward, Santiago and Kirk",1,1,930.37,100.0
-"Warner, Peters and Green",1,1,2642.01,100.0
-Warren-Atkinson,1,0,1850.8,0.0
-Warren-Oconnell,1,0,3492.64,0.0
-"Washington, Stevens and Stone",1,1,830.61,100.0
-"Waters, Proctor and Davis",1,0,1397.38,0.0
-Watson Inc,1,0,1934.58,0.0
-Watson Ltd,1,0,2340.88,0.0
-Watson and Sons,1,1,4414.55,100.0
-Webb LLC,1,0,1325.9,0.0
-Webb Ltd,1,0,3499.29,0.0
-Webb and Sons,1,1,4407.79,100.0
-"Weber, Franco and Alvarez",1,1,1621.84,100.0
-Welch LLC,1,0,785.52,0.0
-Wells Group,1,0,2245.92,0.0
-"Wells, Jones and Gardner",1,0,4772.78,0.0
-"Wells, Lewis and Kelly",1,0,4193.54,0.0
-Werner-Lee,1,0,3446.51,0.0
-Werner-Mcdonald,1,0,1793.94,0.0
-West and Sons,1,0,556.66,0.0
-"West, Ramirez and Johnson",1,0,4329.54,0.0
-West-Kelly,1,0,1072.64,0.0
-Wheeler Group,1,0,3408.88,0.0
-"Wheeler, Stephens and Houston",1,0,3648.64,0.0
-White Inc,1,1,574.05,100.0
-White PLC,1,0,3969.55,0.0
-"White, Fowler and Lynch",1,0,3661.78,0.0
-"White, Humphrey and Jones",1,0,4614.64,0.0
-"White, Koch and Ross",1,0,3155.6,0.0
-"White, Ortiz and Williams",1,0,1450.03,0.0
-White-Lester,1,1,2109.1,100.0
-"Whitehead, Hurley and Duncan",1,0,1842.49,0.0
-"Wiggins, Lee and Carr",1,0,2336.26,0.0
-Wilcox LLC,1,0,4579.14,0.0
-Wilcox-Drake,1,0,392.46,0.0
-Wilkins-Maynard,1,0,1356.67,0.0
-Williams Group,2,0,7914.28,0.0
-Williams Inc,2,0,8599.39,0.0
-Williams and Sons,1,1,1564.31,100.0
-"Williams, Hawkins and Jones",1,0,4502.24,0.0
-"Williams, Jordan and Armstrong",1,1,4703.17,100.0
-"Williams, Moore and Young",1,0,2555.63,0.0
-"Williams, Russell and Foster",1,1,1813.77,100.0
-"Williams, Taylor and Barnes",1,0,2336.61,0.0
-"Williams, Wolf and Hughes",1,0,4149.72,0.0
-Williams-Hughes,1,0,2119.47,0.0
-Williams-Merritt,1,0,2588.14,0.0
-Willis-Barron,1,1,78.68,100.0
-Wilson Ltd,1,1,1981.63,100.0
-"Wilson, Dennis and Perez",1,0,2136.41,0.0
-"Wilson, Jones and Mccoy",1,1,2682.17,100.0
-"Wilson, Oliver and Sanchez",1,1,877.2,100.0
-"Wilson, Rosales and Cole",1,0,864.82,0.0
-Wilson-Townsend,1,0,4033.47,0.0
-Wise and Sons,1,0,4925.16,0.0
-"Wolf, Herrera and Olsen",1,0,818.95,0.0
-"Wolf, Taylor and Wilson",1,0,1838.18,0.0
-Wong-Peterson,1,0,3601.44,0.0
-Wood Group,1,0,3569.19,0.0
-"Wood, Buchanan and Ayers",1,1,2112.31,100.0
-"Woodard, Cole and Smith",1,0,884.68,0.0
-"Woods, Williams and Henry",1,0,2871.56,0.0
-Wright Group,1,0,4304.95,0.0
-"Wright, Lucas and Johnson",1,0,13.84,0.0
-"Wright, Stewart and Herman",1,0,4530.85,0.0
-Wright-Aguirre,1,0,548.48,0.0
-Wright-Higgins,1,0,3486.73,0.0
-Wyatt-Ross,1,0,1334.38,0.0
-"Yang, Esparza and Sanders",1,0,395.74,0.0
-"Yang, Gonzalez and Anderson",1,1,3100.68,100.0
-"Yang, Vaughn and Ayers",1,0,165.28,0.0
-Young Group,1,0,2129.75,0.0
-"Young, Nelson and Schmidt",1,0,4903.42,0.0
-Young-Bishop,1,0,3256.16,0.0
-Young-Giles,1,0,4706.16,0.0
-Young-Young,1,0,3476.04,0.0
-Zamora and Sons,1,0,4361.61,0.0
-Zimmerman-Franklin,1,0,455.82,0.0
+Acosta Inc,1,0,196.8,0.0
+"Adams, Gonzalez and Morales",1,0,4110.24,0.0
+"Adams, Guzman and Delgado",1,1,2329.72,100.0
+"Adams, Krueger and Johnson",1,1,998.88,100.0
+Adams-Bauer,1,1,3007.7,100.0
+Adams-Gutierrez,1,0,2589.64,0.0
+Adams-Mills,1,0,3044.92,0.0
+Adams-Wallace,1,0,3704.42,0.0
+Aguilar Ltd,1,1,4793.14,100.0
+Aguilar-Johnston,1,0,3698.55,0.0
+Alexander LLC,1,0,3922.38,0.0
+Allen PLC,1,0,3259.25,0.0
+Allen-Jenkins,1,0,4927.9,0.0
+Allen-Walter,1,0,776.96,0.0
+Allison-Sharp,1,0,4962.52,0.0
+Andersen PLC,1,0,3176.68,0.0
+Andersen-Gonzalez,1,0,3910.2,0.0
+Anderson Inc,1,0,2229.26,0.0
+"Anderson, Jones and Brown",1,1,2893.49,100.0
+"Anderson, Singleton and Carroll",1,0,557.94,0.0
+"Anderson, White and Cannon",1,0,4228.64,0.0
+Andrews-Hahn,1,0,2987.16,0.0
+Anthony Inc,1,0,4185.05,0.0
+Anthony LLC,1,0,4129.51,0.0
+Armstrong-Weiss,1,0,10.64,0.0
+Arnold Group,2,0,3704.6899999999996,0.0
+Arnold-Sharp,1,0,1383.71,0.0
+Avila Ltd,1,0,3261.84,0.0
+Avila-Simon,1,0,4508.39,0.0
+Ayers LLC,1,0,345.69,0.0
+Bailey PLC,1,0,795.26,0.0
+"Bailey, Huang and Burns",1,0,1156.18,0.0
+Bailey-Becker,1,0,414.69,0.0
+"Baker, Bishop and Ellis",1,0,4726.97,0.0
+"Baker, Espinoza and Mcintosh",1,1,964.98,100.0
+Baldwin Group,1,0,4686.3,0.0
+Ball Ltd,1,1,1092.49,100.0
+Ball PLC,1,0,135.96,0.0
+Ballard-Brooks,1,1,4260.07,100.0
+"Banks, Arellano and Fields",1,0,530.83,0.0
+"Banks, Haney and Ramos",1,0,1552.32,0.0
+"Barnes, Nelson and Lam",1,0,1416.47,0.0
+"Barnett, Edwards and Ashley",1,0,420.54,0.0
+Barr LLC,1,0,3181.65,0.0
+Barrett Group,1,1,4772.76,100.0
+"Barron, Richard and Williams",1,1,3858.98,100.0
+"Barron, Vasquez and Hernandez",1,0,3571.44,0.0
+Barry Inc,2,0,8156.91,0.0
+Barton-Le,1,1,751.98,100.0
+Barton-Moore,1,0,854.94,0.0
+Barton-Sloan,1,1,3603.65,100.0
+Bass LLC,1,0,2006.5,0.0
+Baxter and Sons,1,0,1286.87,0.0
+"Bean, Mullins and Bennett",1,0,1396.61,0.0
+Beck Ltd,1,0,1436.16,0.0
+Bell Group,1,0,1754.95,0.0
+Bell-Davis,1,0,3773.28,0.0
+Bell-Hodges,1,1,1080.96,100.0
+Benjamin and Sons,1,0,2512.4,0.0
+"Bennett, Best and Mendoza",1,0,376.41,0.0
+Bennett-Oconnell,1,0,3900.69,0.0
+Bennett-Rhodes,1,0,4936.88,0.0
+"Berg, Wright and Boyd",1,0,323.82,0.0
+"Berger, Cruz and King",1,1,4924.78,100.0
+Berger-Smith,1,0,2876.4,0.0
+"Bernard, Contreras and Hernandez",1,0,1923.5,0.0
+Berry Group,1,1,440.84,100.0
+Berry-Brown,1,0,2865.64,0.0
+"Best, Best and Smith",1,0,2644.5,0.0
+Bird PLC,1,0,4130.89,0.0
+"Bishop, Coleman and Garner",1,0,2338.9,0.0
+"Bishop, Collier and Zimmerman",1,1,517.92,100.0
+"Bishop, Johnson and Boyle",1,0,1072.3,0.0
+Bishop-Martin,1,0,2740.73,0.0
+Black Group,1,1,15.2,100.0
+Black Ltd,1,0,2839.93,0.0
+"Black, Turner and Mueller",1,1,3014.0,100.0
+Blair Ltd,1,0,2652.11,0.0
+Blair-Snyder,1,0,2772.23,0.0
+"Blanchard, Castaneda and Best",1,0,113.66,0.0
+"Blanchard, Moran and Garcia",1,1,1877.02,100.0
+"Blanchard, Vasquez and Carrillo",1,0,1905.19,0.0
+"Bonilla, Wilson and Romero",1,0,2265.07,0.0
+Bowen LLC,1,0,534.77,0.0
+Bowman Ltd,1,1,3874.8,100.0
+"Boyer, Allen and Smith",1,0,4997.49,0.0
+"Bradley, Yu and Young",1,1,4956.05,100.0
+Bradshaw-Garcia,1,0,251.78,0.0
+Brady Group,1,0,1347.32,0.0
+Braun-Lowe,1,1,1748.06,100.0
+"Brewer, Smith and Curry",1,1,4282.22,100.0
+Brewer-Kim,1,0,3507.03,0.0
+Brewer-Zimmerman,1,0,3375.82,0.0
+Bright-Smith,1,0,2952.34,0.0
+Brown Group,1,0,3493.84,0.0
+Brown LLC,1,1,3259.55,100.0
+Brown and Sons,1,0,594.32,0.0
+"Brown, Kelley and Davis",1,1,2261.61,100.0
+"Brown, Reyes and Nichols",1,0,1743.97,0.0
+Brown-Fisher,1,0,1588.55,0.0
+Brown-Henderson,1,1,1492.7,100.0
+Brown-Jensen,1,1,4636.36,100.0
+Brown-Reyes,1,0,663.75,0.0
+Brown-Stevenson,1,0,3458.5,0.0
+Brown-Terrell,1,1,593.31,100.0
+Brown-Waters,1,0,1757.58,0.0
+Bruce-Williams,1,0,2527.21,0.0
+Bryant Inc,1,1,4564.83,100.0
+Bryant Ltd,1,0,3114.81,0.0
+Buchanan and Sons,1,0,4131.36,0.0
+"Buchanan, Brooks and Schultz",1,0,3633.22,0.0
+"Buchanan, Osborne and Moon",1,0,689.2,0.0
+Burgess-Jackson,1,0,996.06,0.0
+"Burnett, Singleton and Armstrong",1,0,2678.81,0.0
+"Burton, Horton and Howard",1,0,2950.7,0.0
+Bush-Berry,1,0,4502.83,0.0
+"Butler, Reed and Castaneda",1,1,4203.21,100.0
+Butler-Bennett,1,0,2309.99,0.0
+Byrd Ltd,1,0,4021.58,0.0
+Cain-James,1,1,1756.86,100.0
+Caldwell Ltd,1,0,590.54,0.0
+Callahan-Miller,1,1,3452.58,100.0
+"Camacho, Hoffman and Rogers",1,0,1939.55,0.0
+Cameron LLC,1,0,3674.85,0.0
+"Campbell, Espinoza and Jones",1,0,3559.92,0.0
+Campbell-Sosa,1,0,4321.91,0.0
+"Campos, Phillips and Henderson",1,1,979.42,100.0
+Cardenas Group,1,0,4589.2,0.0
+"Carpenter, Hood and Wright",1,1,1225.46,100.0
+Carson Ltd,1,0,557.31,0.0
+Carter Inc,1,0,3067.84,0.0
+Carter LLC,1,1,3702.26,100.0
+"Carter, Jones and Meyers",1,0,3091.51,0.0
+Carter-Murphy,1,0,4075.16,0.0
+Carter-West,1,1,791.33,100.0
+Casey-Martin,1,0,1192.55,0.0
+Castaneda Ltd,1,0,3408.61,0.0
+Castro Ltd,1,0,119.58,0.0
+Castro PLC,1,0,2712.62,0.0
+Castro-Dickson,1,0,347.74,0.0
+Castro-Gonzalez,1,0,1259.21,0.0
+Cervantes Group,1,1,1881.51,100.0
+"Chan, Hayden and Wood",1,0,4083.78,0.0
+Chandler LLC,1,0,21.55,0.0
+Chandler-Thompson,1,0,2431.02,0.0
+Chaney LLC,1,0,4302.44,0.0
+"Chang, Frost and Allen",1,0,1207.14,0.0
+Chang-Nielsen,1,0,2142.29,0.0
+Chapman PLC,1,1,3322.19,100.0
+"Chapman, Zimmerman and Williams",1,0,2977.9,0.0
+Chapman-English,1,0,961.32,0.0
+"Chase, Wilson and Shaw",1,0,2479.22,0.0
+Chavez Group,1,0,2941.94,0.0
+Chen Ltd,1,0,489.6,0.0
+"Chen, Hobbs and Jordan",1,0,4475.6,0.0
+"Christensen, Barber and Marquez",1,0,644.54,0.0
+Christensen-Avila,1,1,2419.79,100.0
+Christensen-Stewart,1,0,2406.42,0.0
+Christian-Morales,1,0,3706.04,0.0
+Chung-Cook,1,0,147.97,0.0
+Clark LLC,1,0,2697.07,0.0
+"Clark, Gibson and Castillo",1,0,2482.58,0.0
+"Clark, Harper and Chavez",1,1,833.5,100.0
+"Clark, Wells and Anderson",1,0,859.27,0.0
+"Clark, White and Rodriguez",1,0,703.95,0.0
+"Clark, Willis and Wilson",1,0,4832.81,0.0
+Clark-Gutierrez,1,0,1067.74,0.0
+Clarke-Murphy,1,1,2131.48,100.0
+"Clay, Anderson and Turner",1,0,1940.15,0.0
+Clay-Carter,1,1,4811.5,100.0
+Clayton and Sons,1,1,1529.44,100.0
+"Clements, Ritter and Sparks",1,0,2747.77,0.0
+Cochran-Ray,1,0,354.88,0.0
+Cochran-Robertson,1,0,308.61,0.0
+"Cohen, Lawrence and Vaughn",1,0,317.45,0.0
+"Cohen, Tyler and Acosta",1,0,4500.62,0.0
+Coleman Ltd,1,0,1828.5,0.0
+"Coleman, Jackson and Nunez",1,0,1489.36,0.0
+Collier Inc,1,0,3845.21,0.0
+Collins and Sons,1,0,843.13,0.0
+"Collins, Schmidt and Walker",1,0,1555.76,0.0
+Collins-Campbell,1,0,2242.74,0.0
+Collins-Collins,1,0,537.33,0.0
+Combs-Williams,1,0,3750.05,0.0
+"Conner, Roberson and Perez",1,0,3621.66,0.0
+Contreras-Phillips,1,0,4069.66,0.0
+Cook-Wolfe,1,0,415.51,0.0
+Cooke-Jimenez,1,1,2075.09,100.0
+Cooper Ltd,1,1,1318.81,100.0
+Cooper-Evans,1,0,2960.96,0.0
+"Cordova, Anderson and Owens",1,0,2470.59,0.0
+Cox Inc,1,0,2897.88,0.0
+Cox PLC,1,0,3095.69,0.0
+Cox-Coleman,1,1,3242.52,100.0
+Cox-Jacobson,1,0,3908.92,0.0
+Cox-Wolfe,1,1,1813.21,100.0
+Crawford-Ochoa,1,0,1308.89,0.0
+Crosby-Richardson,1,0,2834.33,0.0
+Cross LLC,1,1,2526.31,100.0
+Cross-Maldonado,1,0,841.63,0.0
+Cruz PLC,1,0,3901.5,0.0
+Cruz-Wood,1,0,2785.34,0.0
+"Cuevas, Miller and Fisher",1,0,2152.36,0.0
+Cuevas-Phillips,1,1,3329.89,100.0
+Cummings PLC,1,1,15.3,100.0
+Curry Group,1,0,4422.76,0.0
+Daniel LLC,1,0,4144.94,0.0
+Daniels-Henry,1,1,3817.14,100.0
+Daniels-Rodriguez,1,0,1390.44,0.0
+Davidson Inc,1,1,1914.4,100.0
+Davis Group,1,1,1755.62,100.0
+Davis Inc,1,0,4702.16,0.0
+Davis LLC,1,0,1750.57,0.0
+"Davis, Clark and Pierce",1,0,1841.01,0.0
+"Davis, Cooper and Bentley",1,0,2981.08,0.0
+"Davis, Dunn and Murray",1,0,4824.5,0.0
+"Davis, Johnson and Gentry",1,0,1013.22,0.0
+"Davis, Lewis and Meza",1,1,156.2,100.0
+"Davis, Wilson and Lewis",1,0,4989.59,0.0
+Davis-Bell,1,0,4618.29,0.0
+Davis-Herman,1,0,4844.01,0.0
+Davis-Jones,1,0,496.09,0.0
+Dawson LLC,1,0,3006.2,0.0
+"Dean, Burns and Howard",1,0,3704.0,0.0
+"Dean, Phillips and Cummings",1,1,2039.65,100.0
+Dean-Payne,1,0,4716.88,0.0
+Delacruz Group,1,1,4182.19,100.0
+Delacruz-Ford,1,1,3986.25,100.0
+Deleon and Sons,1,1,1792.92,100.0
+Delgado PLC,1,0,1587.82,0.0
+Dillon PLC,1,0,1092.52,0.0
+Dixon Inc,1,0,2414.02,0.0
+Dixon PLC,1,0,347.42,0.0
+Donaldson LLC,1,1,1185.03,100.0
+"Douglas, Silva and Gardner",1,0,4302.52,0.0
+Douglas-Bennett,1,0,3597.96,0.0
+"Drake, Combs and Reynolds",1,0,1556.93,0.0
+"Duarte, Benton and Nguyen",1,0,3723.64,0.0
+"Duncan, Young and Phillips",1,0,3105.13,0.0
+"Dunn, Gardner and Ward",1,0,4502.9,0.0
+Dunn-Gamble,1,0,4103.67,0.0
+Dunn-Garcia,1,0,1557.35,0.0
+"Duran, Jones and Ware",1,1,343.23,100.0
+Durham-Richardson,1,0,2669.28,0.0
+"Edwards, Clark and Richardson",1,0,2880.28,0.0
+Edwards-Hicks,1,1,3953.69,100.0
+"Ellis, Brewer and Stewart",1,0,2758.59,0.0
+"Ellis, Lee and Humphrey",1,1,3455.64,100.0
+Erickson Group,1,0,444.39,0.0
+"Erickson, Johnson and Price",1,0,1244.6,0.0
+Erickson-Davis,1,0,2483.4,0.0
+Estes LLC,1,1,4829.04,100.0
+Evans-Williams,1,0,4165.01,0.0
+Farmer Group,1,0,1276.39,0.0
+Farmer-Ruiz,1,0,3053.9,0.0
+"Farrell, Rogers and Griffith",1,0,2827.61,0.0
+Ferguson PLC,1,0,179.08,0.0
+"Fernandez, Ferrell and Jones",1,0,687.11,0.0
+Ferrell-Allison,1,0,2356.62,0.0
+Fields and Sons,1,0,2272.49,0.0
+Fischer-Kane,1,0,4408.15,0.0
+Fisher Group,1,1,56.48,100.0
+Fisher Ltd,1,1,277.79,100.0
+"Fitzgerald, Ho and Thomas",1,1,2934.56,100.0
+Fitzpatrick LLC,1,1,1238.23,100.0
+"Fitzpatrick, Brown and Allen",1,0,963.69,0.0
+Flores Group,1,0,1603.19,0.0
+"Flores, Daniels and Smith",1,0,3871.1,0.0
+"Flores, Petersen and Lewis",1,0,2080.5,0.0
+"Flores, Wilson and Perry",1,0,3154.12,0.0
+Flores-Garcia,1,0,3220.99,0.0
+Floyd LLC,1,0,4223.09,0.0
+Floyd-Arnold,1,0,1102.91,0.0
+Ford Group,1,0,2504.26,0.0
+"Ford, Cunningham and Harris",1,0,4860.0,0.0
+"Ford, Reese and Adams",1,1,2616.37,100.0
+"Ford, Russell and Montoya",1,0,3196.72,0.0
+Ford-Friedman,1,0,4937.91,0.0
+"Foster, Webb and Ward",1,0,4708.84,0.0
+Fowler Inc,1,0,3717.17,0.0
+Fox PLC,1,0,410.51,0.0
+"Francis, Bonilla and Thompson",1,1,4946.48,100.0
+Francis-Fitzgerald,1,0,2773.0,0.0
+Franklin Inc,1,1,2437.14,100.0
+"Franklin, Smith and Ibarra",1,0,2211.34,0.0
+Freeman Group,1,0,2913.83,0.0
+Freeman Ltd,1,0,2000.23,0.0
+"Freeman, Peters and Allen",1,1,749.46,100.0
+French-Wilson,1,0,621.21,0.0
+Frey PLC,1,0,566.77,0.0
+"Frey, Hill and Zuniga",1,0,3540.14,0.0
+Frost-Henry,1,0,1859.02,0.0
+Fry Group,1,0,2199.21,0.0
+"Frye, Quinn and Mueller",1,1,1771.92,100.0
+Fuentes Ltd,1,0,4650.28,0.0
+Fuentes PLC,1,0,3677.21,0.0
+"Fuentes, Young and Jones",1,0,1423.23,0.0
+Gallagher Group,1,1,2615.06,100.0
+Gallegos and Sons,1,0,4568.22,0.0
+Gamble-Vasquez,1,0,3324.38,0.0
+Garcia Group,2,1,6151.77,50.0
+Garcia LLC,1,0,3031.85,0.0
+"Garcia, Hawkins and Flores",1,0,3412.71,0.0
+"Garcia, Hensley and Williams",1,0,4102.57,0.0
+"Garcia, Henson and Ramos",1,1,1910.54,100.0
+"Garcia, Williams and Wright",1,0,3898.3,0.0
+Garcia-Beltran,1,0,747.01,0.0
+Garcia-Johns,1,0,1224.35,0.0
+Garcia-Walker,1,0,1339.64,0.0
+Gardner LLC,1,0,3044.45,0.0
+"Gardner, King and Schroeder",1,0,2783.03,0.0
+Garner PLC,2,0,8573.39,0.0
+"Garner, Rodriguez and Walker",1,0,1089.55,0.0
+Garrison Group,1,0,2061.33,0.0
+Garza-Gonzalez,1,0,4521.09,0.0
+Gates Inc,1,0,4676.79,0.0
+Gates and Sons,1,1,4450.6,100.0
+"Gates, Hicks and Hess",1,0,1548.27,0.0
+Gentry-Davis,1,0,3738.81,0.0
+George LLC,1,0,3990.47,0.0
+George-Harris,1,0,1829.05,0.0
+Gibbs and Sons,1,1,632.19,100.0
+Gibson and Sons,1,0,2636.3,0.0
+Glenn Inc,1,0,3962.79,0.0
+Gomez Group,1,0,857.01,0.0
+Gonzalez and Sons,1,0,2961.76,0.0
+Gonzalez-Estrada,1,0,1656.85,0.0
+Gonzalez-Howe,1,0,3794.82,0.0
+Gonzalez-Perry,1,0,4633.01,0.0
+Goodman-Delacruz,1,1,2087.93,100.0
+"Gordon, Bailey and Reed",1,0,980.86,0.0
+Gordon-Russo,1,1,940.14,100.0
+Graham LLC,1,0,2583.71,0.0
+Graham-Wright,1,0,2136.52,0.0
+"Grant, Wagner and Wilkerson",1,0,1699.27,0.0
+Grant-Fletcher,1,0,2079.47,0.0
+"Graves, Bennett and Ferguson",1,0,2330.56,0.0
+Gray and Sons,1,0,4691.37,0.0
+Green Ltd,1,0,2998.31,0.0
+Green and Sons,1,0,3070.6,0.0
+"Green, Jones and Velez",1,0,4184.58,0.0
+Green-Ferguson,1,0,2375.34,0.0
+Green-Melton,1,0,2122.43,0.0
+Green-Pierce,1,0,1180.1,0.0
+Greer Ltd,1,0,424.79,0.0
+"Greer, Johnson and Martinez",1,1,1673.37,100.0
+Gregory-Smith,1,0,97.14,0.0
+Griffin LLC,1,0,1114.1,0.0
+Gutierrez Group,1,0,1659.23,0.0
+"Gutierrez, Tucker and Robinson",1,0,426.04,0.0
+Hall PLC,1,0,394.58,0.0
+Hall-Miller,1,0,3842.9,0.0
+Hamilton Ltd,1,0,3886.78,0.0
+"Hamilton, Hill and Barron",1,1,4681.28,100.0
+"Hammond, Smith and Watson",1,0,4992.39,0.0
+"Hampton, Erickson and Brown",1,0,4909.6,0.0
+Hancock Ltd,1,0,4382.23,0.0
+"Hanson, Hunter and Steele",1,0,3116.27,0.0
+Hanson-Davis,1,1,1232.88,100.0
+Hanson-Romero,1,1,3810.32,100.0
+Hardy-Copeland,1,0,738.28,0.0
+Harper-Davis,1,0,3792.58,0.0
+Harper-Leon,1,0,4526.86,0.0
+Harris LLC,2,0,3306.57,0.0
+Harris and Sons,1,0,3604.82,0.0
+"Harris, Copeland and Webb",1,0,4064.13,0.0
+Harris-Barnes,1,0,1522.72,0.0
+Harrison Group,1,1,866.73,100.0
+Harrison Ltd,1,1,2578.49,100.0
+Hart Group,1,0,2977.96,0.0
+Hart-Smith,1,0,1856.3,0.0
+Hartman Inc,1,1,3617.74,100.0
+Harvey Ltd,1,0,96.53,0.0
+Hayes Group,1,1,2262.79,100.0
+"Hayes, Mcdaniel and Taylor",1,1,2454.69,100.0
+Hayes-Aguilar,1,0,4703.02,0.0
+Hebert LLC,1,0,2095.19,0.0
+"Henderson, Smith and Smith",1,0,1286.87,0.0
+"Hendrix, Espinoza and Hughes",1,0,3970.24,0.0
+Henry LLC,1,0,2783.28,0.0
+Henry-Scott,1,0,3384.11,0.0
+Henry-Simmons,1,0,4296.48,0.0
+"Herman, Thomas and Nunez",1,1,2543.96,100.0
+Hernandez Group,1,1,2626.76,100.0
+Hernandez LLC,1,0,893.05,0.0
+"Hernandez, Boyle and Wood",1,1,1489.72,100.0
+"Hernandez, Gonzalez and Wilson",1,1,2354.44,100.0
+"Hernandez, Nguyen and Mcneil",1,0,4760.41,0.0
+"Hernandez, Obrien and Bryant",1,0,832.95,0.0
+"Hernandez, Oneal and Stark",1,0,4069.22,0.0
+"Herrera, Sellers and Lawrence",1,0,912.05,0.0
+Herrera-Krueger,1,0,2915.65,0.0
+Herrera-Thompson,1,0,1181.39,0.0
+Hicks and Sons,1,0,3356.38,0.0
+Higgins-Jones,1,0,4751.45,0.0
+Hill Group,1,0,4577.57,0.0
+Hill PLC,2,1,6118.52,50.0
+Hill-Bowman,1,1,3404.43,100.0
+Hill-Gamble,1,0,3141.39,0.0
+"Hodge, Howard and Peters",1,0,3126.84,0.0
+Hoffman Group,1,0,2487.72,0.0
+Holden LLC,1,0,703.39,0.0
+Holmes-Cook,1,0,2943.8,0.0
+Horn-Gross,1,0,2943.96,0.0
+"Horton, Mitchell and Nelson",1,0,2657.09,0.0
+Howard LLC,1,0,1665.33,0.0
+Howard-Jackson,1,0,2780.69,0.0
+Howell-Andrews,1,0,915.69,0.0
+"Huang, Anderson and Hunter",1,0,3379.05,0.0
+Hubbard-Nichols,1,0,2878.6,0.0
+Hudson-King,1,0,613.82,0.0
+Huff LLC,1,0,3802.94,0.0
+Huff Ltd,1,1,3995.82,100.0
+Hughes and Sons,1,0,1194.09,0.0
+"Hughes, Berry and Wong",1,0,2342.81,0.0
+"Hughes, Hodges and Davis",1,0,3188.91,0.0
+Hutchinson-Mccarthy,1,0,2699.63,0.0
+Huynh-Alexander,1,0,3181.64,0.0
+"Ibarra, Chang and Patel",1,0,3776.23,0.0
+Ingram LLC,1,0,3234.97,0.0
+Ingram-Clark,1,0,1962.44,0.0
+Irwin Group,1,1,2877.15,100.0
+"Jackson, Jimenez and Reynolds",1,0,2754.94,0.0
+Jackson-Hicks,1,1,760.79,100.0
+Jackson-Ortega,1,0,4201.71,0.0
+"Jacobs, Cochran and Neal",1,0,4846.74,0.0
+"Jacobs, Young and Flores",1,1,2764.31,100.0
+Jacobson-Kelley,1,0,4190.75,0.0
+Jacobson-Lindsey,1,0,4069.65,0.0
+"James, Chapman and Townsend",1,0,3172.51,0.0
+James-Salazar,1,0,3659.39,0.0
+Jarvis-Burke,1,0,137.93,0.0
+Jennings-Black,1,0,2859.28,0.0
+Jennings-Brown,1,0,274.51,0.0
+Jensen-Mosley,1,0,4830.54,0.0
+Johns-Martin,1,0,2846.52,0.0
+Johnson Group,2,1,7778.16,50.0
+Johnson Inc,1,1,2731.48,100.0
+Johnson Ltd,1,0,3602.49,0.0
+Johnson and Sons,3,1,9712.18,33.33
+"Johnson, Brown and Fischer",1,0,4089.73,0.0
+"Johnson, Carter and Walker",1,0,4558.83,0.0
+"Johnson, Dorsey and Vargas",1,1,550.45,100.0
+"Johnson, Hood and Watkins",1,1,2523.64,100.0
+"Johnson, Jenkins and Weaver",1,0,4319.08,0.0
+"Johnson, Johnston and Ross",1,0,4246.04,0.0
+"Johnson, Jones and Davis",1,0,2133.61,0.0
+"Johnson, Nicholson and Oliver",1,1,3234.98,100.0
+"Johnson, Reese and Aguilar",1,0,377.63,0.0
+"Johnson, Sanchez and King",1,0,3626.17,0.0
+Johnson-Clark,1,0,4394.15,0.0
+Johnson-Hunter,1,0,4963.54,0.0
+Johnson-Thomas,1,1,1200.0,100.0
+Johnston-Wade,1,0,2378.9,0.0
+Jones Inc,1,0,1224.87,0.0
+Jones PLC,2,0,4493.1,0.0
+Jones and Sons,3,0,5420.030000000001,0.0
+"Jones, Alvarez and Bernard",1,0,4907.44,0.0
+"Jones, Kim and Chavez",1,0,1556.47,0.0
+"Jones, Lin and Frank",1,0,460.25,0.0
+"Jones, Rivera and Mason",1,0,60.44,0.0
+"Jones, Robinson and Melton",1,0,570.25,0.0
+"Jones, Salinas and Williams",1,0,4252.2,0.0
+"Jones, Smith and Hutchinson",1,0,3811.38,0.0
+Jones-Ellis,1,1,4537.88,100.0
+Jones-Johnson,1,0,396.5,0.0
+Jones-Moss,1,1,1495.62,100.0
+Jordan-Payne,1,0,3178.39,0.0
+Kaiser PLC,1,0,4855.98,0.0
+Keller Ltd,1,1,3362.36,100.0
+Kelley Group,1,0,3127.78,0.0
+"Kelley, Powell and Dorsey",1,0,1022.04,0.0
+Kelley-Burke,1,0,3360.62,0.0
+"Kemp, Thomas and Madden",1,1,2917.67,100.0
+Kennedy-Hernandez,1,0,4602.0,0.0
+Kerr-Lewis,1,0,2545.58,0.0
+Key-Ward,1,0,3882.11,0.0
+Khan Ltd,1,0,2047.73,0.0
+"Kim, Howell and Rodgers",1,0,2861.54,0.0
+"King, Jones and Barrett",1,0,3145.19,0.0
+"King, Singh and Jimenez",1,0,802.87,0.0
+"Klein, Holt and Reynolds",1,0,2531.16,0.0
+Knapp-Reyes,1,1,1303.08,100.0
+Knapp-Rodriguez,1,1,2938.9,100.0
+"Knox, Thompson and Smith",1,0,3401.68,0.0
+Koch-Jimenez,1,0,3554.56,0.0
+"Kramer, Perez and Russell",1,1,4477.06,100.0
+Lamb-Gregory,1,1,1884.78,100.0
+"Lambert, Olsen and Rivas",1,1,4528.05,100.0
+Lane-Carpenter,1,1,908.84,100.0
+Lane-Hill,1,0,3347.27,0.0
+Larson-Moody,1,0,50.57,0.0
+Lawrence-Moss,1,0,833.38,0.0
+"Lawson, Atkins and Avila",1,1,3909.9,100.0
+Le LLC,1,0,2323.06,0.0
+Le Ltd,1,1,4919.33,100.0
+Lee PLC,1,1,3116.62,100.0
+Lee-Haley,1,1,3790.03,100.0
+Levine PLC,1,0,4701.43,0.0
+"Levy, Gonzalez and Carter",1,0,293.08,0.0
+"Levy, Wilson and Vega",1,0,3693.11,0.0
+Lewis Ltd,1,0,3128.99,0.0
+Lewis and Sons,1,0,2111.67,0.0
+"Lewis, Kelly and Dunn",1,0,2664.47,0.0
+"Lewis, Reed and Phillips",1,0,4478.3,0.0
+Lin-Ellis,1,0,2129.52,0.0
+Little LLC,1,0,438.9,0.0
+Liu-Humphrey,1,0,1595.54,0.0
+Lloyd LLC,1,0,522.49,0.0
+Logan-Garcia,1,0,82.67,0.0
+Logan-Stewart,1,0,1895.29,0.0
+Lopez Group,1,0,1535.87,0.0
+Lopez LLC,1,0,1367.88,0.0
+"Lopez, Short and Gonzalez",1,0,1871.43,0.0
+Lopez-Logan,1,1,3813.53,100.0
+Lopez-Padilla,1,0,1492.76,0.0
+Lopez-Phillips,1,0,3762.44,0.0
+Love LLC,1,0,597.12,0.0
+"Lowe, Davis and Henderson",1,0,3541.67,0.0
+Lowe-Mcdonald,1,0,2155.12,0.0
+Lowe-Morales,1,0,990.32,0.0
+Lowe-Roberts,1,0,1245.82,0.0
+"Lynch, Good and Moses",1,0,3548.76,0.0
+Lyons Group,1,1,94.12,100.0
+Mack-Douglas,1,0,3815.27,0.0
+Mack-Pena,1,0,4537.9,0.0
+Malone and Sons,1,0,972.65,0.0
+Marquez-Mckenzie,1,1,1087.07,100.0
+Marquez-Taylor,1,0,178.22,0.0
+Marquez-Winters,1,0,960.35,0.0
+"Marshall, Nguyen and Campbell",1,0,773.89,0.0
+"Marshall, Vazquez and Jones",1,0,328.09,0.0
+Marshall-Peterson,1,1,4512.28,100.0
+Martin Group,1,0,920.96,0.0
+Martin Ltd,1,0,2442.19,0.0
+Martin PLC,1,1,4828.1,100.0
+"Martin, Garcia and Villanueva",1,0,4079.13,0.0
+"Martin, Martinez and Fitzgerald",1,0,4419.07,0.0
+"Martin, Ramos and Nixon",1,0,660.05,0.0
+"Martin, Strong and Garcia",1,1,1500.22,100.0
+Martinez Ltd,1,0,2107.89,0.0
+Martinez PLC,1,0,2306.49,0.0
+"Martinez, Camacho and Fernandez",1,0,945.71,0.0
+"Martinez, Patel and Davis",1,0,3502.87,0.0
+"Martinez, Perkins and Humphrey",1,0,2118.45,0.0
+Martinez-Murphy,1,0,1960.15,0.0
+Martinez-Sharp,1,1,2742.22,100.0
+Martinez-Wright,1,0,4985.75,0.0
+Mason-Anderson,1,0,1140.75,0.0
+"Mathis, Barker and Smith",1,0,2334.9,0.0
+Mcbride and Sons,1,0,3665.91,0.0
+Mccall and Sons,1,0,3056.77,0.0
+Mccann-Carr,1,0,3432.39,0.0
+Mccann-Hoffman,1,0,1162.95,0.0
+"Mccoy, Wall and Chapman",1,0,81.39,0.0
+Mccoy-Clark,1,0,3861.34,0.0
+Mccoy-Duffy,1,1,3067.53,100.0
+Mcdaniel Inc,1,0,149.7,0.0
+Mcdonald Ltd,1,0,453.61,0.0
+"Mcdonald, Hernandez and Wall",1,0,3127.42,0.0
+Mcdonald-Alexander,1,0,3311.09,0.0
+"Mcdowell, Wolf and Gomez",1,1,4104.51,100.0
+Mcfarland and Sons,1,0,4821.82,0.0
+"Mcgrath, Hernandez and Lloyd",1,1,105.08,100.0
+Mcguire and Sons,1,1,1789.34,100.0
+"Mcguire, Stark and Ferguson",1,1,1115.81,100.0
+Mcguire-Wright,1,1,1120.87,100.0
+"Mckinney, Roberts and Rodriguez",1,0,4180.36,0.0
+Mcneil Inc,1,0,4159.05,0.0
+Mcneil-Garcia,1,0,395.2,0.0
+Medina and Sons,1,0,436.11,0.0
+Medina-Russell,1,1,2004.86,100.0
+Mejia LLC,1,0,2074.77,0.0
+Melendez Inc,1,0,2198.37,0.0
+Melton-Johnson,1,0,4327.55,0.0
+Mendez-Mendoza,1,0,1042.3,0.0
+Mendoza LLC,1,1,4934.11,100.0
+Mendoza-Jones,1,0,2378.54,0.0
+Merritt LLC,1,0,4107.5,0.0
+Meyer Ltd,1,0,4650.07,0.0
+Meza-Matthews,1,0,256.28,0.0
+Miller Group,3,0,13229.68,0.0
+Miller LLC,1,0,163.42,0.0
+Miller PLC,2,1,3063.3999999999996,50.0
+"Miller, Brown and Delgado",1,0,3986.58,0.0
+"Miller, Gonzalez and Smith",1,0,2354.61,0.0
+"Miller, Williams and Chaney",1,0,722.46,0.0
+Miller-Anderson,1,0,2104.0,0.0
+Miller-Hess,1,0,4974.69,0.0
+Miller-Miller,1,0,1648.53,0.0
+Miller-Solomon,1,0,2256.35,0.0
+Mills-Foster,1,0,1891.8,0.0
+Mitchell and Sons,1,0,1697.57,0.0
+"Mitchell, Becker and Lynch",1,0,1497.1,0.0
+"Mitchell, Ramos and Palmer",1,1,1460.54,100.0
+"Mitchell, Ruiz and West",1,1,2560.84,100.0
+Mitchell-Huber,1,0,27.41,0.0
+Mitchell-Williamson,1,0,3881.91,0.0
+Molina Group,1,1,3800.25,100.0
+Molina-Mcdonald,1,0,894.48,0.0
+Monroe-Parrish,1,0,3316.93,0.0
+Montes-Williams,1,0,1851.84,0.0
+Montgomery Inc,1,0,649.43,0.0
+Montoya PLC,1,1,3139.6,100.0
+Moody Inc,1,0,2789.27,0.0
+"Mooney, Ashley and Foster",1,0,1201.22,0.0
+Moore Group,1,1,2964.81,100.0
+Moore-Melton,1,0,3773.15,0.0
+Morales-Arroyo,1,0,3581.34,0.0
+Morales-Vega,1,0,4359.83,0.0
+Moran-Nelson,1,0,1056.01,0.0
+Moreno LLC,1,1,1693.53,100.0
+Morgan-Bowen,1,0,1459.03,0.0
+Morgan-Harris,1,0,2185.91,0.0
+Morrison and Sons,1,0,926.44,0.0
+Morrow and Sons,1,0,3318.18,0.0
+"Morton, Atkins and Hobbs",1,1,1212.88,100.0
+"Morton, Thomas and Harrington",1,0,3033.39,0.0
+"Moyer, Thompson and Hampton",1,1,2907.3,100.0
+Munoz Group,1,0,3405.79,0.0
+"Murphy, Osborn and Dillon",1,1,4549.74,100.0
+Murphy-Ellis,1,0,744.83,0.0
+Murray-Wallace,1,0,4127.57,0.0
+"Myers, Johnson and Buck",1,0,4376.51,0.0
+"Myers, Monroe and Hall",1,1,4414.27,100.0
+"Myers, Smith and Cruz",1,0,1690.79,0.0
+"Nelson, Cooper and Landry",1,0,2417.49,0.0
+Nelson-Browning,1,0,1430.25,0.0
+Nelson-Shaw,1,0,1418.7,0.0
+"Nguyen, Ramirez and Walker",1,1,2644.69,100.0
+Nguyen-Garcia,1,0,1696.01,0.0
+Nguyen-Schneider,1,0,2272.78,0.0
+Nguyen-Wright,1,1,2221.48,100.0
+"Nichols, Barton and Johnson",1,0,4321.84,0.0
+Nichols-Williams,1,1,4077.1,100.0
+Nicholson Ltd,1,1,3058.15,100.0
+"Nolan, Boyle and Moreno",1,0,1933.76,0.0
+Obrien-Choi,1,0,487.38,0.0
+"Oconnell, Yu and Wright",1,0,4924.06,0.0
+Olson LLC,1,0,4236.89,0.0
+Oneal PLC,1,0,379.35,0.0
+Oneal and Sons,1,0,2707.46,0.0
+"Oneill, Clark and Webb",1,0,3665.81,0.0
+"Orozco, Davis and Kelly",1,1,1661.81,100.0
+Ortega Ltd,2,0,6670.59,0.0
+Ortiz Inc,1,0,4880.01,0.0
+"Ortiz, Evans and Beasley",1,0,1162.29,0.0
+"Ortiz, Macdonald and Mitchell",1,0,3945.98,0.0
+Ortiz-Green,1,1,1511.6,100.0
+Ortiz-Thomas,1,0,4797.78,0.0
+"Owen, Murphy and West",1,0,1967.99,0.0
+"Parker, Nelson and Gonzalez",1,0,4052.01,0.0
+Parker-Johnson,1,1,188.11,100.0
+Parks-Clark,1,0,3076.36,0.0
+"Patel, Phillips and Roth",1,1,3059.1,100.0
+Patel-Cameron,1,1,3392.65,100.0
+Patel-Watkins,1,0,3677.73,0.0
+"Patterson, Smith and Spencer",1,1,2084.71,100.0
+Patton Group,1,0,3975.32,0.0
+Payne-Stevenson,1,0,2618.45,0.0
+Perez and Sons,1,1,4937.51,100.0
+"Perez, Barton and Wiggins",1,0,3369.89,0.0
+Perez-Thornton,1,0,3787.07,0.0
+Perkins-Clay,1,0,2836.28,0.0
+Perry Inc,1,1,327.54,100.0
+Peters Group,1,1,2680.65,100.0
+Peters-Craig,1,0,2813.05,0.0
+Peterson PLC,2,0,3961.63,0.0
+"Pham, Cole and Howell",1,0,2492.95,0.0
+"Phelps, Miller and Hawkins",1,1,4530.36,100.0
+Phillips LLC,1,0,3053.61,0.0
+Phillips PLC,1,1,4451.68,100.0
+"Phillips, Harvey and Jones",1,1,2341.83,100.0
+"Phillips, Short and Jackson",1,0,1874.0,0.0
+Phillips-Clark,1,0,3495.85,0.0
+Pierce Group,1,0,1031.62,0.0
+"Pierce, Gardner and Smith",1,0,2234.84,0.0
+Pineda and Sons,1,0,4580.14,0.0
+Pollard PLC,1,0,4048.97,0.0
+"Porter, Ritter and White",1,0,1815.61,0.0
+"Powell, Everett and Perez",1,0,578.15,0.0
+"Powers, Williams and Figueroa",1,0,785.49,0.0
+Powers-Hobbs,1,0,3731.9,0.0
+Powers-Underwood,1,0,2173.35,0.0
+Price PLC,1,0,4617.36,0.0
+Price-Kelly,1,0,2394.64,0.0
+"Prince, Farley and Thomas",1,0,136.83,0.0
+Ramirez Inc,1,0,1503.13,0.0
+Ramos PLC,1,0,426.28,0.0
+Ramos-Johnson,1,0,527.6,0.0
+Randolph-Franco,1,0,2778.68,0.0
+Ray-Dickerson,1,1,2338.99,100.0
+Ray-Harper,1,0,2211.29,0.0
+"Reed, Johnson and Curry",1,0,92.17,0.0
+"Reed, Sanchez and Mosley",1,0,2146.28,0.0
+Reed-Roberts,1,1,1004.07,100.0
+Reid-Anderson,1,1,3066.55,100.0
+"Reyes, Hart and Morales",1,0,1584.32,0.0
+Reynolds Group,1,1,3984.27,100.0
+Reynolds Inc,1,1,897.53,100.0
+Reynolds and Sons,1,1,1052.9,100.0
+Rice PLC,1,0,4517.45,0.0
+Rice and Sons,1,1,1281.2,100.0
+"Rice, Martinez and Davis",1,0,4316.11,0.0
+Rice-Floyd,1,0,808.91,0.0
+Rich Inc,1,1,1792.52,100.0
+"Richards, Morgan and Young",1,0,3924.54,0.0
+Richardson Inc,1,0,152.55,0.0
+Richardson and Sons,1,0,4641.39,0.0
+"Richardson, Salazar and Romero",1,0,3928.27,0.0
+Richardson-Robbins,1,0,925.21,0.0
+Riddle LLC,1,1,4193.19,100.0
+"Rivera, Bates and Carroll",1,0,1811.55,0.0
+"Rivera, Hoover and Christensen",1,0,1830.38,0.0
+Rivera-Rogers,1,0,2236.03,0.0
+Rivera-Villegas,1,1,1958.6,100.0
+Roach-Wheeler,1,0,796.99,0.0
+Robbins-Williams,1,0,1885.44,0.0
+Roberson-Butler,1,0,1390.05,0.0
+Roberson-Caldwell,1,0,428.72,0.0
+Roberts PLC,1,1,4528.78,100.0
+Roberts and Sons,1,0,4764.08,0.0
+"Roberts, Jenkins and Santiago",1,0,3174.63,0.0
+"Roberts, Miller and Martinez",1,0,455.69,0.0
+"Roberts, Sanchez and Roberts",1,0,2295.94,0.0
+Robertson-Williams,1,1,2417.98,100.0
+Robinson Ltd,1,0,2277.5,0.0
+"Robinson, Brown and Thompson",1,0,2841.54,0.0
+Robinson-Williams,1,0,303.15,0.0
+"Rocha, Davies and Bowman",1,1,2738.49,100.0
+Rodgers Inc,1,0,3703.08,0.0
+Rodriguez and Sons,1,0,4863.83,0.0
+"Rodriguez, Fuentes and Cook",1,1,2464.31,100.0
+"Rodriguez, Mccullough and Walsh",1,0,1640.26,0.0
+Rodriguez-Hale,1,0,4791.07,0.0
+Rodriguez-Hodge,1,0,2550.37,0.0
+Rodriguez-Reynolds,1,0,1453.18,0.0
+Rodriguez-Simpson,1,0,1310.82,0.0
+Rogers Ltd,1,0,880.45,0.0
+"Rogers, Good and Patterson",1,0,2342.6,0.0
+"Rogers, Hernandez and Coleman",1,0,4855.37,0.0
+"Rogers, Murphy and Reilly",1,1,3555.73,100.0
+Rogers-Flowers,1,0,3082.82,0.0
+Rogers-Harrison,1,0,3539.72,0.0
+Rojas PLC,1,0,3979.95,0.0
+Rojas and Sons,1,1,673.5,100.0
+"Romero, Ortega and Gilbert",1,0,3837.72,0.0
+Rosales-Brooks,1,0,1177.52,0.0
+Rosales-Montes,1,0,3282.3,0.0
+Rose Ltd,1,0,2701.4,0.0
+Rose-Hardy,1,0,241.91,0.0
+Rose-Johnson,1,0,3212.41,0.0
+Ross-Thompson,1,0,324.25,0.0
+"Roth, Diaz and Salazar",1,1,3920.49,100.0
+"Roy, Walton and Hayes",1,1,543.59,100.0
+Russell Inc,1,1,3844.65,100.0
+"Russell, Soto and Smith",1,0,3499.09,0.0
+Russell-Davis,1,0,1527.42,0.0
+"Ryan, Robles and Lee",1,0,1686.13,0.0
+Salazar PLC,2,0,8532.91,0.0
+Salazar-Hudson,1,0,4702.35,0.0
+"Sanchez, Beasley and Newton",1,0,107.7,0.0
+"Sanchez, Harris and Webb",1,0,920.78,0.0
+Sanders LLC,1,0,223.42,0.0
+Sanders Ltd,1,0,3331.15,0.0
+Sanders and Sons,2,1,5707.07,50.0
+"Sanders, Wright and Alvarez",1,1,4371.8,100.0
+Sandoval-Chavez,1,0,4701.04,0.0
+"Santiago, Garza and Rodriguez",1,0,4098.34,0.0
+Savage-Harris,1,1,4928.08,100.0
+Schmidt Inc,1,0,718.1,0.0
+Schmidt LLC,1,1,725.46,100.0
+"Schmidt, Figueroa and Morgan",1,0,591.39,0.0
+"Schneider, Davis and Kelly",1,1,3192.55,100.0
+Scott LLC,1,0,3950.14,0.0
+Scott-Maldonado,1,0,1217.35,0.0
+Scott-Newton,1,0,969.26,0.0
+Scott-Ramos,1,1,1363.31,100.0
+"Shea, Foley and Reyes",1,0,2530.16,0.0
+Shepherd Group,1,0,1562.67,0.0
+"Shepherd, Arroyo and Johns",1,0,1226.47,0.0
+Shepherd-Fisher,1,0,3079.19,0.0
+Sherman Inc,1,0,810.73,0.0
+Shields-Cook,1,0,2408.5,0.0
+Shields-Jackson,1,0,964.27,0.0
+Short-Hardy,1,0,4863.65,0.0
+Silva LLC,1,1,2297.19,100.0
+Simmons Inc,1,0,4959.3,0.0
+"Simpson, Padilla and West",1,1,2150.81,100.0
+Sims PLC,1,1,2846.77,100.0
+Sims and Sons,1,0,1136.68,0.0
+Singh Group,1,0,3098.08,0.0
+"Singh, Glass and Myers",1,0,3949.58,0.0
+Singh-Hester,1,0,2365.79,0.0
+Singleton-Goodman,1,0,3322.5,0.0
+Small PLC,1,0,4685.45,0.0
+"Small, Lutz and Hernandez",1,0,1316.17,0.0
+Smith Group,1,1,2201.28,100.0
+Smith Inc,1,1,1796.29,100.0
+Smith LLC,3,1,11266.29,33.33
+Smith Ltd,2,0,4254.01,0.0
+Smith PLC,3,1,6532.26,33.33
+Smith and Sons,2,0,3881.08,0.0
+"Smith, Barron and Jones",1,0,4317.85,0.0
+"Smith, Johnson and Stanley",1,0,1057.31,0.0
+"Smith, Keller and Warren",1,0,4642.15,0.0
+"Smith, Ramos and Harris",1,0,1366.15,0.0
+"Smith, Ryan and Cervantes",1,0,3907.2,0.0
+"Smith, Terry and Mcconnell",1,0,4976.65,0.0
+"Smith, Vasquez and Clark",1,0,1550.28,0.0
+Smith-Brown,1,1,442.36,100.0
+Smith-Castro,1,0,2228.87,0.0
+Smith-Edwards,1,1,2810.67,100.0
+Smith-Greer,1,0,525.04,0.0
+Smith-Olsen,1,1,998.97,100.0
+Smith-Smith,1,0,4563.97,0.0
+Snyder Group,1,0,3563.39,0.0
+"Snyder, Johnson and Porter",1,1,986.08,100.0
+"Snyder, Snow and Elliott",1,0,4394.38,0.0
+Snyder-Oliver,1,0,3115.34,0.0
+Sosa-Nguyen,1,1,4634.38,100.0
+"Spencer, Holmes and Hartman",1,1,2589.29,100.0
+"Stanley, Mullins and Johnson",1,0,1093.01,0.0
+Stanley-Garcia,1,0,1357.09,0.0
+Stanton and Sons,1,1,4848.24,100.0
+Stark-Haley,1,1,3605.36,100.0
+Steele-Andrews,1,1,3110.59,100.0
+Stephens Inc,1,0,4829.96,0.0
+Stephenson-Simmons,1,1,133.25,100.0
+Stevenson PLC,1,0,3826.63,0.0
+Stewart LLC,1,1,1764.53,100.0
+"Stewart, Williams and Watson",1,1,541.31,100.0
+"Stokes, Wallace and Collins",1,1,954.41,100.0
+Stout LLC,1,0,758.47,0.0
+"Stout, Fernandez and Callahan",1,0,2322.09,0.0
+"Swanson, Hall and Carter",1,0,614.66,0.0
+Swanson-Christensen,1,0,917.94,0.0
+Sweeney Group,1,0,1121.96,0.0
+"Taylor, Austin and Sandoval",1,0,3242.79,0.0
+"Taylor, Fox and Williams",1,0,3599.38,0.0
+"Taylor, Spears and Brown",1,0,880.85,0.0
+"Taylor, Young and Villegas",1,0,2972.32,0.0
+Taylor-Rivera,1,1,893.97,100.0
+Thomas Ltd,1,1,4971.92,100.0
+"Thomas, Gilmore and Ramos",1,1,2024.36,100.0
+"Thomas, Hernandez and Moore",1,1,754.1,100.0
+"Thomas, Matthews and Hart",1,0,3227.62,0.0
+Thompson Inc,2,1,1862.3999999999999,50.0
+Thompson Ltd,1,1,518.14,100.0
+"Thompson, Edwards and Thompson",1,0,561.17,0.0
+Thompson-Freeman,1,1,2334.77,100.0
+Thompson-Leonard,1,0,2154.25,0.0
+Thompson-Miller,1,0,1517.45,0.0
+Thompson-Yang,1,0,2892.72,0.0
+"Thornton, Holmes and Sandoval",1,0,1404.47,0.0
+"Torres, Brown and Beasley",1,0,4357.36,0.0
+"Torres, Molina and Edwards",1,0,1821.08,0.0
+"Torres, Munoz and Williams",1,1,3570.8,100.0
+"Torres, Watson and Murphy",1,1,3444.57,100.0
+"Townsend, Williams and Lewis",1,0,3860.61,0.0
+Tran Inc,1,0,4554.02,0.0
+"Tran, Norman and Anderson",1,0,1477.18,0.0
+"Trujillo, Griffith and Jackson",1,0,4394.98,0.0
+Trujillo-Jones,1,0,1233.89,0.0
+Turner and Sons,1,0,179.61,0.0
+"Turner, Murray and Williams",1,0,1508.0,0.0
+"Turner, Rojas and Wilson",1,0,3045.07,0.0
+Underwood-Cooper,1,0,3657.08,0.0
+Valdez and Sons,1,1,4817.41,100.0
+Valenzuela PLC,1,0,3400.32,0.0
+Valenzuela-Wong,1,0,4803.31,0.0
+Vance-Lewis,1,1,2688.72,100.0
+Vang Ltd,1,0,2576.35,0.0
+"Vargas, Scott and Lopez",1,0,1769.99,0.0
+"Vasquez, Watson and Chang",1,0,125.21,0.0
+Vaughan LLC,1,1,1271.14,100.0
+Vaughn-Rivera,1,0,1734.68,0.0
+"Vazquez, Fowler and Baker",1,0,3218.38,0.0
+Vazquez-Pena,1,0,4136.25,0.0
+"Vega, Williams and Pena",1,0,2736.95,0.0
+Vega-Moran,1,0,1155.83,0.0
+"Wade, Swanson and Harrison",1,1,2899.44,100.0
+"Wagner, Cruz and Lawson",1,1,2354.48,100.0
+Wagner-Cole,1,0,2695.84,0.0
+Wagner-Kelly,1,0,2107.86,0.0
+Walker Ltd,1,1,2242.63,100.0
+"Walker, Perry and George",1,0,2388.17,0.0
+"Walker, Pollard and Moore",1,0,3393.4,0.0
+Walker-Durham,1,0,3824.57,0.0
+Walker-Peterson,1,1,803.15,100.0
+Walker-White,1,0,1184.43,0.0
+"Wall, Shaffer and Smith",1,0,3115.56,0.0
+"Wallace, Ho and Lucas",1,1,1791.91,100.0
+"Wallace, Johnson and Smith",1,1,3150.91,100.0
+"Wallace, Shaw and Morris",1,1,1706.37,100.0
+Wallace-Krause,1,1,3456.61,100.0
+"Waller, Johnson and Marquez",1,0,2110.57,0.0
+"Walsh, Caldwell and Villegas",1,0,1082.15,0.0
+Walsh-Patterson,1,0,2178.86,0.0
+Walsh-Roman,1,0,2487.95,0.0
+"Walton, Brown and Hernandez",1,0,4715.41,0.0
+"Wang, Howard and Fuller",1,0,2150.21,0.0
+Warner and Sons,1,0,4690.02,0.0
+"Warner, Stewart and Harrison",1,0,3736.61,0.0
+Warren LLC,1,0,2531.35,0.0
+Washington Group,1,1,1286.46,100.0
+Washington Inc,1,0,4687.1,0.0
+"Waters, Alvarez and Wade",1,0,1246.59,0.0
+"Watkins, Daniel and Andrews",1,0,126.38,0.0
+"Watkins, Miller and Jones",1,1,4602.54,100.0
+"Watson, Jordan and Brown",1,0,1852.01,0.0
+"Watson, Lloyd and Cross",1,0,2741.16,0.0
+"Watson, Price and Roberts",1,0,4788.77,0.0
+Watson-Perez,1,1,1463.15,100.0
+"Weber, Burnett and Reyes",1,0,1542.29,0.0
+"Weeks, Chandler and Holder",1,1,2919.62,100.0
+Weiss Group,1,0,2947.22,0.0
+Weiss Ltd,1,0,3309.23,0.0
+"Weiss, Moore and Francis",1,1,2223.34,100.0
+Weiss-Johnson,1,1,1403.07,100.0
+"Wells, Dawson and Vaughn",1,0,3862.23,0.0
+"Wells, Walker and Terry",1,1,3250.36,100.0
+"West, Warren and Zimmerman",1,0,1010.3,0.0
+West-Potts,1,0,2579.43,0.0
+Wheeler Group,1,0,1511.06,0.0
+Whitaker Group,1,0,1617.52,0.0
+White LLC,1,0,4985.25,0.0
+White and Sons,1,0,3379.68,0.0
+"White, Cook and Johnson",1,0,4244.04,0.0
+"White, Robinson and Jones",1,1,4385.29,100.0
+White-Jordan,1,0,2835.57,0.0
+Williams Group,1,0,2912.25,0.0
+Williams Inc,1,1,1188.68,100.0
+Williams Ltd,1,0,4915.02,0.0
+Williams PLC,2,0,7765.629999999999,0.0
+Williams and Sons,1,0,1440.89,0.0
+"Williams, Miller and Miller",1,1,2121.21,100.0
+Williams-Cain,1,1,2138.03,100.0
+Williams-Mcgee,1,1,1365.59,100.0
+Williams-Roman,1,0,2809.7,0.0
+Williams-Smith,1,0,4542.76,0.0
+Williams-White,1,0,4396.43,0.0
+Williams-Winters,1,1,162.45,100.0
+Willis Ltd,1,0,2966.8,0.0
+"Wilson, Williamson and Carter",1,1,717.38,100.0
+Wilson-Harris,1,0,2150.27,0.0
+Wolf PLC,1,1,3055.22,100.0
+Wolfe Ltd,1,1,2556.66,100.0
+"Wolfe, Simmons and Baker",1,0,1748.13,0.0
+"Wong, Smith and Tyler",1,0,4387.97,0.0
+Wong-Jones,1,0,599.56,0.0
+Wong-Morris,1,0,2290.63,0.0
+"Wood, Trevino and Fernandez",1,0,2755.1,0.0
+Wood-Kim,1,0,344.05,0.0
+Woodward-Marquez,1,1,2010.46,100.0
+Wright Inc,1,0,1158.15,0.0
+Wright LLC,1,0,3713.44,0.0
+Wright PLC,2,0,6418.91,0.0
+"Wright, Larson and Flores",1,0,4848.43,0.0
+Wright-Gibson,1,1,1576.83,100.0
+Wright-Turner,1,0,4355.82,0.0
+Wu-Berry,1,0,3789.78,0.0
+Yang and Sons,1,1,2523.62,100.0
+"Yang, Murphy and Walker",1,0,3495.89,0.0
+Young Ltd,1,0,307.69,0.0
+Young and Sons,1,0,4600.6,0.0
+"Young, Vazquez and Alvarado",1,1,3060.62,100.0
+Young-Gray,1,0,3657.74,0.0
+"Zavala, Lewis and Chang",1,0,1728.63,0.0
+"Zimmerman, Roberson and Martinez",1,0,1639.26,0.0
+Zimmerman-Andrews,1,0,2604.41,0.0
+Zuniga-Lin,1,0,2512.43,0.0

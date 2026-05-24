@@ -1,0 +1,5 @@
+country,total_transactions,fraud_cases,suspicious_transactions
+CA,244,62,88
+NG,267,63,84
+UK,221,60,88
+US,268,60,0

@@ -1,2 +1,2 @@
 total_transactions,total_fraud_cases,fraud_rate_percent,high_risk_transactions,international_transactions,suspicious_transactions,approved_transactions,declined_transactions,total_transaction_amount
-1000,245,24.5,360,732,260,482,518,2377353.22
+1000,255,25.5,374,743,285,486,514,2456910.72

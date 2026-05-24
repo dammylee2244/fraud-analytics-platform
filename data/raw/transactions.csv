@@ -1,1001 +1,1001 @@
 transaction_id,customer_id,merchant,amount,transaction_type,country,status,timestamp,is_fraud
-1,3004,"Gibbs, Perez and Scott",2567.49,withdrawal,CA,declined,2026-05-24 12:16:29.101174,0
-2,1500,Chambers PLC,473.35,transfer,US,approved,2026-05-24 12:16:29.101288,0
-3,2817,"Phelps, Green and Herman",3666.38,transfer,UK,declined,2026-05-24 12:16:29.101537,0
-4,4642,"Ramirez, Harris and Chapman",8.05,withdrawal,US,approved,2026-05-24 12:16:29.101777,0
-5,4278,"Rojas, Robinson and Guerra",4899.84,withdrawal,UK,declined,2026-05-24 12:16:29.102016,1
-6,2154,Hall LLC,2520.93,transfer,US,approved,2026-05-24 12:16:29.102113,0
-7,2792,Dickson-Miles,165.99,purchase,US,approved,2026-05-24 12:16:29.102276,1
-8,1212,Kennedy-Wiggins,4488.8,transfer,US,approved,2026-05-24 12:16:29.102487,1
-9,4377,Lawson Group,641.64,transfer,US,approved,2026-05-24 12:16:29.102592,0
-10,4045,Green-Rodriguez,1700.16,withdrawal,CA,declined,2026-05-24 12:16:29.102758,0
-11,1081,"Baker, Bishop and Mathews",1130.38,withdrawal,CA,declined,2026-05-24 12:16:29.102995,0
-12,1041,"Garcia, Ramirez and Pratt",4512.71,purchase,UK,approved,2026-05-24 12:16:29.103233,0
-13,3716,Bauer PLC,3440.46,transfer,CA,approved,2026-05-24 12:16:29.103325,1
-14,4457,"Dominguez, Peterson and Hernandez",664.57,withdrawal,NG,declined,2026-05-24 12:16:29.103566,1
-15,3923,"Lee, Harvey and Benson",3765.45,transfer,UK,approved,2026-05-24 12:16:29.103853,0
-16,4035,Jones-Fox,1718.39,purchase,CA,declined,2026-05-24 12:16:29.104029,0
-17,4620,Torres-Harris,745.64,purchase,NG,declined,2026-05-24 12:16:29.104198,0
-18,3738,"Estrada, Anderson and Drake",355.78,purchase,US,approved,2026-05-24 12:16:29.104446,1
-19,1473,Martinez-Bonilla,2446.22,purchase,UK,declined,2026-05-24 12:16:29.104609,0
-20,4551,"Reed, Noble and Williams",3783.87,withdrawal,US,declined,2026-05-24 12:16:29.104854,1
-21,4969,"Leach, Thornton and Chang",1286.16,withdrawal,NG,approved,2026-05-24 12:16:29.105090,0
-22,3801,Vazquez-Torres,2660.7,purchase,UK,approved,2026-05-24 12:16:29.105254,1
-23,1516,White-Sandoval,5.74,transfer,NG,approved,2026-05-24 12:16:29.105417,0
-24,1610,"Davis, Goodman and Riggs",71.36,purchase,US,declined,2026-05-24 12:16:29.105653,0
-25,1842,"Spears, Durham and Bishop",623.62,transfer,NG,approved,2026-05-24 12:16:29.105891,0
-26,3184,Marshall-Wilkins,411.89,purchase,CA,declined,2026-05-24 12:16:29.106058,0
-27,1990,Pittman Inc,1936.41,purchase,UK,declined,2026-05-24 12:16:29.106156,1
-28,2448,"Bailey, Schultz and Garza",329.7,transfer,US,approved,2026-05-24 12:16:29.106394,0
-29,2457,Robinson-Howard,4642.02,withdrawal,US,approved,2026-05-24 12:16:29.106558,0
-30,2375,Phillips-Anderson,4552.64,withdrawal,NG,declined,2026-05-24 12:16:29.106721,0
-31,3479,Winters-Phillips,354.79,transfer,CA,approved,2026-05-24 12:16:29.106882,1
-32,1721,Freeman-Maxwell,517.04,purchase,NG,declined,2026-05-24 12:16:29.107049,0
-33,3738,Benton-Garza,542.0,transfer,UK,approved,2026-05-24 12:16:29.107213,0
-34,1459,White-Santos,4975.15,transfer,US,approved,2026-05-24 12:16:29.107376,0
-35,2507,Mejia LLC,2473.14,purchase,NG,declined,2026-05-24 12:16:29.107467,0
-36,2008,Conley LLC,333.98,withdrawal,US,declined,2026-05-24 12:16:29.107558,0
-37,3651,Lopez-Walton,2725.59,purchase,UK,approved,2026-05-24 12:16:29.107725,0
-38,2184,Adams PLC,2599.2,withdrawal,CA,declined,2026-05-24 12:16:29.107816,0
-39,2650,Berg and Sons,4877.24,transfer,US,declined,2026-05-24 12:16:29.107907,0
-40,4443,Moody-Bryant,722.5,purchase,US,declined,2026-05-24 12:16:29.108074,0
-41,3116,Williams PLC,3928.25,purchase,US,declined,2026-05-24 12:16:29.108199,0
-42,1476,"Brown, Moreno and Stevenson",2095.79,withdrawal,UK,approved,2026-05-24 12:16:29.108438,0
-43,3832,"Lane, Woodard and Walton",1078.59,purchase,NG,declined,2026-05-24 12:16:29.108680,0
-44,2433,Romero-Jennings,3652.86,purchase,UK,declined,2026-05-24 12:16:29.108843,0
-45,4525,Greer-Waters,3471.49,purchase,NG,declined,2026-05-24 12:16:29.109004,1
-46,2658,Henson-Ford,2075.19,withdrawal,NG,declined,2026-05-24 12:16:29.109165,1
-47,3991,"Clark, Campbell and Fisher",4863.11,withdrawal,NG,declined,2026-05-24 12:16:29.109398,0
-48,3450,"Phelps, Alexander and Watson",814.73,purchase,US,declined,2026-05-24 12:16:29.109633,1
-49,3505,Ray-Robinson,4517.32,withdrawal,US,declined,2026-05-24 12:16:29.109793,0
-50,2816,Moreno PLC,1948.63,purchase,US,approved,2026-05-24 12:16:29.109883,0
-51,3576,Barajas-Reilly,134.02,transfer,CA,approved,2026-05-24 12:16:29.110043,1
-52,1720,"Lee, Johnson and Henry",4881.42,purchase,NG,approved,2026-05-24 12:16:29.110278,0
-53,2899,Davis Group,2619.17,transfer,NG,approved,2026-05-24 12:16:29.110368,0
-54,2987,Spencer-Wilson,1667.55,purchase,CA,approved,2026-05-24 12:16:29.110529,0
-55,2534,"Robbins, Chan and Hicks",595.09,withdrawal,NG,declined,2026-05-24 12:16:29.110762,0
-56,3721,Smith and Sons,4175.34,withdrawal,UK,declined,2026-05-24 12:16:29.110853,0
-57,2892,Martinez-Moon,4195.13,withdrawal,NG,declined,2026-05-24 12:16:29.111030,0
-58,4670,Johnson-Russell,1779.93,withdrawal,US,declined,2026-05-24 12:16:29.111193,1
-59,2207,Shaw LLC,1366.2,purchase,CA,approved,2026-05-24 12:16:29.111284,1
-60,3385,Martinez LLC,2896.16,transfer,NG,approved,2026-05-24 12:16:29.111374,0
-61,4365,Holland Inc,200.76,transfer,US,declined,2026-05-24 12:16:29.111467,1
-62,3615,"Reyes, Davis and Jensen",1959.35,purchase,NG,approved,2026-05-24 12:16:29.111701,0
-63,3523,Turner-Coleman,760.99,purchase,CA,declined,2026-05-24 12:16:29.111862,0
-64,4543,Wright and Sons,3289.19,withdrawal,CA,approved,2026-05-24 12:16:29.111952,0
-65,4231,"Garcia, Baker and Pope",1999.21,transfer,CA,declined,2026-05-24 12:16:29.112191,0
-66,2685,Hess Inc,2636.41,withdrawal,CA,approved,2026-05-24 12:16:29.112282,1
-67,1027,Carter-Rogers,2864.03,purchase,US,declined,2026-05-24 12:16:29.112444,0
-68,3090,Freeman LLC,1239.87,withdrawal,US,declined,2026-05-24 12:16:29.112534,0
-69,2275,Owen-Spencer,1815.73,withdrawal,UK,declined,2026-05-24 12:16:29.112697,0
-70,3706,"Webster, Alvarez and Edwards",1941.58,purchase,US,approved,2026-05-24 12:16:29.112932,0
-71,1919,Greene and Sons,2884.47,purchase,UK,approved,2026-05-24 12:16:29.113026,0
-72,3267,"Hanson, Arias and Mason",4472.21,purchase,US,declined,2026-05-24 12:16:29.113261,0
-73,4867,Mcconnell PLC,4009.04,purchase,UK,declined,2026-05-24 12:16:29.113350,1
-74,4349,Allen-Rios,2292.21,withdrawal,US,declined,2026-05-24 12:16:29.113511,0
-75,2814,"Nguyen, Vazquez and Harvey",378.89,purchase,US,approved,2026-05-24 12:16:29.113746,0
-76,4400,Tyler-Jensen,924.04,withdrawal,CA,approved,2026-05-24 12:16:29.113917,0
-77,2890,"Smith, Hopkins and Gilbert",718.87,withdrawal,NG,approved,2026-05-24 12:16:29.114152,1
-78,1240,"Miller, Johnston and Jones",655.05,transfer,NG,approved,2026-05-24 12:16:29.114390,0
-79,1464,"Gray, Smith and Davis",2456.9,withdrawal,NG,approved,2026-05-24 12:16:29.114624,0
-80,4069,French-Summers,2458.16,withdrawal,CA,approved,2026-05-24 12:16:29.114786,0
-81,1581,Hogan and Sons,3020.37,purchase,US,declined,2026-05-24 12:16:29.114881,0
-82,3579,"Peterson, Baker and French",573.43,withdrawal,US,declined,2026-05-24 12:16:29.115115,1
-83,3726,Bailey LLC,4771.45,transfer,US,declined,2026-05-24 12:16:29.115205,1
-84,3114,"Cook, Munoz and Palmer",685.02,withdrawal,CA,declined,2026-05-24 12:16:29.115438,0
-85,4377,"Wiggins, Roberts and Hernandez",1615.1,purchase,CA,declined,2026-05-24 12:16:29.115672,0
-86,4865,Ward Ltd,1531.34,purchase,US,declined,2026-05-24 12:16:29.115763,0
-87,4851,Watson Ltd,663.99,transfer,US,declined,2026-05-24 12:16:29.115852,1
-88,1755,"Brown, Campbell and Neal",610.07,transfer,NG,approved,2026-05-24 12:16:29.116086,0
-89,4367,Mcbride LLC,1091.03,transfer,NG,declined,2026-05-24 12:16:29.116177,0
-90,2804,"Wright, Thompson and Jones",2495.57,transfer,NG,declined,2026-05-24 12:16:29.116415,0
-91,4214,Williams Inc,1950.17,transfer,CA,approved,2026-05-24 12:16:29.116507,0
-92,4458,"Krueger, Jones and Coffey",2921.53,transfer,NG,declined,2026-05-24 12:16:29.116742,0
-93,3425,Wilson Inc,4535.69,transfer,CA,declined,2026-05-24 12:16:29.116833,0
-94,2625,"Zuniga, Jones and Olsen",1086.4,transfer,NG,declined,2026-05-24 12:16:29.117077,1
-95,4012,"Chaney, Smith and Zimmerman",2878.93,transfer,CA,declined,2026-05-24 12:16:29.117372,0
-96,1990,"Mccall, Poole and Ross",3891.58,withdrawal,CA,declined,2026-05-24 12:16:29.117629,1
-97,4781,"Casey, Bailey and Copeland",1841.48,transfer,UK,declined,2026-05-24 12:16:29.117868,0
-98,3199,"Taylor, Francis and Woods",4067.48,transfer,US,declined,2026-05-24 12:16:29.118105,0
-99,4263,"Conway, Martinez and Chapman",1599.85,withdrawal,UK,declined,2026-05-24 12:16:29.118341,0
-100,1902,Lynn-Williams,4204.28,purchase,US,approved,2026-05-24 12:16:29.118503,0
-101,1486,Ortiz-Young,4423.91,withdrawal,CA,declined,2026-05-24 12:16:29.118665,1
-102,1676,Ross PLC,1926.59,withdrawal,CA,declined,2026-05-24 12:16:29.118757,0
-103,2032,White-Williams,4186.82,withdrawal,UK,approved,2026-05-24 12:16:29.118917,0
-104,3236,"Wong, Lee and Hamilton",1143.65,purchase,CA,approved,2026-05-24 12:16:29.119152,0
-105,3187,Pratt-Scott,3791.84,purchase,US,declined,2026-05-24 12:16:29.119312,0
-106,2173,Jones-Curry,515.01,transfer,NG,declined,2026-05-24 12:16:29.119476,0
-107,1166,Garrett and Sons,3087.29,withdrawal,US,approved,2026-05-24 12:16:29.119568,1
-108,1380,Collins-Cooley,3019.43,withdrawal,US,declined,2026-05-24 12:16:29.119735,0
-109,3638,"Chen, Swanson and Perez",3294.97,transfer,NG,declined,2026-05-24 12:16:29.119973,1
-110,4589,King-Garcia,4020.88,transfer,CA,approved,2026-05-24 12:16:29.120140,0
-111,2880,Garrett-Taylor,2073.13,purchase,US,approved,2026-05-24 12:16:29.120302,0
-112,3991,Bauer-Benjamin,4612.97,withdrawal,CA,declined,2026-05-24 12:16:29.120464,0
-113,1678,Martinez-Bruce,3372.33,withdrawal,CA,declined,2026-05-24 12:16:29.120626,1
-114,4707,Whitaker-Suarez,1346.13,transfer,UK,declined,2026-05-24 12:16:29.120788,1
-115,4321,Fowler LLC,1927.9,purchase,CA,declined,2026-05-24 12:16:29.120882,0
-116,3171,Garza LLC,597.12,withdrawal,NG,declined,2026-05-24 12:16:29.120973,1
-117,1759,Griffin Group,2924.53,purchase,US,approved,2026-05-24 12:16:29.121064,0
-118,2788,"Chambers, Jackson and Knapp",2360.66,withdrawal,NG,approved,2026-05-24 12:16:29.121299,1
-119,3957,Wagner Ltd,916.82,purchase,CA,declined,2026-05-24 12:16:29.121390,0
-120,1252,Vargas Ltd,4093.51,transfer,NG,approved,2026-05-24 12:16:29.121482,1
-121,1873,Ortega Group,3653.99,purchase,UK,approved,2026-05-24 12:16:29.121573,0
-122,2143,Dunlap-Simmons,4362.83,transfer,NG,declined,2026-05-24 12:16:29.121735,0
-123,1836,"Macias, Martinez and Jones",1043.99,withdrawal,NG,declined,2026-05-24 12:16:29.121972,0
-124,4991,Morales-Nelson,1091.49,transfer,UK,approved,2026-05-24 12:16:29.122133,0
-125,3605,"Morris, Mckinney and Mcgee",2431.37,withdrawal,US,approved,2026-05-24 12:16:29.122369,0
-126,3354,Knight Inc,2837.7,withdrawal,NG,declined,2026-05-24 12:16:29.122460,0
-127,4030,Cooper and Sons,1666.33,withdrawal,UK,approved,2026-05-24 12:16:29.122551,0
-128,4220,Davis-Bradley,1798.02,withdrawal,US,declined,2026-05-24 12:16:29.122713,1
-129,3882,"Cox, Olson and Summers",2010.88,purchase,US,declined,2026-05-24 12:16:29.122953,0
-130,4848,Raymond-Li,4075.62,withdrawal,NG,declined,2026-05-24 12:16:29.123118,0
-131,2089,"Chandler, Lam and Daugherty",1399.7,withdrawal,CA,declined,2026-05-24 12:16:29.123357,0
-132,3849,Thompson Inc,4853.02,purchase,US,declined,2026-05-24 12:16:29.123452,0
-133,2168,Salas-Jones,1028.11,transfer,NG,approved,2026-05-24 12:16:29.123614,0
-134,1303,Perez and Sons,2069.82,purchase,CA,declined,2026-05-24 12:16:29.123705,0
-135,3568,Bryant PLC,509.51,transfer,NG,declined,2026-05-24 12:16:29.123799,0
-136,3809,Garcia-Salinas,2451.09,withdrawal,CA,approved,2026-05-24 12:16:29.123960,0
-137,3018,Brown LLC,311.45,transfer,US,approved,2026-05-24 12:16:29.124121,0
-138,4798,Collins Inc,3889.97,transfer,CA,approved,2026-05-24 12:16:29.124229,0
-139,4699,Craig-Lopez,848.32,withdrawal,CA,approved,2026-05-24 12:16:29.124399,0
-140,3073,"Watkins, Velasquez and Kelly",2708.77,withdrawal,NG,approved,2026-05-24 12:16:29.124639,0
-141,3906,Holmes-Arroyo,1777.1,withdrawal,NG,approved,2026-05-24 12:16:29.124803,0
-142,4049,Gilbert-Dunn,973.11,withdrawal,CA,approved,2026-05-24 12:16:29.124966,0
-143,1457,Sanchez and Sons,695.94,purchase,NG,declined,2026-05-24 12:16:29.125057,0
-144,2320,Stephens-Herring,3018.68,purchase,UK,declined,2026-05-24 12:16:29.125219,1
-145,4872,Thomas-Cox,2947.23,purchase,CA,approved,2026-05-24 12:16:29.125380,0
-146,2245,"Willis, Sullivan and Young",4288.47,transfer,NG,declined,2026-05-24 12:16:29.125616,0
-147,3213,Wise Inc,2327.7,withdrawal,US,declined,2026-05-24 12:16:29.125708,0
-148,4446,"Newton, Jones and Thomas",1086.54,purchase,UK,declined,2026-05-24 12:16:29.125944,1
-149,4019,Williams Inc,1078.23,transfer,UK,approved,2026-05-24 12:16:29.126040,0
-150,1116,Carson and Sons,365.76,purchase,CA,approved,2026-05-24 12:16:29.126132,0
-151,3106,Wright LLC,3997.29,purchase,NG,declined,2026-05-24 12:16:29.126222,1
-152,1503,Henry-Becker,847.41,withdrawal,US,declined,2026-05-24 12:16:29.126384,0
-153,1156,"Maxwell, Tyler and Booker",2768.96,purchase,CA,approved,2026-05-24 12:16:29.126619,0
-154,4728,"Hays, Richmond and Bennett",880.84,purchase,US,declined,2026-05-24 12:16:29.126859,0
-155,2081,"Brewer, Kennedy and Franco",3645.08,transfer,US,declined,2026-05-24 12:16:29.127093,0
-156,2259,Jones-Roberts,146.33,withdrawal,UK,declined,2026-05-24 12:16:29.127258,0
-157,3449,"White, Wright and Ewing",4142.01,purchase,UK,declined,2026-05-24 12:16:29.127493,0
-158,4290,Brown PLC,3823.98,transfer,US,declined,2026-05-24 12:16:29.127585,0
-159,1281,Thompson-Taylor,1498.75,purchase,CA,approved,2026-05-24 12:16:29.127746,0
-160,4444,Williams-Schmitt,812.45,transfer,NG,approved,2026-05-24 12:16:29.127908,1
-161,2895,Ellis and Sons,32.87,withdrawal,CA,approved,2026-05-24 12:16:29.127999,1
-162,1771,"Ramos, Perez and Robinson",2396.16,transfer,CA,approved,2026-05-24 12:16:29.128234,1
-163,1604,Gibbs-Young,4851.94,transfer,US,declined,2026-05-24 12:16:29.128396,0
-164,1742,Lopez Inc,1375.26,purchase,US,approved,2026-05-24 12:16:29.128486,0
-165,3498,"Evans, Drake and Smith",390.41,purchase,US,declined,2026-05-24 12:16:29.128722,1
-166,4346,"Peterson, Lewis and Carlson",444.22,transfer,NG,approved,2026-05-24 12:16:29.128963,0
-167,1575,"Rodgers, Fisher and Mitchell",4031.34,transfer,US,approved,2026-05-24 12:16:29.129250,0
-168,2129,"Woods, Oneal and Kramer",1213.1,withdrawal,CA,approved,2026-05-24 12:16:29.129492,0
-169,3522,"Dixon, Robinson and Schultz",4691.67,withdrawal,UK,declined,2026-05-24 12:16:29.129729,1
-170,4592,Savage Inc,4644.86,withdrawal,UK,approved,2026-05-24 12:16:29.129819,0
-171,4715,Ruiz-Diaz,1328.32,withdrawal,NG,declined,2026-05-24 12:16:29.129980,0
-172,4433,Santos-Baker,520.44,transfer,UK,approved,2026-05-24 12:16:29.130141,0
-173,3201,"Brooks, Ortiz and Hayes",1598.29,transfer,UK,approved,2026-05-24 12:16:29.130384,0
-174,4620,"Martinez, Cantu and Snyder",916.07,transfer,US,declined,2026-05-24 12:16:29.130628,0
-175,2860,Cain LLC,3723.02,withdrawal,CA,approved,2026-05-24 12:16:29.130721,0
-176,4749,Haynes and Sons,4559.5,transfer,US,approved,2026-05-24 12:16:29.130812,0
-177,3613,Hodges Group,3670.37,transfer,US,declined,2026-05-24 12:16:29.130903,0
-178,4862,Jefferson Ltd,1004.52,purchase,CA,approved,2026-05-24 12:16:29.130995,0
-179,1211,"Steele, Rhodes and Hughes",2575.84,purchase,UK,declined,2026-05-24 12:16:29.131231,0
-180,2652,"Singh, Johnson and Oliver",3699.87,purchase,NG,approved,2026-05-24 12:16:29.131471,0
-181,2002,"Sanders, Kennedy and Brown",3597.03,transfer,UK,declined,2026-05-24 12:16:29.131708,1
-182,4783,Lin Inc,2285.31,purchase,US,approved,2026-05-24 12:16:29.131800,0
-183,4598,Soto LLC,1708.35,transfer,US,declined,2026-05-24 12:16:29.131895,0
-184,4896,Roberts LLC,2216.4,transfer,US,declined,2026-05-24 12:16:29.131986,1
-185,3262,"Hayes, Duffy and Evans",3020.51,withdrawal,NG,approved,2026-05-24 12:16:29.132223,0
-186,4188,Thomas-Colon,3717.77,purchase,US,declined,2026-05-24 12:16:29.132386,0
-187,1756,Mitchell and Sons,1507.12,withdrawal,UK,approved,2026-05-24 12:16:29.132479,0
-188,2598,"Cook, Garrison and Barajas",2993.69,purchase,UK,approved,2026-05-24 12:16:29.132716,1
-189,4314,Elliott-Nguyen,4216.58,withdrawal,CA,approved,2026-05-24 12:16:29.132877,0
-190,1330,"Fuller, Calhoun and Martin",841.29,purchase,UK,declined,2026-05-24 12:16:29.133120,0
-191,3384,"Mcgee, Mann and Williams",573.19,transfer,US,declined,2026-05-24 12:16:29.133357,0
-192,1232,Marks and Sons,2420.66,withdrawal,NG,approved,2026-05-24 12:16:29.133449,0
-193,2918,Jones-Rivas,500.59,purchase,US,approved,2026-05-24 12:16:29.133617,0
-194,4388,Marquez-Mitchell,1881.11,purchase,UK,approved,2026-05-24 12:16:29.133780,1
-195,2740,Hensley-Garcia,2930.99,purchase,CA,approved,2026-05-24 12:16:29.133942,0
-196,1894,Newman-Hall,618.14,withdrawal,UK,declined,2026-05-24 12:16:29.134110,0
-197,3152,"Baxter, Decker and Carrillo",3482.65,purchase,UK,declined,2026-05-24 12:16:29.134348,0
-198,1689,"Chapman, Hubbard and Brown",358.4,transfer,CA,declined,2026-05-24 12:16:29.134585,0
-199,2131,Pena Inc,38.8,purchase,CA,declined,2026-05-24 12:16:29.134677,0
-200,4665,Webb Group,240.78,withdrawal,CA,approved,2026-05-24 12:16:29.134769,1
-201,1039,Ramos-Wilson,1150.67,transfer,UK,approved,2026-05-24 12:16:29.134931,0
-202,4783,"Wallace, Hurst and Lee",1037.13,purchase,NG,approved,2026-05-24 12:16:29.135175,0
-203,2327,"Gordon, Stevens and Shepard",664.13,withdrawal,UK,declined,2026-05-24 12:16:29.135413,0
-204,3675,Walker Group,3490.67,withdrawal,US,declined,2026-05-24 12:16:29.135510,0
-205,4484,Patel LLC,2496.98,transfer,NG,declined,2026-05-24 12:16:29.135604,0
-206,2089,"Castro, Pitts and Johnson",1850.5,transfer,CA,declined,2026-05-24 12:16:29.135842,1
-207,1303,Smith Ltd,2381.07,transfer,US,declined,2026-05-24 12:16:29.135933,0
-208,2908,Romero-Burgess,1911.52,transfer,NG,declined,2026-05-24 12:16:29.136096,1
-209,4089,"Strong, Perry and Alexander",1648.57,purchase,CA,declined,2026-05-24 12:16:29.136334,0
-210,3942,Day-Burns,4534.28,purchase,NG,declined,2026-05-24 12:16:29.136498,0
-211,4670,Gray-Moss,717.41,transfer,NG,approved,2026-05-24 12:16:29.136662,1
-212,4118,Wilcox-Dixon,1214.23,transfer,US,declined,2026-05-24 12:16:29.136823,1
-213,2187,"Wilkerson, Burton and Anderson",861.51,transfer,NG,approved,2026-05-24 12:16:29.137069,1
-214,4220,"Wise, Anderson and Rich",711.08,transfer,US,declined,2026-05-24 12:16:29.137307,1
-215,3486,"Smith, Barron and Torres",1170.81,transfer,CA,declined,2026-05-24 12:16:29.137545,0
-216,2108,"Perez, Gonzalez and Reid",3853.76,withdrawal,NG,approved,2026-05-24 12:16:29.137782,0
-217,2228,Stanley and Sons,4310.68,purchase,CA,approved,2026-05-24 12:16:29.137873,0
-218,4099,"Payne, Riley and Davenport",1247.78,withdrawal,US,declined,2026-05-24 12:16:29.138116,0
-219,4703,Miranda-Christian,4944.81,withdrawal,UK,declined,2026-05-24 12:16:29.138281,1
-220,2716,Nicholson and Sons,869.11,transfer,UK,declined,2026-05-24 12:16:29.138372,0
-221,3601,Fisher and Sons,1318.71,transfer,CA,approved,2026-05-24 12:16:29.138464,0
-222,2912,Rodriguez LLC,1328.12,withdrawal,US,approved,2026-05-24 12:16:29.138557,0
-223,4799,Robertson-Clark,1850.28,purchase,CA,declined,2026-05-24 12:16:29.138720,1
-224,4111,Rodriguez Inc,1479.6,purchase,US,approved,2026-05-24 12:16:29.138810,1
-225,2585,Mcdonald-Bauer,1187.98,withdrawal,NG,approved,2026-05-24 12:16:29.138972,0
-226,3983,Woods Inc,1781.24,transfer,UK,approved,2026-05-24 12:16:29.139064,1
-227,1867,Gutierrez-King,9.36,withdrawal,US,approved,2026-05-24 12:16:29.139230,0
-228,2453,Davis Group,4516.69,transfer,US,approved,2026-05-24 12:16:29.139321,0
-229,2696,Bennett PLC,1561.57,purchase,US,declined,2026-05-24 12:16:29.139412,0
-230,2315,"Mcbride, Herring and Mann",4966.99,transfer,US,declined,2026-05-24 12:16:29.139649,0
-231,3402,"Burns, Davis and Bell",4035.38,purchase,UK,approved,2026-05-24 12:16:29.139887,0
-232,3512,Clark-Baker,1746.53,withdrawal,NG,declined,2026-05-24 12:16:29.140053,0
-233,1861,"Fernandez, Young and Stevens",2010.75,purchase,UK,approved,2026-05-24 12:16:29.140290,0
-234,2057,Smith-Ward,1369.69,withdrawal,NG,approved,2026-05-24 12:16:29.140453,0
-235,4918,Neal PLC,35.61,transfer,NG,approved,2026-05-24 12:16:29.140544,0
-236,1849,Singleton Inc,1073.6,withdrawal,US,approved,2026-05-24 12:16:29.140634,0
-237,4560,Massey-Benton,1169.31,transfer,NG,declined,2026-05-24 12:16:29.140802,0
-238,2963,Bush Ltd,2017.78,transfer,NG,approved,2026-05-24 12:16:29.140893,1
-239,4537,Riley-Kramer,4343.28,purchase,NG,approved,2026-05-24 12:16:29.141054,0
-240,4274,"Watkins, Fields and Brown",563.28,withdrawal,CA,declined,2026-05-24 12:16:29.141291,0
-241,1409,Garcia-Evans,4493.49,withdrawal,UK,approved,2026-05-24 12:16:29.141454,0
-242,3953,"Rodriguez, Tucker and Leon",2564.82,transfer,US,declined,2026-05-24 12:16:29.141690,0
-243,3542,West Inc,1923.25,purchase,NG,declined,2026-05-24 12:16:29.141781,0
-244,2251,"Martin, Wilcox and Murphy",12.81,purchase,CA,approved,2026-05-24 12:16:29.142018,0
-245,2718,"Davis, Cohen and Roberts",239.66,transfer,UK,declined,2026-05-24 12:16:29.142257,0
-246,3865,Nelson-Martin,1217.75,purchase,UK,approved,2026-05-24 12:16:29.142422,1
-247,2741,"Burch, Molina and Benton",3372.97,transfer,NG,approved,2026-05-24 12:16:29.142663,0
-248,2580,Sullivan PLC,2678.62,purchase,NG,declined,2026-05-24 12:16:29.142757,0
-249,2291,Wallace and Sons,4244.43,purchase,CA,approved,2026-05-24 12:16:29.142849,1
-250,2929,Lamb-Dominguez,890.82,transfer,NG,declined,2026-05-24 12:16:29.143014,1
-251,4315,Hernandez Ltd,370.84,transfer,NG,declined,2026-05-24 12:16:29.143106,1
-252,3156,French and Sons,3563.21,transfer,UK,approved,2026-05-24 12:16:29.143200,0
-253,1677,Garcia PLC,2616.33,transfer,US,declined,2026-05-24 12:16:29.143290,0
-254,2168,Jackson Inc,2480.03,transfer,CA,declined,2026-05-24 12:16:29.143380,0
-255,3897,Weber-Houston,1893.3,transfer,US,approved,2026-05-24 12:16:29.143541,0
-256,2768,"Snyder, Valencia and Leon",1167.96,withdrawal,CA,approved,2026-05-24 12:16:29.143778,1
-257,1761,Martinez LLC,2711.52,withdrawal,US,declined,2026-05-24 12:16:29.143869,0
-258,3252,"Kennedy, Lewis and Kim",2919.66,transfer,UK,approved,2026-05-24 12:16:29.144106,1
-259,3208,Collins Ltd,563.93,purchase,NG,declined,2026-05-24 12:16:29.144198,0
-260,4290,"Yoder, Graham and Parker",4217.06,withdrawal,US,declined,2026-05-24 12:16:29.144434,1
-261,2966,"Terrell, Cooper and Ramos",985.6,transfer,NG,approved,2026-05-24 12:16:29.144671,0
-262,4406,Wood and Sons,265.97,withdrawal,US,declined,2026-05-24 12:16:29.144763,0
-263,3405,"Peterson, Johnson and Foster",317.5,transfer,UK,approved,2026-05-24 12:16:29.144998,0
-264,4749,Garcia-Potts,3124.82,transfer,NG,declined,2026-05-24 12:16:29.145160,0
-265,4837,Owens PLC,3212.02,withdrawal,CA,approved,2026-05-24 12:16:29.145299,0
-266,2916,Greene-Young,1774.38,transfer,UK,declined,2026-05-24 12:16:29.145491,0
-267,3001,Mitchell Ltd,3482.74,transfer,NG,approved,2026-05-24 12:16:29.145590,0
-268,3999,"Phillips, Gonzalez and Curtis",1574.63,transfer,US,approved,2026-05-24 12:16:29.145833,0
-269,2792,Rogers-Marshall,1979.46,transfer,UK,approved,2026-05-24 12:16:29.145999,1
-270,1652,Hayes-Chan,130.87,transfer,US,declined,2026-05-24 12:16:29.146165,0
-271,4181,Lang LLC,4679.11,purchase,CA,approved,2026-05-24 12:16:29.146264,0
-272,1821,"Jones, Kramer and Nolan",2142.46,purchase,CA,declined,2026-05-24 12:16:29.146504,0
-273,1094,"Norman, Miller and Lee",2911.82,transfer,CA,approved,2026-05-24 12:16:29.146743,0
-274,2165,"Nguyen, Nguyen and Wiley",4391.72,purchase,UK,approved,2026-05-24 12:16:29.146985,0
-275,4625,Martin Ltd,3193.7,withdrawal,US,approved,2026-05-24 12:16:29.147077,0
-276,1830,Simmons Ltd,3700.22,withdrawal,NG,approved,2026-05-24 12:16:29.147169,0
-277,3398,"Glass, Smith and Watts",2352.37,purchase,US,declined,2026-05-24 12:16:29.147408,1
-278,4141,Mitchell-Moore,1806.9,transfer,UK,approved,2026-05-24 12:16:29.147571,0
-279,2343,Terry Group,1507.26,withdrawal,US,approved,2026-05-24 12:16:29.147663,0
-280,4015,Bradley LLC,4492.23,transfer,US,approved,2026-05-24 12:16:29.147754,0
-281,3680,Mendoza Inc,4470.67,purchase,NG,declined,2026-05-24 12:16:29.147844,0
-282,2359,Howard-Livingston,3786.92,withdrawal,NG,declined,2026-05-24 12:16:29.148007,0
-283,4900,Pruitt-Dixon,4992.79,transfer,US,approved,2026-05-24 12:16:29.148217,0
-284,3815,Wise-Harris,2244.86,transfer,US,approved,2026-05-24 12:16:29.148396,0
-285,1152,Hernandez-Miles,1436.21,purchase,UK,declined,2026-05-24 12:16:29.148562,0
-286,4236,"Frye, Hunt and Murphy",4446.81,transfer,CA,approved,2026-05-24 12:16:29.148806,0
-287,1445,Cameron-Hernandez,2954.46,transfer,US,approved,2026-05-24 12:16:29.148969,0
-288,3754,Morrison-Daugherty,2701.64,transfer,CA,approved,2026-05-24 12:16:29.149130,1
-289,1941,Silva and Sons,2529.19,transfer,US,approved,2026-05-24 12:16:29.149222,1
-290,3736,Jackson-Schneider,753.06,withdrawal,US,approved,2026-05-24 12:16:29.149384,0
-291,3446,"Gonzalez, Vang and Cline",3538.02,withdrawal,NG,approved,2026-05-24 12:16:29.149624,0
-292,3720,"Garza, Lamb and Nichols",1220.7,withdrawal,NG,approved,2026-05-24 12:16:29.149859,0
-293,1722,Alexander-Davila,112.2,withdrawal,CA,approved,2026-05-24 12:16:29.150020,1
-294,4243,Johnson-Manning,4857.6,withdrawal,US,declined,2026-05-24 12:16:29.150180,0
-295,2598,Kelly-Price,608.16,purchase,CA,declined,2026-05-24 12:16:29.150341,1
-296,4427,Orozco-Morse,4837.99,purchase,NG,approved,2026-05-24 12:16:29.150501,0
-297,3843,Rodriguez Group,3883.31,withdrawal,CA,declined,2026-05-24 12:16:29.150592,0
-298,4849,Johnson Group,3356.31,transfer,CA,declined,2026-05-24 12:16:29.150681,0
-299,1716,"Smith, Brown and Lane",1396.26,transfer,NG,approved,2026-05-24 12:16:29.150918,1
-300,3359,"Knight, Morris and Martinez",3203.25,withdrawal,CA,approved,2026-05-24 12:16:29.151153,0
-301,4598,Bryan-Haynes,1628.8,withdrawal,NG,approved,2026-05-24 12:16:29.151313,0
-302,1170,Doyle Group,4637.13,purchase,NG,approved,2026-05-24 12:16:29.151402,0
-303,1081,"Kim, Mendez and Moore",2284.74,withdrawal,UK,approved,2026-05-24 12:16:29.151672,1
-304,1406,"Dickson, Gonzalez and Johnson",4997.63,withdrawal,US,declined,2026-05-24 12:16:29.151946,0
-305,4427,Nielsen-Gordon,4281.45,purchase,US,approved,2026-05-24 12:16:29.152117,0
-306,4719,Payne-Johnson,1656.11,withdrawal,US,approved,2026-05-24 12:16:29.152283,0
-307,2882,Fischer Group,1730.34,withdrawal,US,approved,2026-05-24 12:16:29.152377,0
-308,3986,"Ellison, Thompson and Gonzales",4168.03,withdrawal,NG,approved,2026-05-24 12:16:29.152624,0
-309,1790,"Torres, Lang and Summers",1746.69,withdrawal,US,approved,2026-05-24 12:16:29.152865,0
-310,3373,Good and Sons,3840.29,purchase,US,approved,2026-05-24 12:16:29.152963,0
-311,3929,Nguyen PLC,2207.02,withdrawal,NG,declined,2026-05-24 12:16:29.153055,0
-312,3729,"Mccarty, Cruz and Perez",4699.23,purchase,UK,approved,2026-05-24 12:16:29.153295,0
-313,1773,"Cunningham, Mann and Stevens",3473.57,transfer,NG,declined,2026-05-24 12:16:29.153536,0
-314,4486,Rice-Estes,292.69,withdrawal,CA,declined,2026-05-24 12:16:29.153700,0
-315,4662,Knapp Ltd,3348.47,withdrawal,NG,declined,2026-05-24 12:16:29.153792,1
-316,2447,Daniels-Pierce,4138.94,transfer,NG,declined,2026-05-24 12:16:29.153954,0
-317,4928,"Vargas, Lee and Warren",2393.71,withdrawal,UK,declined,2026-05-24 12:16:29.154192,1
-318,1821,"Phillips, Hatfield and Gonzales",2034.65,purchase,NG,declined,2026-05-24 12:16:29.154430,0
-319,4255,Spence-Sullivan,3976.74,withdrawal,CA,declined,2026-05-24 12:16:29.154595,1
-320,3484,"Watkins, Mendez and Johnson",3171.6,purchase,US,declined,2026-05-24 12:16:29.154833,1
-321,1259,Moran Ltd,1900.96,transfer,US,declined,2026-05-24 12:16:29.154926,0
-322,2895,Blackburn-Nixon,1498.9,purchase,CA,declined,2026-05-24 12:16:29.155088,1
-323,1086,Ingram LLC,1359.41,withdrawal,NG,declined,2026-05-24 12:16:29.155180,0
-324,2303,"Frazier, Smith and Taylor",4267.26,withdrawal,NG,approved,2026-05-24 12:16:29.155423,1
-325,4868,"Orozco, Martinez and Elliott",4957.12,withdrawal,NG,declined,2026-05-24 12:16:29.155662,0
-326,3176,Frye-Johnston,4763.34,purchase,CA,declined,2026-05-24 12:16:29.155825,1
-327,3017,Zimmerman LLC,2346.15,purchase,CA,declined,2026-05-24 12:16:29.155917,0
-328,2940,Drake-Parker,3090.77,withdrawal,NG,declined,2026-05-24 12:16:29.156095,0
-329,1015,Nash Ltd,3656.41,withdrawal,CA,approved,2026-05-24 12:16:29.156189,1
-330,3952,Guzman-Guerrero,3241.65,purchase,CA,declined,2026-05-24 12:16:29.156358,0
-331,1418,Kim PLC,712.81,withdrawal,NG,declined,2026-05-24 12:16:29.156451,1
-332,1412,"David, Evans and Howard",737.24,purchase,US,declined,2026-05-24 12:16:29.156716,1
-333,2924,Hall Inc,2965.73,purchase,NG,approved,2026-05-24 12:16:29.156837,0
-334,4871,Gonzalez PLC,808.5,transfer,US,declined,2026-05-24 12:16:29.156937,0
-335,1151,Rodriguez LLC,1436.95,transfer,NG,declined,2026-05-24 12:16:29.157038,0
-336,2809,"Vance, Wheeler and Black",1689.22,transfer,UK,declined,2026-05-24 12:16:29.157282,0
-337,4780,Duffy Group,2515.15,transfer,US,declined,2026-05-24 12:16:29.157376,1
-338,4609,"Perry, Fitzgerald and Woods",3754.15,withdrawal,UK,approved,2026-05-24 12:16:29.157617,0
-339,4150,Sims LLC,4416.95,transfer,US,approved,2026-05-24 12:16:29.157710,0
-340,4279,"Thompson, Duke and Collins",2755.08,transfer,NG,approved,2026-05-24 12:16:29.157954,1
-341,4186,Barker-Delgado,1702.76,transfer,US,declined,2026-05-24 12:16:29.158119,0
-342,4727,Phillips-Edwards,1087.43,purchase,CA,approved,2026-05-24 12:16:29.158283,0
-343,3424,"Alexander, Jones and Harris",4582.5,withdrawal,UK,approved,2026-05-24 12:16:29.158523,1
-344,3924,"Dyer, Brennan and Moore",2639.39,purchase,NG,declined,2026-05-24 12:16:29.158763,0
-345,4330,Walsh-Davis,693.24,transfer,NG,approved,2026-05-24 12:16:29.158928,0
-346,3625,Welch-Baird,3280.64,transfer,UK,approved,2026-05-24 12:16:29.159092,0
-347,3608,Morton-Watts,4453.3,purchase,NG,approved,2026-05-24 12:16:29.159256,0
-348,1427,Ramirez-Grant,4631.74,purchase,NG,declined,2026-05-24 12:16:29.159419,0
-349,3370,"Reed, Stout and Jackson",2700.47,withdrawal,US,declined,2026-05-24 12:16:29.159667,0
-350,1112,Hicks Group,4439.19,withdrawal,US,declined,2026-05-24 12:16:29.159759,0
-351,3860,Perry-Rhodes,3107.9,withdrawal,UK,declined,2026-05-24 12:16:29.159923,1
-352,3478,Higgins and Sons,3181.02,purchase,CA,approved,2026-05-24 12:16:29.160015,0
-353,1934,Johnson LLC,677.66,transfer,US,declined,2026-05-24 12:16:29.160106,1
-354,2292,Marshall-Dennis,4219.1,withdrawal,US,declined,2026-05-24 12:16:29.160270,1
-355,2673,"Richardson, Oneill and Ross",4680.93,purchase,US,approved,2026-05-24 12:16:29.160509,0
-356,1764,Vazquez-Shepherd,20.99,withdrawal,UK,approved,2026-05-24 12:16:29.160674,1
-357,3314,"Brown, Booth and Smith",668.75,purchase,US,declined,2026-05-24 12:16:29.160914,0
-358,1771,"House, Curry and Hunt",2874.75,transfer,CA,declined,2026-05-24 12:16:29.161154,0
-359,1066,Martinez-Garcia,1228.47,withdrawal,US,declined,2026-05-24 12:16:29.161318,1
-360,4478,Adams and Sons,1426.77,withdrawal,NG,approved,2026-05-24 12:16:29.161410,0
-361,1827,"Anderson, Ward and Blackburn",1628.81,withdrawal,US,approved,2026-05-24 12:16:29.161649,0
-362,1483,Garcia Group,4298.61,withdrawal,CA,approved,2026-05-24 12:16:29.161742,0
-363,4687,Silva-Taylor,4405.65,transfer,US,approved,2026-05-24 12:16:29.161921,1
-364,1344,Williams Inc,2373.17,purchase,US,declined,2026-05-24 12:16:29.162010,1
-365,1432,Evans Inc,4492.9,withdrawal,CA,declined,2026-05-24 12:16:29.162173,1
-366,3547,Miller-Hoffman,2517.26,transfer,UK,declined,2026-05-24 12:16:29.162361,0
-367,2872,"Bright, Lang and Brown",823.15,purchase,US,approved,2026-05-24 12:16:29.162604,0
-368,3608,"Velasquez, Miller and Taylor",365.05,withdrawal,CA,approved,2026-05-24 12:16:29.162843,0
-369,2625,Burns Ltd,858.67,withdrawal,UK,declined,2026-05-24 12:16:29.162942,1
-370,3443,Pearson PLC,4477.06,withdrawal,US,approved,2026-05-24 12:16:29.163033,1
-371,4339,"Austin, Austin and Chavez",3111.55,withdrawal,NG,declined,2026-05-24 12:16:29.163272,1
-372,2326,"James, Contreras and Holden",2447.21,transfer,NG,declined,2026-05-24 12:16:29.163509,1
-373,3256,Huynh-Boyer,1402.89,transfer,UK,approved,2026-05-24 12:16:29.163671,0
-374,2116,"Chavez, Rodriguez and Vargas",1042.38,purchase,NG,approved,2026-05-24 12:16:29.163905,1
-375,4464,"Miller, Leonard and Casey",2090.96,purchase,UK,declined,2026-05-24 12:16:29.164138,1
-376,2118,Johnson-Meyer,3660.36,withdrawal,UK,approved,2026-05-24 12:16:29.164297,0
-377,2020,Silva-White,1850.73,purchase,NG,approved,2026-05-24 12:16:29.164457,0
-378,4675,"Lawrence, Grant and Peterson",2841.93,withdrawal,US,declined,2026-05-24 12:16:29.164692,0
-379,1433,Andrade-Brown,813.9,withdrawal,CA,declined,2026-05-24 12:16:29.164852,1
-380,1524,"Barajas, Cruz and Barrett",2611.35,withdrawal,US,declined,2026-05-24 12:16:29.165086,0
-381,3891,Simpson-Williams,696.34,withdrawal,NG,declined,2026-05-24 12:16:29.165317,1
-382,2137,"Glover, Young and Torres",3645.57,transfer,UK,approved,2026-05-24 12:16:29.165626,0
-383,1238,Riddle PLC,1262.27,purchase,US,declined,2026-05-24 12:16:29.165718,0
-384,1487,Ramirez-Owen,2716.39,purchase,NG,declined,2026-05-24 12:16:29.165880,0
-385,4483,Blanchard PLC,3728.93,transfer,NG,approved,2026-05-24 12:16:29.165971,0
-386,2908,Matthews-English,2381.9,purchase,NG,approved,2026-05-24 12:16:29.166132,0
-387,4235,Carlson and Sons,2066.29,purchase,UK,declined,2026-05-24 12:16:29.166223,1
-388,1294,"Ross, Brandt and Wall",958.51,purchase,CA,declined,2026-05-24 12:16:29.166502,1
-389,2574,"Pitts, Woods and Mckay",3798.03,withdrawal,US,approved,2026-05-24 12:16:29.166831,0
-390,4565,West LLC,4824.57,purchase,NG,approved,2026-05-24 12:16:29.167002,0
-391,3304,"Turner, Horton and Stephenson",3842.59,transfer,US,approved,2026-05-24 12:16:29.167267,0
-392,4541,Oliver Ltd,280.92,transfer,CA,approved,2026-05-24 12:16:29.167359,0
-393,3710,Poole Ltd,3561.76,withdrawal,NG,approved,2026-05-24 12:16:29.167448,1
-394,3260,Phillips LLC,547.47,purchase,NG,approved,2026-05-24 12:16:29.167537,0
-395,3200,Evans Inc,4163.08,transfer,US,declined,2026-05-24 12:16:29.167625,0
-396,4287,Odonnell-Flores,3661.73,purchase,NG,approved,2026-05-24 12:16:29.167781,1
-397,3616,"Paul, Kirk and Payne",857.08,transfer,NG,approved,2026-05-24 12:16:29.168015,0
-398,3262,Bell LLC,4406.19,purchase,UK,declined,2026-05-24 12:16:29.168105,0
-399,2980,Martinez PLC,2045.34,purchase,US,approved,2026-05-24 12:16:29.168192,0
-400,2079,Shepard-Schneider,1503.67,withdrawal,NG,declined,2026-05-24 12:16:29.168350,0
-401,3082,"Gonzalez, Combs and Ortiz",4402.7,purchase,CA,approved,2026-05-24 12:16:29.168581,1
-402,3101,Wong-Reynolds,1292.24,purchase,UK,approved,2026-05-24 12:16:29.168738,0
-403,4731,Mcdowell-Ellis,2768.26,withdrawal,NG,approved,2026-05-24 12:16:29.168895,1
-404,2150,Glover-Michael,3381.01,withdrawal,CA,approved,2026-05-24 12:16:29.169053,1
-405,2971,Anderson Ltd,4998.68,transfer,US,approved,2026-05-24 12:16:29.169141,1
-406,1382,"Cook, Harris and Freeman",4677.5,withdrawal,CA,declined,2026-05-24 12:16:29.169370,0
-407,2843,Gonzales-Lawrence,3537.47,withdrawal,US,approved,2026-05-24 12:16:29.169527,1
-408,2533,"Orr, Cervantes and Cole",1585.73,transfer,CA,approved,2026-05-24 12:16:29.169761,0
-409,4968,"Smith, Coleman and Bates",3445.69,withdrawal,CA,declined,2026-05-24 12:16:29.169990,0
-410,3404,Friedman-Mcdonald,3831.52,purchase,UK,declined,2026-05-24 12:16:29.170147,0
-411,4559,Castillo-Moore,1642.96,purchase,US,declined,2026-05-24 12:16:29.170304,1
-412,2303,"Huerta, Nguyen and Flowers",781.34,transfer,UK,approved,2026-05-24 12:16:29.170533,0
-413,3597,"Doyle, Gray and Kennedy",1344.16,purchase,CA,approved,2026-05-24 12:16:29.170766,0
-414,2099,"Clark, Martin and Marshall",1623.5,withdrawal,CA,declined,2026-05-24 12:16:29.170994,0
-415,3099,Ortega Inc,4969.03,transfer,US,approved,2026-05-24 12:16:29.171083,0
-416,2145,Williams-Butler,1997.59,transfer,NG,declined,2026-05-24 12:16:29.171239,1
-417,3079,"Sanders, Alexander and Brown",2838.06,transfer,CA,approved,2026-05-24 12:16:29.171468,0
-418,4190,Williams-Williams,1935.56,transfer,NG,declined,2026-05-24 12:16:29.171627,0
-419,1297,Palmer-Richardson,3256.17,purchase,NG,approved,2026-05-24 12:16:29.171784,0
-420,3482,"Davila, Romero and Martin",896.64,withdrawal,UK,approved,2026-05-24 12:16:29.172014,0
-421,1026,"Olson, Fisher and Larson",3293.32,purchase,UK,approved,2026-05-24 12:16:29.172244,1
-422,4008,Anderson PLC,1264.75,purchase,US,declined,2026-05-24 12:16:29.172332,0
-423,2625,"Andrade, Banks and Shields",819.29,purchase,US,declined,2026-05-24 12:16:29.172560,0
-424,1090,Greer-Morgan,404.39,purchase,UK,declined,2026-05-24 12:16:29.172716,0
-425,4745,Reed-Thomas,3350.35,transfer,CA,declined,2026-05-24 12:16:29.172871,1
-426,3616,"Martinez, Wolfe and Jackson",4198.96,transfer,NG,approved,2026-05-24 12:16:29.173179,1
-427,1828,Bell PLC,2001.12,transfer,CA,approved,2026-05-24 12:16:29.173272,0
-428,1726,"Cruz, Garcia and Olsen",2231.94,purchase,NG,declined,2026-05-24 12:16:29.173502,0
-429,2092,Osborn-Curry,3250.28,withdrawal,NG,approved,2026-05-24 12:16:29.173659,0
-430,4323,Carr Group,1957.33,purchase,US,approved,2026-05-24 12:16:29.173747,0
-431,2374,Barnes-Shaw,1048.33,transfer,US,approved,2026-05-24 12:16:29.173908,0
-432,2597,Sanchez-Johnson,3086.23,purchase,CA,declined,2026-05-24 12:16:29.174065,0
-433,1557,Lewis-Rivers,4523.55,transfer,US,approved,2026-05-24 12:16:29.174223,1
-434,4148,Harris-Spears,2646.15,purchase,UK,approved,2026-05-24 12:16:29.174380,1
-435,2153,"Shaw, Dorsey and Nelson",1331.15,purchase,CA,approved,2026-05-24 12:16:29.174610,0
-436,3948,"Henson, Jones and Fletcher",148.75,transfer,UK,declined,2026-05-24 12:16:29.174837,0
-437,1151,Arnold PLC,2023.23,withdrawal,CA,approved,2026-05-24 12:16:29.174925,0
-438,4304,Brown-Jimenez,3211.18,purchase,NG,approved,2026-05-24 12:16:29.175082,0
-439,2140,Howell and Sons,750.58,transfer,NG,approved,2026-05-24 12:16:29.175171,0
-440,1725,Green PLC,3955.25,withdrawal,US,declined,2026-05-24 12:16:29.175258,0
-441,3592,Barnett Inc,2558.88,transfer,CA,declined,2026-05-24 12:16:29.175345,0
-442,2018,"Washington, Durham and Lee",4595.18,withdrawal,CA,declined,2026-05-24 12:16:29.175574,0
-443,3906,Chang-Lucas,2403.82,transfer,NG,declined,2026-05-24 12:16:29.175731,0
-444,1354,Rivera Group,4888.55,transfer,UK,approved,2026-05-24 12:16:29.175819,0
-445,1100,Preston-Williams,439.77,withdrawal,UK,declined,2026-05-24 12:16:29.175975,0
-446,1167,"Roberson, Santos and Foley",1219.53,purchase,CA,approved,2026-05-24 12:16:29.176204,0
-447,3821,Jones Inc,3432.76,transfer,CA,declined,2026-05-24 12:16:29.176296,0
-448,1415,Bell-Barron,818.0,withdrawal,NG,declined,2026-05-24 12:16:29.176452,0
-449,3276,Sutton LLC,1248.7,withdrawal,CA,approved,2026-05-24 12:16:29.176540,0
-450,3010,"Myers, Gibson and Watkins",2790.91,transfer,UK,declined,2026-05-24 12:16:29.176772,0
-451,2871,Jordan-Maynard,4531.82,purchase,CA,approved,2026-05-24 12:16:29.176930,0
-452,4572,"Salinas, Romero and Cole",258.57,transfer,UK,approved,2026-05-24 12:16:29.177159,0
-453,1607,Lawson-Miller,3371.71,transfer,NG,approved,2026-05-24 12:16:29.177353,0
-454,1550,Acosta-Roberts,620.58,purchase,CA,approved,2026-05-24 12:16:29.177616,0
-455,4744,Anderson-Smith,96.88,withdrawal,NG,approved,2026-05-24 12:16:29.177773,0
-456,1352,Medina Inc,1020.99,withdrawal,UK,approved,2026-05-24 12:16:29.177864,1
-457,4266,"Frank, Price and Khan",3145.7,purchase,US,declined,2026-05-24 12:16:29.178221,0
-458,3398,"Pugh, Schultz and Holmes",496.56,withdrawal,UK,approved,2026-05-24 12:16:29.178470,0
-459,4724,Calderon-Underwood,3759.21,purchase,NG,approved,2026-05-24 12:16:29.178635,0
-460,4493,Solis-Young,3381.28,purchase,NG,approved,2026-05-24 12:16:29.178796,0
-461,3945,"Burgess, Norris and Harmon",902.32,transfer,CA,approved,2026-05-24 12:16:29.179031,1
-462,1505,Avery Inc,1393.3,withdrawal,US,declined,2026-05-24 12:16:29.179122,0
-463,3602,"Joyce, Ruiz and Murray",2984.96,withdrawal,UK,declined,2026-05-24 12:16:29.179468,0
-464,3733,"Stuart, Leach and Gonzales",4054.91,purchase,NG,approved,2026-05-24 12:16:29.179705,1
-465,4888,"Robertson, Combs and Moore",729.29,withdrawal,UK,approved,2026-05-24 12:16:29.179946,0
-466,4199,"Marshall, Kramer and Deleon",994.83,transfer,UK,approved,2026-05-24 12:16:29.180184,1
-467,3102,Franklin-Walker,2930.26,withdrawal,UK,approved,2026-05-24 12:16:29.180344,1
-468,2436,Pollard-Anderson,193.57,withdrawal,US,declined,2026-05-24 12:16:29.180505,0
-469,4701,Ayala-Bond,451.41,purchase,NG,approved,2026-05-24 12:16:29.180666,0
-470,3292,"Jones, Graves and Green",1644.59,withdrawal,UK,declined,2026-05-24 12:16:29.180901,0
-471,2792,Williams and Sons,3988.7,purchase,UK,declined,2026-05-24 12:16:29.180991,1
-472,1089,Miller-Hill,2599.12,transfer,NG,approved,2026-05-24 12:16:29.181152,0
-473,3126,"Wolf, Guzman and Booth",1457.17,transfer,NG,declined,2026-05-24 12:16:29.181388,0
-474,3011,Green-Melton,4429.97,withdrawal,NG,declined,2026-05-24 12:16:29.181548,1
-475,4750,Russell-Haley,4772.24,withdrawal,CA,declined,2026-05-24 12:16:29.181708,0
-476,1480,Nelson-Rios,2797.77,transfer,US,declined,2026-05-24 12:16:29.181916,0
-477,2301,Coleman and Sons,3145.2,withdrawal,US,declined,2026-05-24 12:16:29.182009,0
-478,1088,Vargas PLC,360.2,transfer,CA,declined,2026-05-24 12:16:29.182101,1
-479,2563,Ellis Inc,2229.26,withdrawal,US,approved,2026-05-24 12:16:29.182193,0
-480,1786,Dorsey Ltd,4280.94,withdrawal,CA,declined,2026-05-24 12:16:29.182285,0
-481,2498,Smith-Moore,3398.78,purchase,NG,declined,2026-05-24 12:16:29.182453,0
-482,2329,Martin-Perez,340.38,withdrawal,NG,declined,2026-05-24 12:16:29.182621,0
-483,3511,Tanner Ltd,4406.66,withdrawal,US,approved,2026-05-24 12:16:29.182715,1
-484,3805,"White, Meyer and Higgins",2668.74,withdrawal,UK,approved,2026-05-24 12:16:29.182957,1
-485,1710,Rocha-Cooper,359.76,withdrawal,UK,declined,2026-05-24 12:16:29.183178,0
-486,1476,"Lewis, House and Morris",1336.05,purchase,CA,declined,2026-05-24 12:16:29.183464,1
-487,4227,King PLC,363.95,purchase,CA,declined,2026-05-24 12:16:29.183564,0
-488,2456,Jackson-Vega,2629.98,purchase,CA,declined,2026-05-24 12:16:29.183731,0
-489,1703,Ross-Sullivan,2375.21,purchase,UK,approved,2026-05-24 12:16:29.183898,0
-490,4549,"Norris, Jackson and Perry",2284.42,withdrawal,US,approved,2026-05-24 12:16:29.184141,0
-491,2468,Ruiz-Torres,3647.06,transfer,US,approved,2026-05-24 12:16:29.184306,1
-492,2914,"Obrien, Williams and Sweeney",1678.08,withdrawal,NG,declined,2026-05-24 12:16:29.184547,0
-493,4162,Knight and Sons,2918.72,purchase,US,declined,2026-05-24 12:16:29.184641,0
-494,2159,Stevens Inc,3825.84,withdrawal,NG,approved,2026-05-24 12:16:29.184732,1
-495,4585,"Simpson, Luna and Kline",4269.43,withdrawal,CA,declined,2026-05-24 12:16:29.184971,0
-496,2512,Brown Ltd,4735.92,purchase,US,approved,2026-05-24 12:16:29.185063,1
-497,1801,Bradshaw-Mitchell,4212.94,withdrawal,UK,approved,2026-05-24 12:16:29.185226,0
-498,2602,White and Sons,3709.47,transfer,US,declined,2026-05-24 12:16:29.185318,0
-499,1688,Scott-Morgan,32.83,transfer,CA,declined,2026-05-24 12:16:29.185485,1
-500,1459,"Waller, King and Serrano",3191.33,transfer,CA,declined,2026-05-24 12:16:29.185726,0
-501,2179,Duncan Inc,2660.84,purchase,UK,approved,2026-05-24 12:16:29.185819,0
-502,3042,"Fry, Bishop and Mccall",960.92,withdrawal,CA,approved,2026-05-24 12:16:29.186058,0
-503,1626,Hayes-Graham,2642.0,withdrawal,UK,declined,2026-05-24 12:16:29.186224,0
-504,3126,Martinez-Torres,641.17,transfer,US,declined,2026-05-24 12:16:29.186388,1
-505,1852,"Anderson, Pace and Ward",2142.84,transfer,NG,declined,2026-05-24 12:16:29.186632,0
-506,4673,"Patterson, Hall and Martinez",1060.27,transfer,UK,approved,2026-05-24 12:16:29.186870,0
-507,1255,Smith PLC,2401.38,withdrawal,UK,declined,2026-05-24 12:16:29.186964,1
-508,1105,Black-Smith,43.61,purchase,NG,approved,2026-05-24 12:16:29.187126,0
-509,3923,"Reed, West and Fletcher",2751.93,transfer,US,declined,2026-05-24 12:16:29.187365,0
-510,2144,Washington-Hicks,763.93,transfer,NG,declined,2026-05-24 12:16:29.187529,1
-511,1290,Shepard-Harris,1515.35,transfer,CA,approved,2026-05-24 12:16:29.187693,0
-512,3954,Odom-Roberts,3832.61,withdrawal,UK,approved,2026-05-24 12:16:29.187856,1
-513,4366,Wang Group,2967.46,purchase,CA,declined,2026-05-24 12:16:29.187950,1
-514,4820,Gonzalez-Russell,650.67,withdrawal,UK,declined,2026-05-24 12:16:29.188189,0
-515,3028,Green-Payne,470.36,withdrawal,NG,declined,2026-05-24 12:16:29.188369,0
-516,4655,"Hoffman, Bright and Woods",707.16,withdrawal,CA,declined,2026-05-24 12:16:29.188627,1
-517,1648,Hudson PLC,137.65,withdrawal,UK,approved,2026-05-24 12:16:29.188723,0
-518,1716,Coleman-Gonzales,4380.58,purchase,CA,declined,2026-05-24 12:16:29.188887,0
-519,2384,Myers-Silva,3190.84,purchase,UK,approved,2026-05-24 12:16:29.189051,0
-520,3289,"Day, Clark and Welch",4427.28,purchase,CA,declined,2026-05-24 12:16:29.189291,0
-521,4557,Bishop PLC,4733.39,purchase,US,approved,2026-05-24 12:16:29.189383,0
-522,3859,Johnson and Sons,3531.02,transfer,NG,declined,2026-05-24 12:16:29.189476,1
-523,2630,Mercado and Sons,3124.36,withdrawal,CA,approved,2026-05-24 12:16:29.189568,0
-524,2754,"Potts, Allen and Dennis",1139.97,purchase,US,approved,2026-05-24 12:16:29.189808,0
-525,4373,Ruiz Group,2776.95,withdrawal,US,declined,2026-05-24 12:16:29.189906,1
-526,3511,Willis-Phillips,3475.76,purchase,US,declined,2026-05-24 12:16:29.190068,1
-527,4818,"Velasquez, Cook and Medina",1214.9,transfer,NG,declined,2026-05-24 12:16:29.190307,0
-528,2027,Hamilton and Sons,2671.4,purchase,NG,declined,2026-05-24 12:16:29.190399,0
-529,2348,Thomas PLC,2076.79,withdrawal,US,declined,2026-05-24 12:16:29.190489,1
-530,2513,Page Inc,2496.04,transfer,CA,approved,2026-05-24 12:16:29.190579,0
-531,2714,"Hall, Graham and Fernandez",2649.08,withdrawal,NG,declined,2026-05-24 12:16:29.190818,0
-532,1958,Stewart PLC,4034.52,purchase,CA,declined,2026-05-24 12:16:29.190909,0
-533,1265,Pennington LLC,3814.82,transfer,CA,approved,2026-05-24 12:16:29.191000,1
-534,4856,Howard-Bennett,3302.86,transfer,UK,approved,2026-05-24 12:16:29.191163,0
-535,4115,Wallace-Wilson,203.41,purchase,NG,declined,2026-05-24 12:16:29.191327,0
-536,1386,Huff-Jackson,888.36,withdrawal,CA,declined,2026-05-24 12:16:29.191491,0
-537,3806,Taylor Inc,1742.87,transfer,UK,approved,2026-05-24 12:16:29.191583,0
-538,4843,Mclean Group,403.22,transfer,CA,approved,2026-05-24 12:16:29.191674,0
-539,1328,Powers PLC,2340.44,purchase,CA,declined,2026-05-24 12:16:29.191765,0
-540,1106,"Poole, Mendoza and Jimenez",1966.92,withdrawal,UK,approved,2026-05-24 12:16:29.192006,0
-541,2183,"Hooper, Martinez and Perez",4147.85,transfer,UK,declined,2026-05-24 12:16:29.192245,0
-542,2524,"Scott, Kennedy and Cox",90.04,purchase,NG,approved,2026-05-24 12:16:29.192487,0
-543,2951,Smith and Sons,4395.08,withdrawal,UK,approved,2026-05-24 12:16:29.192582,0
-544,1046,Hood-Garcia,4790.48,purchase,US,declined,2026-05-24 12:16:29.192748,1
-545,1507,Porter-Davis,994.54,purchase,NG,declined,2026-05-24 12:16:29.192911,0
-546,4215,Cervantes Inc,3136.59,withdrawal,US,approved,2026-05-24 12:16:29.193008,0
-547,1192,Wilson-Jensen,3427.04,transfer,UK,declined,2026-05-24 12:16:29.193172,0
-548,3946,"Ward, Moore and Jones",3170.15,withdrawal,CA,declined,2026-05-24 12:16:29.193410,0
-549,1522,Russell Ltd,1314.11,withdrawal,CA,approved,2026-05-24 12:16:29.193502,0
-550,3761,Jensen and Sons,4483.46,transfer,CA,approved,2026-05-24 12:16:29.193594,0
-551,4890,Murray LLC,4515.93,transfer,UK,approved,2026-05-24 12:16:29.193685,0
-552,2649,Cannon-Parsons,1483.46,withdrawal,NG,approved,2026-05-24 12:16:29.193847,0
-553,2011,Garcia-Reyes,93.79,purchase,NG,approved,2026-05-24 12:16:29.194010,0
-554,2438,Williams-Woods,1263.59,purchase,CA,approved,2026-05-24 12:16:29.194180,0
-555,3696,Evans and Sons,1556.68,withdrawal,NG,approved,2026-05-24 12:16:29.194273,0
-556,4116,Fowler-Smith,299.23,transfer,NG,approved,2026-05-24 12:16:29.194436,0
-557,3933,"Moses, Choi and Knox",1303.55,withdrawal,NG,approved,2026-05-24 12:16:29.194675,1
-558,3823,"Powell, Sampson and Porter",537.14,transfer,NG,approved,2026-05-24 12:16:29.194914,0
-559,3334,Moss and Sons,784.07,purchase,CA,approved,2026-05-24 12:16:29.195005,0
-560,1005,"Taylor, Frederick and Mooney",539.92,transfer,CA,approved,2026-05-24 12:16:29.195242,0
-561,2728,Johnson-Robertson,4671.05,withdrawal,CA,approved,2026-05-24 12:16:29.195405,0
-562,1251,"Hendricks, Anderson and Hicks",3110.46,transfer,NG,declined,2026-05-24 12:16:29.195642,1
-563,1211,Vargas Inc,4660.67,withdrawal,CA,declined,2026-05-24 12:16:29.195734,1
-564,3186,Colon Inc,2966.48,transfer,US,approved,2026-05-24 12:16:29.195829,0
-565,2775,Johnson Inc,2008.79,withdrawal,UK,approved,2026-05-24 12:16:29.195920,0
-566,2488,"Gregory, Chambers and Rogers",299.74,transfer,NG,approved,2026-05-24 12:16:29.196161,1
-567,3787,Davis-Chapman,1565.02,withdrawal,US,approved,2026-05-24 12:16:29.196325,0
-568,4051,Webb Ltd,4759.71,withdrawal,NG,approved,2026-05-24 12:16:29.196416,0
-569,4415,Carter LLC,3713.77,withdrawal,US,declined,2026-05-24 12:16:29.196506,0
-570,4598,"Smith, Nguyen and Baker",585.44,transfer,NG,declined,2026-05-24 12:16:29.196744,0
-571,1885,Glass-Figueroa,2342.61,purchase,UK,approved,2026-05-24 12:16:29.196909,0
-572,2176,Potts Ltd,4278.28,withdrawal,US,declined,2026-05-24 12:16:29.197001,0
-573,4513,Ray-Hill,3209.35,withdrawal,UK,approved,2026-05-24 12:16:29.197164,0
-574,1657,"Carter, Krause and Newman",3643.58,transfer,UK,declined,2026-05-24 12:16:29.197404,1
-575,2077,Garcia-Cline,1634.79,purchase,NG,approved,2026-05-24 12:16:29.197567,0
-576,2135,Reed LLC,3853.5,transfer,NG,declined,2026-05-24 12:16:29.197658,0
-577,4737,Pruitt-Ortiz,3229.14,transfer,NG,declined,2026-05-24 12:16:29.197820,0
-578,1851,"Francis, Lucas and Davenport",3778.51,purchase,NG,declined,2026-05-24 12:16:29.198061,0
-579,2776,Price-Smith,703.27,transfer,CA,approved,2026-05-24 12:16:29.198224,0
-580,1530,Rhodes PLC,2925.22,transfer,CA,declined,2026-05-24 12:16:29.198315,0
-581,1021,"Walsh, Davenport and Duncan",3054.33,transfer,NG,declined,2026-05-24 12:16:29.198557,0
-582,2276,Watkins-Mcfarland,829.58,withdrawal,US,declined,2026-05-24 12:16:29.198720,0
-583,1914,Taylor and Sons,2532.07,transfer,NG,approved,2026-05-24 12:16:29.198814,0
-584,2732,Jackson LLC,3788.74,withdrawal,NG,approved,2026-05-24 12:16:29.198907,1
-585,1226,Martinez-Smith,1609.91,transfer,US,approved,2026-05-24 12:16:29.199070,1
-586,2065,Lopez-Moran,1526.13,withdrawal,UK,declined,2026-05-24 12:16:29.199332,0
-587,2373,Gonzalez-Snyder,1422.37,transfer,UK,approved,2026-05-24 12:16:29.199514,1
-588,4781,Bell and Sons,3089.35,withdrawal,UK,approved,2026-05-24 12:16:29.199611,1
-589,1329,Perez-Townsend,4933.53,withdrawal,UK,declined,2026-05-24 12:16:29.199778,0
-590,1049,"Jacobson, Sellers and Moore",2052.53,purchase,NG,approved,2026-05-24 12:16:29.200021,1
-591,2201,Yates and Sons,3997.5,purchase,UK,declined,2026-05-24 12:16:29.200114,0
-592,3786,Greene Group,4029.65,withdrawal,NG,declined,2026-05-24 12:16:29.200207,0
-593,3237,Wright-Martinez,3945.06,withdrawal,NG,declined,2026-05-24 12:16:29.200371,0
-594,1622,Jackson-Harrison,707.97,transfer,UK,declined,2026-05-24 12:16:29.200540,1
-595,1227,"Owen, Chapman and Hernandez",4497.15,withdrawal,NG,declined,2026-05-24 12:16:29.200781,0
-596,3354,"Vega, Anderson and Weaver",3617.44,purchase,CA,declined,2026-05-24 12:16:29.201020,0
-597,3709,Flores-Bauer,983.93,withdrawal,UK,declined,2026-05-24 12:16:29.201185,0
-598,4010,Tate and Sons,1113.53,withdrawal,UK,approved,2026-05-24 12:16:29.201277,1
-599,2138,Delgado Ltd,4561.6,withdrawal,US,approved,2026-05-24 12:16:29.201368,0
-600,2585,"Hodges, Santiago and Cisneros",3373.99,transfer,UK,declined,2026-05-24 12:16:29.201607,1
-601,2032,Santos-Nicholson,972.74,purchase,CA,declined,2026-05-24 12:16:29.201770,0
-602,4098,Brown-Ingram,4069.08,transfer,US,declined,2026-05-24 12:16:29.201945,0
-603,1846,Dean Inc,172.51,transfer,US,declined,2026-05-24 12:16:29.202040,0
-604,2581,Mitchell PLC,1429.03,withdrawal,CA,declined,2026-05-24 12:16:29.202130,0
-605,4372,"Shaffer, Jones and Jackson",1256.5,withdrawal,UK,declined,2026-05-24 12:16:29.202363,1
-606,4942,"Campbell, Reynolds and Yu",1370.41,purchase,NG,declined,2026-05-24 12:16:29.202597,0
-607,2347,"Romero, Mckay and Cook",1328.13,purchase,US,declined,2026-05-24 12:16:29.202830,1
-608,1240,Rodriguez-Roberts,3417.99,purchase,US,approved,2026-05-24 12:16:29.203025,0
-609,1778,Castillo Group,1996.24,withdrawal,CA,approved,2026-05-24 12:16:29.203114,0
-610,1087,"Kennedy, Nguyen and Bradley",1829.09,transfer,UK,approved,2026-05-24 12:16:29.203346,0
-611,4838,"Zimmerman, Turner and Chen",1728.8,withdrawal,UK,approved,2026-05-24 12:16:29.203579,0
-612,1120,Cruz-Burton,2548.74,withdrawal,US,approved,2026-05-24 12:16:29.203738,0
-613,2177,Hinton Inc,4468.74,withdrawal,CA,approved,2026-05-24 12:16:29.203828,0
-614,1932,Martin and Sons,590.65,transfer,US,declined,2026-05-24 12:16:29.203916,0
-615,3165,"Baker, Hartman and Gross",488.39,purchase,NG,declined,2026-05-24 12:16:29.204147,0
-616,2030,"Key, Black and Jones",4700.61,purchase,UK,declined,2026-05-24 12:16:29.204379,0
-617,4956,"Peterson, Thompson and Hoffman",283.6,purchase,NG,approved,2026-05-24 12:16:29.204614,0
-618,4112,Harrison Inc,1908.77,withdrawal,US,declined,2026-05-24 12:16:29.204704,0
-619,2881,Smith and Sons,4785.16,withdrawal,UK,declined,2026-05-24 12:16:29.204812,0
-620,2411,"Hernandez, Mayer and Hayden",3779.02,withdrawal,US,declined,2026-05-24 12:16:29.205071,0
-621,1512,"Fuentes, Rivas and Edwards",2238.87,withdrawal,CA,declined,2026-05-24 12:16:29.205304,0
-622,4371,Powell-Robinson,409.22,withdrawal,US,declined,2026-05-24 12:16:29.205468,0
-623,2988,Ross-Pittman,3877.74,purchase,CA,approved,2026-05-24 12:16:29.205631,0
-624,3014,Brown-Gonzales,4703.91,purchase,CA,declined,2026-05-24 12:16:29.205790,0
-625,3184,Green LLC,2155.38,withdrawal,CA,declined,2026-05-24 12:16:29.205880,1
-626,1982,Benitez-Graham,825.18,purchase,CA,approved,2026-05-24 12:16:29.206044,0
-627,4659,Moody-Williams,1380.32,purchase,CA,approved,2026-05-24 12:16:29.206202,0
-628,2548,"Taylor, Snow and Martinez",2137.92,withdrawal,NG,declined,2026-05-24 12:16:29.206434,0
-629,2937,"Brady, Rodriguez and Burton",3841.82,withdrawal,US,approved,2026-05-24 12:16:29.206667,1
-630,1372,Underwood-Hernandez,4890.79,withdrawal,CA,declined,2026-05-24 12:16:29.206829,0
-631,4748,"Robinson, Johnson and Kelly",3110.27,transfer,UK,approved,2026-05-24 12:16:29.207061,0
-632,2661,Lopez and Sons,1499.47,withdrawal,NG,declined,2026-05-24 12:16:29.207150,1
-633,2078,"White, Jones and Carrillo",1324.47,withdrawal,NG,approved,2026-05-24 12:16:29.207382,0
-634,2510,Rodgers and Sons,4076.41,purchase,NG,declined,2026-05-24 12:16:29.207472,0
-635,2343,Hunter Ltd,4295.95,purchase,UK,declined,2026-05-24 12:16:29.207561,0
-636,4029,"Houston, Johnson and Jenkins",4248.49,transfer,CA,declined,2026-05-24 12:16:29.207793,0
-637,2048,Jones-Gonzalez,3199.29,transfer,US,declined,2026-05-24 12:16:29.207951,0
-638,3410,Hobbs-Beasley,3249.87,purchase,NG,declined,2026-05-24 12:16:29.208109,0
-639,2479,Pollard-Buckley,3926.79,purchase,US,approved,2026-05-24 12:16:29.208267,0
-640,1820,"Ramirez, Gaines and Baldwin",1532.55,purchase,NG,approved,2026-05-24 12:16:29.208535,0
-641,2060,Carpenter and Sons,1366.56,purchase,CA,approved,2026-05-24 12:16:29.208624,0
-642,1127,"Johnson, Byrd and Strong",1364.44,withdrawal,CA,approved,2026-05-24 12:16:29.208860,1
-643,3003,"Williams, Mora and Johnson",558.96,purchase,US,approved,2026-05-24 12:16:29.209092,0
-644,4739,"Jennings, Wells and Torres",3978.87,withdrawal,UK,declined,2026-05-24 12:16:29.209451,1
-645,2910,"Parker, Walker and Edwards",3945.65,transfer,CA,declined,2026-05-24 12:16:29.209694,1
-646,3164,Hayden-Sloan,4739.39,transfer,UK,approved,2026-05-24 12:16:29.209857,1
-647,3437,"Brooks, Green and Buchanan",2451.37,transfer,US,approved,2026-05-24 12:16:29.210156,1
-648,4859,"Cook, Carpenter and Bass",1542.86,withdrawal,US,approved,2026-05-24 12:16:29.210417,1
-649,4345,"Peck, Stewart and Cohen",3952.44,withdrawal,UK,declined,2026-05-24 12:16:29.210703,0
-650,4453,"Singh, Foley and Parker",17.13,withdrawal,UK,approved,2026-05-24 12:16:29.210940,0
-651,4171,"Goodman, Wood and Saunders",2088.39,purchase,US,declined,2026-05-24 12:16:29.211175,0
-652,4187,Thompson Inc,3439.91,withdrawal,UK,declined,2026-05-24 12:16:29.211265,0
-653,3388,Martinez Group,476.05,transfer,US,declined,2026-05-24 12:16:29.211355,0
-654,4119,"Moody, Henson and Weber",1869.88,purchase,CA,approved,2026-05-24 12:16:29.211635,0
-655,3085,Harris and Sons,1043.57,withdrawal,US,approved,2026-05-24 12:16:29.211727,0
-656,2887,"Nelson, Carr and Harris",4132.35,withdrawal,US,declined,2026-05-24 12:16:29.211977,0
-657,1743,Moore-Mcgee,2146.14,purchase,NG,declined,2026-05-24 12:16:29.212143,0
-658,4230,"Scott, Duncan and Rice",4142.66,purchase,CA,approved,2026-05-24 12:16:29.212382,0
-659,2745,Wright-Potter,2560.75,withdrawal,UK,approved,2026-05-24 12:16:29.212546,0
-660,3056,Dunn Group,1771.34,transfer,UK,declined,2026-05-24 12:16:29.212638,0
-661,3682,"Cherry, Levy and Rice",2429.12,transfer,US,approved,2026-05-24 12:16:29.212883,0
-662,4395,"Small, Grimes and Jacobs",1313.37,purchase,NG,approved,2026-05-24 12:16:29.213121,0
-663,1050,Chang Inc,2304.99,transfer,NG,declined,2026-05-24 12:16:29.213213,0
-664,2929,Krueger-Estrada,2661.13,purchase,CA,approved,2026-05-24 12:16:29.213375,0
-665,4181,Sullivan-Williams,4893.53,purchase,UK,declined,2026-05-24 12:16:29.213539,1
-666,1478,West PLC,4466.11,withdrawal,UK,declined,2026-05-24 12:16:29.213631,0
-667,3194,Williams-Snyder,2424.46,purchase,US,declined,2026-05-24 12:16:29.213795,1
-668,3994,"Young, Clark and Burns",1710.96,withdrawal,US,declined,2026-05-24 12:16:29.214033,0
-669,4695,Moore-Green,197.93,transfer,UK,approved,2026-05-24 12:16:29.214204,0
-670,1639,Luna-Miller,4229.96,purchase,CA,declined,2026-05-24 12:16:29.214369,0
-671,3514,"Saunders, Avery and Green",3108.77,withdrawal,UK,approved,2026-05-24 12:16:29.214607,1
-672,3701,"Rodriguez, Lee and Morgan",3590.93,transfer,US,declined,2026-05-24 12:16:29.214845,0
-673,4585,Rivera-Grant,4294.49,transfer,CA,declined,2026-05-24 12:16:29.215008,0
-674,4024,Johnson LLC,3683.29,withdrawal,US,approved,2026-05-24 12:16:29.215099,0
-675,2941,Smith Group,4151.12,purchase,US,declined,2026-05-24 12:16:29.215197,0
-676,2527,Meadows Ltd,685.47,transfer,US,approved,2026-05-24 12:16:29.215291,0
-677,4934,Burns Ltd,542.12,withdrawal,NG,approved,2026-05-24 12:16:29.215390,0
-678,3881,Orozco Ltd,4815.87,withdrawal,CA,declined,2026-05-24 12:16:29.215514,1
-679,4361,Moss PLC,2978.7,purchase,NG,declined,2026-05-24 12:16:29.215608,0
-680,4012,"Walker, Smith and Wallace",1742.38,transfer,US,approved,2026-05-24 12:16:29.215856,0
-681,1017,"Barr, Harris and Jones",4114.55,withdrawal,NG,approved,2026-05-24 12:16:29.216105,0
-682,2687,Delgado Ltd,1393.03,transfer,NG,approved,2026-05-24 12:16:29.216197,0
-683,1801,Smith and Sons,3978.7,purchase,NG,declined,2026-05-24 12:16:29.216289,0
-684,4114,Ross and Sons,4592.04,withdrawal,NG,declined,2026-05-24 12:16:29.216387,0
-685,1064,"Miranda, Anderson and King",3996.46,transfer,CA,declined,2026-05-24 12:16:29.216629,1
-686,2662,Bradshaw-Olson,140.6,transfer,CA,approved,2026-05-24 12:16:29.216793,0
-687,2704,"Archer, Henderson and Munoz",3479.26,transfer,NG,approved,2026-05-24 12:16:29.217040,0
-688,4131,Thomas-Johnson,3252.45,purchase,UK,declined,2026-05-24 12:16:29.217206,0
-689,3599,Payne-Raymond,2500.15,purchase,NG,declined,2026-05-24 12:16:29.217370,1
-690,2384,Thompson Group,677.69,transfer,NG,approved,2026-05-24 12:16:29.217463,0
-691,4913,Fox Ltd,2086.12,purchase,CA,declined,2026-05-24 12:16:29.217555,1
-692,2828,Miller Ltd,232.21,purchase,CA,approved,2026-05-24 12:16:29.217654,1
-693,1799,Macdonald-Jones,4236.53,purchase,CA,declined,2026-05-24 12:16:29.217820,0
-694,4673,Clark and Sons,3479.19,purchase,NG,approved,2026-05-24 12:16:29.217912,0
-695,2423,Price Inc,1505.8,withdrawal,UK,approved,2026-05-24 12:16:29.218003,0
-696,1889,Becker-Hill,2547.76,purchase,US,approved,2026-05-24 12:16:29.218166,0
-697,1826,Moore-Brown,3009.81,purchase,UK,declined,2026-05-24 12:16:29.218329,1
-698,3697,Martinez-Holland,1404.06,withdrawal,CA,declined,2026-05-24 12:16:29.218491,0
-699,1961,Castillo-Vincent,244.36,withdrawal,CA,declined,2026-05-24 12:16:29.218655,0
-700,3112,Newton PLC,4142.05,withdrawal,US,declined,2026-05-24 12:16:29.218759,0
-701,3259,"Wright, Wright and Rose",2420.72,withdrawal,UK,declined,2026-05-24 12:16:29.218998,0
-702,3404,Knox-Weiss,847.69,withdrawal,NG,approved,2026-05-24 12:16:29.219161,0
-703,1021,"Garza, Snyder and Wright",3860.04,purchase,NG,declined,2026-05-24 12:16:29.219422,0
-704,2543,Montgomery Ltd,3815.93,withdrawal,CA,declined,2026-05-24 12:16:29.219524,1
-705,3641,Hudson-Hill,3709.2,transfer,CA,declined,2026-05-24 12:16:29.219689,0
-706,2527,"Carlson, Banks and Burnett",1506.65,withdrawal,US,declined,2026-05-24 12:16:29.219928,0
-707,3898,Santiago PLC,4538.93,transfer,UK,approved,2026-05-24 12:16:29.220020,0
-708,1269,Hill LLC,581.73,purchase,UK,declined,2026-05-24 12:16:29.220111,0
-709,4323,Shepherd-Phillips,668.11,transfer,US,approved,2026-05-24 12:16:29.220274,0
-710,2722,Rosales-Smith,2513.86,withdrawal,US,approved,2026-05-24 12:16:29.220454,0
-711,3046,Porter LLC,1763.88,transfer,NG,declined,2026-05-24 12:16:29.220550,1
-712,1181,Jones-Evans,111.07,purchase,UK,approved,2026-05-24 12:16:29.220714,0
-713,1529,"Thompson, Duncan and Fisher",1932.9,withdrawal,CA,approved,2026-05-24 12:16:29.220962,0
-714,2756,"Jones, Johnson and Turner",439.71,purchase,NG,declined,2026-05-24 12:16:29.221203,1
-715,2089,"Williams, Nash and Herrera",1698.0,withdrawal,NG,approved,2026-05-24 12:16:29.221442,0
-716,2261,"Smith, Griffin and Hudson",2463.13,transfer,US,approved,2026-05-24 12:16:29.221681,0
-717,4939,Miller PLC,1577.98,purchase,NG,declined,2026-05-24 12:16:29.221772,0
-718,4841,"Johnson, Howell and Melendez",2220.59,purchase,US,approved,2026-05-24 12:16:29.222011,0
-719,3339,"Scott, Bass and Ross",613.2,purchase,NG,approved,2026-05-24 12:16:29.222249,0
-720,4968,"Russell, Miller and Christian",3829.02,transfer,NG,declined,2026-05-24 12:16:29.222498,0
-721,4673,"Flowers, Smith and Flores",1551.56,transfer,CA,approved,2026-05-24 12:16:29.222737,0
-722,1940,"Santiago, James and Hernandez",1318.18,transfer,US,approved,2026-05-24 12:16:29.222976,0
-723,4907,"Herring, Taylor and Morales",3548.34,withdrawal,US,declined,2026-05-24 12:16:29.223215,0
-724,4148,Ward LLC,2580.67,withdrawal,UK,approved,2026-05-24 12:16:29.223310,0
-725,4569,"Reed, Brown and Hall",3297.31,transfer,UK,declined,2026-05-24 12:16:29.223551,0
-726,3756,Jenkins-King,4786.98,withdrawal,NG,approved,2026-05-24 12:16:29.223715,1
-727,1709,Stevens Ltd,83.39,withdrawal,US,approved,2026-05-24 12:16:29.223807,0
-728,2483,Garcia and Sons,2087.85,transfer,UK,approved,2026-05-24 12:16:29.223899,0
-729,2932,Glover-Rice,2198.01,purchase,CA,declined,2026-05-24 12:16:29.224077,0
-730,4349,Levine-Benton,1041.1,withdrawal,US,approved,2026-05-24 12:16:29.224245,0
-731,4342,Harris and Sons,4485.16,purchase,UK,declined,2026-05-24 12:16:29.224338,0
-732,3898,Ford-Burton,1459.34,transfer,UK,declined,2026-05-24 12:16:29.224503,0
-733,2489,Wells Inc,4236.69,transfer,US,declined,2026-05-24 12:16:29.224595,1
-734,4240,Diaz Group,2009.02,purchase,US,approved,2026-05-24 12:16:29.224696,1
-735,4514,Gomez and Sons,1983.33,transfer,UK,approved,2026-05-24 12:16:29.224789,0
-736,4592,Morris-Price,888.31,transfer,NG,declined,2026-05-24 12:16:29.224954,0
-737,1482,Dyer PLC,1105.86,withdrawal,NG,declined,2026-05-24 12:16:29.225045,0
-738,1730,Gaines-Miller,923.82,purchase,UK,approved,2026-05-24 12:16:29.225210,1
-739,3659,Rowe PLC,327.85,withdrawal,CA,approved,2026-05-24 12:16:29.225311,0
-740,2954,"York, Jenkins and Cook",3613.02,withdrawal,US,approved,2026-05-24 12:16:29.225558,0
-741,4863,"Morales, Lopez and Miller",262.77,transfer,NG,declined,2026-05-24 12:16:29.225808,0
-742,4775,Harris Ltd,1373.96,purchase,CA,declined,2026-05-24 12:16:29.225951,1
-743,2454,Murray Ltd,90.11,withdrawal,US,declined,2026-05-24 12:16:29.226057,0
-744,3407,Burton Inc,4565.6,purchase,UK,approved,2026-05-24 12:16:29.226155,0
-745,4563,"Forbes, Mason and Williams",3141.37,purchase,US,approved,2026-05-24 12:16:29.226404,0
-746,1396,White LLC,1655.16,transfer,NG,declined,2026-05-24 12:16:29.226502,0
-747,2854,Sullivan-Stewart,787.01,withdrawal,NG,approved,2026-05-24 12:16:29.226671,0
-748,2223,Washington-Pacheco,2185.74,purchase,NG,declined,2026-05-24 12:16:29.226842,0
-749,3166,Hammond and Sons,1672.53,purchase,UK,approved,2026-05-24 12:16:29.226936,0
-750,1213,Wilson-Hawkins,3103.93,withdrawal,NG,declined,2026-05-24 12:16:29.227104,1
-751,3918,"Norton, Davis and Miller",1676.01,withdrawal,NG,approved,2026-05-24 12:16:29.227349,0
-752,3459,"Lara, Gonzalez and Stevenson",31.42,purchase,US,declined,2026-05-24 12:16:29.227595,0
-753,1219,Phillips Group,302.11,withdrawal,CA,declined,2026-05-24 12:16:29.227689,0
-754,4043,"Griffith, Webb and Franklin",865.73,purchase,US,approved,2026-05-24 12:16:29.227944,0
-755,3075,Rich-Richardson,2726.93,transfer,UK,approved,2026-05-24 12:16:29.228113,0
-756,2380,"Richardson, Hayes and Buck",2567.58,transfer,UK,approved,2026-05-24 12:16:29.228357,1
-757,3069,Norris-Espinoza,1871.67,purchase,UK,approved,2026-05-24 12:16:29.228524,0
-758,4819,"Martinez, Underwood and Noble",810.45,withdrawal,NG,declined,2026-05-24 12:16:29.228768,0
-759,3477,Baldwin LLC,1989.81,transfer,US,declined,2026-05-24 12:16:29.228871,0
-760,4546,Castillo PLC,1413.58,transfer,UK,approved,2026-05-24 12:16:29.228965,0
-761,2378,Wolf LLC,2352.27,withdrawal,CA,declined,2026-05-24 12:16:29.229057,1
-762,2544,"Ross, Moore and Nixon",4084.74,purchase,US,approved,2026-05-24 12:16:29.229310,0
-763,2184,Scott-Mack,1888.55,purchase,US,approved,2026-05-24 12:16:29.229478,0
-764,1816,"Best, Harris and Figueroa",4460.18,withdrawal,US,approved,2026-05-24 12:16:29.229757,0
-765,1276,"Stark, Myers and Hunt",4662.38,withdrawal,NG,declined,2026-05-24 12:16:29.230002,0
-766,2612,Gomez-Murphy,659.31,transfer,US,approved,2026-05-24 12:16:29.230167,1
-767,4849,"Perez, Gibson and Stark",1703.12,transfer,NG,approved,2026-05-24 12:16:29.230408,0
-768,1443,"Hunter, Moore and Garcia",4122.27,withdrawal,UK,declined,2026-05-24 12:16:29.230649,0
-769,1636,Roberts LLC,417.73,purchase,NG,approved,2026-05-24 12:16:29.230742,0
-770,3228,Smith Inc,767.7,withdrawal,US,approved,2026-05-24 12:16:29.230925,0
-771,1898,Olson-Powell,3417.85,purchase,CA,approved,2026-05-24 12:16:29.231106,0
-772,1774,Deleon PLC,1253.75,purchase,CA,declined,2026-05-24 12:16:29.231201,0
-773,1375,Park-Carter,3926.5,withdrawal,US,declined,2026-05-24 12:16:29.231367,1
-774,4453,Lopez and Sons,4460.99,purchase,CA,declined,2026-05-24 12:16:29.231461,1
-775,4675,Jones-Mueller,493.97,withdrawal,NG,declined,2026-05-24 12:16:29.231626,0
-776,4513,"Robinson, Weber and Kelley",2357.55,transfer,CA,approved,2026-05-24 12:16:29.231873,0
-777,3480,Jefferson-Miller,4543.36,purchase,CA,approved,2026-05-24 12:16:29.232041,0
-778,1380,Perkins LLC,1773.37,purchase,NG,declined,2026-05-24 12:16:29.232140,1
-779,2915,"Smith, Jones and Booker",1420.35,withdrawal,UK,approved,2026-05-24 12:16:29.232383,0
-780,1615,Miller and Sons,906.92,purchase,US,declined,2026-05-24 12:16:29.232477,0
-781,1042,"Williams, Fitzgerald and Ward",1677.95,transfer,NG,approved,2026-05-24 12:16:29.232720,0
-782,4789,Hinton Group,1222.5,transfer,CA,declined,2026-05-24 12:16:29.232815,1
-783,3860,"Jennings, Baldwin and Collins",2642.26,withdrawal,CA,approved,2026-05-24 12:16:29.233058,0
-784,3874,Brown Ltd,2983.76,withdrawal,NG,declined,2026-05-24 12:16:29.233150,0
-785,1987,"Solomon, Brown and Farley",1946.66,withdrawal,US,declined,2026-05-24 12:16:29.233395,0
-786,3044,"Cantu, Byrd and Chavez",4371.64,transfer,UK,declined,2026-05-24 12:16:29.233637,0
-787,3128,Reyes-Crawford,4553.7,transfer,UK,approved,2026-05-24 12:16:29.233803,0
-788,4509,"Aguilar, Carney and Hancock",3562.54,purchase,CA,approved,2026-05-24 12:16:29.234046,0
-789,3012,Reynolds-Nichols,1681.24,purchase,US,approved,2026-05-24 12:16:29.234212,0
-790,2486,Williams-Wood,1514.93,transfer,UK,approved,2026-05-24 12:16:29.234377,0
-791,4009,Cohen-Holmes,731.7,purchase,NG,declined,2026-05-24 12:16:29.234542,1
-792,2406,"Payne, Jackson and Vincent",811.96,transfer,US,declined,2026-05-24 12:16:29.234782,1
-793,4322,"Fox, Jones and Ortega",3656.57,purchase,CA,declined,2026-05-24 12:16:29.235025,1
-794,4287,Solis PLC,3358.22,transfer,CA,approved,2026-05-24 12:16:29.235117,1
-795,1366,Hampton-Lee,4528.46,transfer,US,declined,2026-05-24 12:16:29.235282,0
-796,2520,Olson LLC,1901.97,withdrawal,US,declined,2026-05-24 12:16:29.235386,1
-797,2048,"Munoz, Page and Banks",1645.2,purchase,UK,declined,2026-05-24 12:16:29.235634,0
-798,4827,Barker and Sons,1826.24,transfer,CA,approved,2026-05-24 12:16:29.235743,0
-799,2032,"Hall, Williams and Flores",3491.36,transfer,US,declined,2026-05-24 12:16:29.235987,0
-800,2758,Sanchez-Holmes,1832.26,transfer,NG,approved,2026-05-24 12:16:29.236153,1
-801,4326,Pollard-Atkins,1780.59,transfer,CA,declined,2026-05-24 12:16:29.236318,0
-802,1942,"Bruce, Oneal and Shaw",3178.95,transfer,UK,approved,2026-05-24 12:16:29.236560,0
-803,4255,Anderson-Alexander,187.07,transfer,US,declined,2026-05-24 12:16:29.236725,0
-804,3797,Phillips Ltd,1585.17,withdrawal,CA,approved,2026-05-24 12:16:29.236818,0
-805,1247,Morris-Moreno,4511.1,purchase,US,approved,2026-05-24 12:16:29.236982,0
-806,1035,Howard-Perez,2307.61,purchase,US,approved,2026-05-24 12:16:29.237149,0
-807,3406,Miller and Sons,2644.7,purchase,NG,approved,2026-05-24 12:16:29.237241,0
-808,1202,Reyes-Mcintosh,324.3,purchase,UK,approved,2026-05-24 12:16:29.237405,0
-809,2682,"Peterson, Steele and Stone",4994.79,purchase,NG,approved,2026-05-24 12:16:29.237647,0
-810,3481,Davis PLC,493.57,withdrawal,CA,declined,2026-05-24 12:16:29.237739,0
-811,1030,Thompson-Baker,745.75,withdrawal,CA,declined,2026-05-24 12:16:29.237904,0
-812,3941,"Ross, Simpson and Price",3276.48,purchase,CA,declined,2026-05-24 12:16:29.238146,0
-813,1778,Sanchez LLC,186.22,purchase,US,declined,2026-05-24 12:16:29.238239,0
-814,4657,Thomas Group,2695.62,withdrawal,US,approved,2026-05-24 12:16:29.238330,0
-815,2124,Harris-Ortiz,2638.46,transfer,US,declined,2026-05-24 12:16:29.238494,0
-816,1217,"Wilson, Jones and Rojas",4711.54,transfer,UK,approved,2026-05-24 12:16:29.238736,0
-817,2359,Waller PLC,3566.15,transfer,CA,declined,2026-05-24 12:16:29.238831,0
-818,2275,"Potter, Hodge and Grant",2820.87,purchase,CA,approved,2026-05-24 12:16:29.239072,1
-819,2737,Williams LLC,2093.78,withdrawal,CA,approved,2026-05-24 12:16:29.239164,1
-820,2490,Jordan-Cunningham,3486.0,purchase,UK,approved,2026-05-24 12:16:29.239328,1
-821,2789,Jensen LLC,2285.41,purchase,CA,declined,2026-05-24 12:16:29.239420,0
-822,2376,Edwards Inc,3910.17,withdrawal,UK,approved,2026-05-24 12:16:29.239512,0
-823,4115,"Cole, Anthony and Mendoza",4283.96,transfer,CA,approved,2026-05-24 12:16:29.239779,0
-824,2125,Pierce and Sons,2790.06,transfer,NG,declined,2026-05-24 12:16:29.239874,0
-825,4216,Gonzalez-Tucker,2653.45,withdrawal,UK,declined,2026-05-24 12:16:29.240039,1
-826,3846,Hicks LLC,3839.4,transfer,UK,approved,2026-05-24 12:16:29.240132,1
-827,1587,Walker Group,4880.63,transfer,UK,approved,2026-05-24 12:16:29.240225,0
-828,2288,Rodriguez Group,2162.2,withdrawal,CA,declined,2026-05-24 12:16:29.240317,1
-829,2426,"Hill, Hall and Burke",1595.25,transfer,CA,declined,2026-05-24 12:16:29.240559,0
-830,1480,Bryan Ltd,3739.07,withdrawal,US,approved,2026-05-24 12:16:29.240652,0
-831,3821,"Hanson, Evans and Black",4884.88,transfer,NG,declined,2026-05-24 12:16:29.240893,1
-832,3848,Davis and Sons,2415.03,transfer,CA,approved,2026-05-24 12:16:29.240985,0
-833,2219,"Pace, Reilly and Bernard",4228.77,purchase,US,declined,2026-05-24 12:16:29.241230,0
-834,2173,Baker-Alvarez,3280.67,transfer,NG,approved,2026-05-24 12:16:29.241396,1
-835,4366,"Stevenson, Patel and Bell",4924.23,withdrawal,UK,approved,2026-05-24 12:16:29.241639,0
-836,4077,Smith LLC,4558.38,purchase,US,declined,2026-05-24 12:16:29.241732,0
-837,2152,Stewart LLC,4417.66,transfer,UK,declined,2026-05-24 12:16:29.241828,0
-838,1609,Willis-Hernandez,4507.08,purchase,CA,declined,2026-05-24 12:16:29.242047,0
-839,4903,Kemp and Sons,713.2,withdrawal,UK,declined,2026-05-24 12:16:29.242159,1
-840,3303,Schwartz Inc,2991.95,purchase,UK,declined,2026-05-24 12:16:29.242256,0
-841,1120,Bass Group,2652.39,withdrawal,UK,approved,2026-05-24 12:16:29.242350,0
-842,4494,Klein-Hawkins,2601.8,purchase,NG,approved,2026-05-24 12:16:29.242513,1
-843,2370,Rios and Sons,1161.19,withdrawal,UK,declined,2026-05-24 12:16:29.242605,1
-844,2827,"Smith, Crosby and Hernandez",1611.46,transfer,NG,approved,2026-05-24 12:16:29.242842,1
-845,4292,Olsen-Anderson,1843.2,transfer,UK,approved,2026-05-24 12:16:29.243005,0
-846,3222,Howard Ltd,4960.75,withdrawal,US,declined,2026-05-24 12:16:29.243098,0
-847,4534,"Spencer, Strickland and Li",294.29,withdrawal,UK,approved,2026-05-24 12:16:29.243335,0
-848,2487,Campbell-Blackburn,2328.55,transfer,NG,approved,2026-05-24 12:16:29.243498,0
-849,4954,Weber and Sons,4359.47,withdrawal,CA,declined,2026-05-24 12:16:29.243589,1
-850,3717,Ramirez-Adams,408.81,transfer,UK,declined,2026-05-24 12:16:29.243752,1
-851,1213,"Sanford, Dalton and Rodgers",2839.87,purchase,NG,declined,2026-05-24 12:16:29.243991,0
-852,1482,"Higgins, Hill and Christian",2423.02,transfer,US,declined,2026-05-24 12:16:29.244227,0
-853,1870,"Franklin, Tucker and Allen",1413.19,transfer,US,declined,2026-05-24 12:16:29.244463,0
-854,3301,Gray-Mcdonald,3250.34,withdrawal,US,declined,2026-05-24 12:16:29.244626,0
-855,1461,"Smith, Brown and Martinez",809.02,transfer,CA,declined,2026-05-24 12:16:29.244862,0
-856,1940,"Guzman, Sandoval and Boyd",2508.41,withdrawal,NG,approved,2026-05-24 12:16:29.245102,0
-857,2427,Nash-Miller,2152.84,purchase,CA,declined,2026-05-24 12:16:29.245263,0
-858,1754,"Edwards, Larson and Kent",3003.43,withdrawal,NG,approved,2026-05-24 12:16:29.245499,0
-859,4743,Keith-Klein,1560.38,transfer,UK,declined,2026-05-24 12:16:29.245661,0
-860,2801,Johnson-Flores,208.2,withdrawal,CA,declined,2026-05-24 12:16:29.245822,0
-861,4204,Bautista-Thomas,2516.83,transfer,US,declined,2026-05-24 12:16:29.245983,0
-862,3918,Gray-Robinson,2433.91,transfer,UK,approved,2026-05-24 12:16:29.246145,0
-863,2300,Koch Ltd,2247.72,transfer,UK,declined,2026-05-24 12:16:29.246236,0
-864,3834,Morgan PLC,91.3,purchase,UK,approved,2026-05-24 12:16:29.246326,0
-865,1178,"Hodges, Reynolds and Wilson",4647.65,purchase,US,declined,2026-05-24 12:16:29.246562,0
-866,3200,"Barnes, Ryan and Jones",3925.45,withdrawal,CA,approved,2026-05-24 12:16:29.246798,0
-867,2055,Santos PLC,2198.17,transfer,CA,approved,2026-05-24 12:16:29.246889,0
-868,3086,"Miller, Cross and Murphy",1118.23,purchase,NG,approved,2026-05-24 12:16:29.247186,0
-869,4639,Brown and Sons,1310.87,withdrawal,CA,declined,2026-05-24 12:16:29.247291,0
-870,3169,Stevens PLC,2399.86,transfer,CA,declined,2026-05-24 12:16:29.247393,0
-871,2167,"Davis, Kelly and Castro",3661.43,transfer,CA,declined,2026-05-24 12:16:29.247638,1
-872,1961,Dunn Inc,4514.13,withdrawal,US,approved,2026-05-24 12:16:29.247733,0
-873,3587,"Flores, Hoffman and Shaffer",4211.57,transfer,UK,declined,2026-05-24 12:16:29.247976,0
-874,2877,"Little, Davis and Parks",184.58,purchase,UK,approved,2026-05-24 12:16:29.248219,0
-875,1206,"Myers, Peck and Li",4387.12,purchase,CA,declined,2026-05-24 12:16:29.248461,0
-876,1233,"Farrell, Hall and Martin",1099.02,purchase,US,approved,2026-05-24 12:16:29.248707,0
-877,4178,Mendoza PLC,3380.17,purchase,NG,declined,2026-05-24 12:16:29.248802,0
-878,3204,"Weiss, Escobar and Murray",2067.94,purchase,US,approved,2026-05-24 12:16:29.249044,0
-879,1279,Rojas-Robinson,1843.59,withdrawal,NG,declined,2026-05-24 12:16:29.249209,0
-880,4571,Williams-Taylor,3981.18,transfer,NG,declined,2026-05-24 12:16:29.249374,0
-881,1837,Hawkins Inc,4837.79,transfer,UK,declined,2026-05-24 12:16:29.249470,1
-882,4937,Henderson-Carlson,4732.39,withdrawal,UK,approved,2026-05-24 12:16:29.249681,0
-883,4324,King-Gentry,4378.63,transfer,CA,approved,2026-05-24 12:16:29.249865,0
-884,4075,Luna and Sons,1014.22,transfer,NG,declined,2026-05-24 12:16:29.249965,0
-885,1040,"Gonzales, Cohen and Holloway",1572.2,transfer,US,approved,2026-05-24 12:16:29.250209,0
-886,1905,Wong LLC,4808.39,withdrawal,US,declined,2026-05-24 12:16:29.250306,0
-887,4238,Davila-Phillips,3991.17,purchase,US,declined,2026-05-24 12:16:29.250471,0
-888,3674,"Meza, Powell and Miller",2414.61,withdrawal,US,declined,2026-05-24 12:16:29.250711,0
-889,2414,"Wallace, Mcclain and Huffman",749.75,withdrawal,UK,declined,2026-05-24 12:16:29.250952,0
-890,3287,"Hoover, Sawyer and Schwartz",155.75,transfer,UK,declined,2026-05-24 12:16:29.251195,0
-891,3895,Nguyen Ltd,1646.16,purchase,NG,approved,2026-05-24 12:16:29.251289,0
-892,3941,Evans Ltd,2991.22,purchase,CA,approved,2026-05-24 12:16:29.251382,0
-893,4638,Ramirez PLC,1320.36,withdrawal,NG,declined,2026-05-24 12:16:29.251475,0
-894,3425,"Meyers, Parker and Young",2631.02,withdrawal,NG,declined,2026-05-24 12:16:29.251715,1
-895,4264,"Anderson, Hatfield and Vazquez",1681.31,withdrawal,CA,declined,2026-05-24 12:16:29.251964,1
-896,1026,Kerr-Miller,3249.45,withdrawal,UK,declined,2026-05-24 12:16:29.252129,0
-897,1643,Ryan-Humphrey,273.39,transfer,US,declined,2026-05-24 12:16:29.252295,0
-898,4443,Holden-Livingston,3394.44,purchase,UK,approved,2026-05-24 12:16:29.252460,1
-899,2397,Boyd Group,1410.73,withdrawal,US,declined,2026-05-24 12:16:29.252553,0
-900,3677,Cook-Andersen,4177.19,purchase,NG,declined,2026-05-24 12:16:29.252717,0
-901,1582,Marquez-Johnson,1817.74,transfer,NG,approved,2026-05-24 12:16:29.252890,0
-902,1125,"Holland, Crosby and Davis",4536.97,withdrawal,CA,approved,2026-05-24 12:16:29.253132,0
-903,4494,Parker-Hardin,2350.83,purchase,UK,approved,2026-05-24 12:16:29.253301,0
-904,3748,Jordan Inc,39.64,purchase,UK,declined,2026-05-24 12:16:29.253395,1
-905,1555,"Lane, Noble and Martin",472.35,transfer,US,declined,2026-05-24 12:16:29.253634,1
-906,1218,Page Group,1850.71,withdrawal,CA,declined,2026-05-24 12:16:29.253728,0
-907,3618,Kelly and Sons,3714.83,purchase,US,approved,2026-05-24 12:16:29.253820,0
-908,1315,"Lin, Bell and Osborn",2068.06,transfer,US,approved,2026-05-24 12:16:29.254064,0
-909,1659,Neal-Bond,673.88,withdrawal,NG,declined,2026-05-24 12:16:29.254231,1
-910,3681,Dillon Ltd,4062.4,purchase,CA,approved,2026-05-24 12:16:29.254324,0
-911,1686,Olson Ltd,682.22,withdrawal,CA,declined,2026-05-24 12:16:29.254416,0
-912,3409,"Hernandez, Lyons and Lewis",1036.9,purchase,CA,declined,2026-05-24 12:16:29.254657,0
-913,3183,Baker and Sons,861.63,withdrawal,NG,declined,2026-05-24 12:16:29.254750,0
-914,1528,"Robinson, Kelley and Reed",599.89,purchase,US,approved,2026-05-24 12:16:29.254990,0
-915,4527,Roberts Inc,452.64,transfer,NG,declined,2026-05-24 12:16:29.255088,0
-916,4565,Miller and Sons,1062.56,withdrawal,CA,declined,2026-05-24 12:16:29.255179,0
-917,2545,White Inc,3379.07,purchase,UK,approved,2026-05-24 12:16:29.255271,0
-918,1967,Martinez-Taylor,2171.38,transfer,NG,approved,2026-05-24 12:16:29.255435,1
-919,3698,Carroll Inc,4654.3,transfer,CA,approved,2026-05-24 12:16:29.255527,1
-920,3879,Waters-Barton,3682.74,transfer,UK,approved,2026-05-24 12:16:29.255691,0
-921,3579,"Gonzalez, Chen and Cox",4064.4,transfer,NG,declined,2026-05-24 12:16:29.255932,0
-922,2138,"Larson, Smith and Beck",3437.42,purchase,CA,declined,2026-05-24 12:16:29.256172,0
-923,4245,Richardson Inc,1291.3,purchase,US,declined,2026-05-24 12:16:29.256264,0
-924,2821,Pennington Ltd,3833.18,transfer,US,declined,2026-05-24 12:16:29.256359,0
-925,3988,Scott LLC,3640.4,purchase,UK,approved,2026-05-24 12:16:29.256451,1
-926,2428,Morrison Ltd,4712.95,withdrawal,US,approved,2026-05-24 12:16:29.256542,0
-927,3797,Kennedy-Carey,2785.29,withdrawal,NG,declined,2026-05-24 12:16:29.256707,1
-928,2743,"Richardson, Moore and Murphy",3165.28,withdrawal,US,declined,2026-05-24 12:16:29.256949,0
-929,3632,Ochoa LLC,578.77,purchase,UK,approved,2026-05-24 12:16:29.257041,0
-930,1072,Fleming-Gilbert,1411.5,withdrawal,CA,approved,2026-05-24 12:16:29.257257,0
-931,3629,Fitzpatrick LLC,3284.81,purchase,CA,approved,2026-05-24 12:16:29.257366,1
-932,1804,Campbell-Larsen,1593.87,transfer,NG,approved,2026-05-24 12:16:29.257539,0
-933,3698,Carson-Richmond,1906.66,purchase,NG,declined,2026-05-24 12:16:29.257707,0
-934,4128,Fritz LLC,2306.44,transfer,CA,approved,2026-05-24 12:16:29.257808,1
-935,1962,"Hernandez, Harrington and Ewing",121.87,purchase,US,declined,2026-05-24 12:16:29.258056,1
-936,4355,"Mills, Henry and Reyes",2737.09,purchase,UK,approved,2026-05-24 12:16:29.258299,0
-937,1349,Bell Ltd,2280.58,transfer,NG,approved,2026-05-24 12:16:29.258396,1
-938,1720,Cooper-Benson,739.76,withdrawal,NG,declined,2026-05-24 12:16:29.258563,0
-939,3304,"Melton, Wells and Diaz",763.29,transfer,NG,declined,2026-05-24 12:16:29.258806,1
-940,4878,Taylor-Browning,1208.17,transfer,UK,declined,2026-05-24 12:16:29.258973,1
-941,1685,"Thompson, Smith and Rojas",292.89,withdrawal,US,declined,2026-05-24 12:16:29.259215,0
-942,1945,"Brooks, Anderson and Ross",4410.72,withdrawal,NG,declined,2026-05-24 12:16:29.259456,0
-943,3900,Johnson-Mccall,4282.09,transfer,CA,declined,2026-05-24 12:16:29.259631,0
-944,2153,"Davis, Foster and Fields",1572.64,withdrawal,CA,declined,2026-05-24 12:16:29.259873,0
-945,2671,Crosby-Rivera,1221.72,purchase,CA,declined,2026-05-24 12:16:29.260037,0
-946,1378,Nichols-Gross,3128.36,withdrawal,US,declined,2026-05-24 12:16:29.260202,1
-947,1481,Williams LLC,4299.47,transfer,UK,approved,2026-05-24 12:16:29.260294,0
-948,3164,Brooks and Sons,3256.39,withdrawal,US,approved,2026-05-24 12:16:29.260387,1
-949,4774,Cervantes-Rice,2720.95,transfer,NG,approved,2026-05-24 12:16:29.260553,0
-950,3815,Christian-Nolan,2750.42,transfer,CA,declined,2026-05-24 12:16:29.260718,0
-951,3320,Walls-Smith,4075.76,withdrawal,CA,declined,2026-05-24 12:16:29.260882,1
-952,3228,Ryan-Salazar,4389.88,withdrawal,CA,approved,2026-05-24 12:16:29.261048,0
-953,4475,Acosta Inc,3199.95,transfer,UK,approved,2026-05-24 12:16:29.261140,0
-954,1853,Johnson Inc,3806.82,purchase,US,declined,2026-05-24 12:16:29.261236,1
-955,1496,Zimmerman and Sons,43.95,purchase,NG,approved,2026-05-24 12:16:29.261328,0
-956,4536,"Gill, Calderon and Hunt",643.88,transfer,NG,declined,2026-05-24 12:16:29.261570,0
-957,2668,"Young, Carter and Copeland",799.55,withdrawal,NG,declined,2026-05-24 12:16:29.261812,0
-958,2109,Cruz Inc,1096.69,withdrawal,CA,approved,2026-05-24 12:16:29.261918,0
-959,3195,"Blackwell, Fletcher and Evans",3528.03,transfer,UK,declined,2026-05-24 12:16:29.262152,0
-960,1925,Wilson Group,2476.35,withdrawal,UK,declined,2026-05-24 12:16:29.262243,0
-961,1969,Newman-Perez,3263.33,purchase,NG,declined,2026-05-24 12:16:29.262404,0
-962,1513,"Jackson, Griffith and Durham",3179.97,transfer,CA,approved,2026-05-24 12:16:29.262639,0
-963,1032,Hill Inc,2599.66,purchase,UK,declined,2026-05-24 12:16:29.262730,0
-964,3551,Clayton-Moran,3670.25,purchase,UK,declined,2026-05-24 12:16:29.262891,0
-965,2583,"Miller, Smith and Ford",2199.71,purchase,NG,approved,2026-05-24 12:16:29.263172,0
-966,3376,"Smith, Robinson and Collier",699.8,purchase,CA,declined,2026-05-24 12:16:29.263512,0
-967,3952,Ellis PLC,2932.62,purchase,US,declined,2026-05-24 12:16:29.263608,1
-968,4061,Richardson-Lewis,670.82,transfer,UK,declined,2026-05-24 12:16:29.263773,1
-969,2969,Rosales-Benton,1079.12,withdrawal,US,approved,2026-05-24 12:16:29.263939,0
-970,3176,Kennedy Ltd,2459.52,withdrawal,UK,approved,2026-05-24 12:16:29.264036,0
-971,1031,Powell-Lam,1869.41,withdrawal,CA,approved,2026-05-24 12:16:29.264201,1
-972,2557,"Gonzalez, Olson and Taylor",3485.52,withdrawal,US,approved,2026-05-24 12:16:29.264572,0
-973,2718,Smith-Williams,270.18,transfer,UK,declined,2026-05-24 12:16:29.264804,0
-974,2740,Humphrey Ltd,4962.46,purchase,UK,approved,2026-05-24 12:16:29.264899,1
-975,3319,Chambers-Hendrix,237.09,purchase,CA,approved,2026-05-24 12:16:29.265061,0
-976,4073,"Smith, Baker and Stokes",1139.17,purchase,NG,declined,2026-05-24 12:16:29.265297,0
-977,1489,Riley-Adams,2209.7,withdrawal,NG,declined,2026-05-24 12:16:29.265457,1
-978,3347,Armstrong-Mitchell,4664.77,transfer,UK,declined,2026-05-24 12:16:29.265618,0
-979,2131,Humphrey LLC,4444.44,transfer,CA,declined,2026-05-24 12:16:29.265729,1
-980,1074,"Alexander, Williams and Rivas",1319.52,withdrawal,NG,declined,2026-05-24 12:16:29.266016,0
-981,4678,Merritt PLC,457.85,withdrawal,UK,approved,2026-05-24 12:16:29.266180,0
-982,1803,Nelson PLC,1832.83,withdrawal,US,declined,2026-05-24 12:16:29.266306,0
-983,4097,Knight-Watson,1504.44,withdrawal,NG,approved,2026-05-24 12:16:29.266471,1
-984,4129,Jacobson-Jones,1824.79,transfer,CA,declined,2026-05-24 12:16:29.266634,0
-985,4954,"Frank, Johnson and Garcia",1872.99,withdrawal,CA,approved,2026-05-24 12:16:29.266869,0
-986,3683,"Hernandez, Stanley and Campbell",1353.03,transfer,NG,declined,2026-05-24 12:16:29.267110,0
-987,3932,Sanchez Inc,2383.97,purchase,CA,approved,2026-05-24 12:16:29.267202,0
-988,1704,"Griffin, Smith and Owens",2608.78,withdrawal,US,declined,2026-05-24 12:16:29.267435,0
-989,1634,"Hunt, Reid and Frederick",125.91,purchase,US,approved,2026-05-24 12:16:29.267669,0
-990,1905,Barber Group,1597.98,purchase,NG,declined,2026-05-24 12:16:29.267760,0
-991,4972,Everett-Peterson,1308.93,withdrawal,UK,approved,2026-05-24 12:16:29.267920,0
-992,4117,Moore-Burgess,365.96,withdrawal,NG,approved,2026-05-24 12:16:29.268080,0
-993,2731,Johnson and Sons,128.5,withdrawal,NG,approved,2026-05-24 12:16:29.268176,0
-994,1185,"Wilson, Hood and Morris",668.26,withdrawal,US,declined,2026-05-24 12:16:29.268414,1
-995,1886,"Mcmahon, Robinson and Smith",1672.79,withdrawal,US,approved,2026-05-24 12:16:29.268647,0
-996,3639,Crawford and Sons,687.83,purchase,UK,declined,2026-05-24 12:16:29.268738,0
-997,4268,"Myers, Davis and Coleman",1691.39,transfer,US,declined,2026-05-24 12:16:29.269083,0
-998,2753,Schneider-Johnson,1078.59,purchase,US,approved,2026-05-24 12:16:29.269245,0
-999,2867,"Hill, Reid and Trujillo",2766.03,withdrawal,NG,approved,2026-05-24 12:16:29.269478,0
-1000,1070,Pena PLC,3534.05,transfer,NG,declined,2026-05-24 12:16:29.269594,1
+1,3239,Robinson Ltd,1150.56,withdrawal,US,declined,2026-05-24 13:22:10.842800,0
+2,3069,Powell-Salazar,2822.98,purchase,CA,approved,2026-05-24 13:22:10.843265,0
+3,3425,"Gibson, Young and Shaw",4662.86,withdrawal,UK,declined,2026-05-24 13:22:10.843922,0
+4,3579,"Rubio, Adams and Cummings",1589.58,withdrawal,US,declined,2026-05-24 13:22:10.844666,1
+5,3284,"Owen, Melton and Richardson",2453.35,transfer,UK,approved,2026-05-24 13:22:10.845238,0
+6,1616,Massey PLC,4426.02,withdrawal,CA,approved,2026-05-24 13:22:10.845450,0
+7,3055,Allen Ltd,1625.01,transfer,NG,declined,2026-05-24 13:22:10.845651,1
+8,3910,"Davis, Wilson and Thornton",4915.63,withdrawal,UK,declined,2026-05-24 13:22:10.846178,0
+9,2388,Wright-Aguirre,548.48,purchase,NG,approved,2026-05-24 13:22:10.846536,0
+10,3213,Brown-Fowler,2110.76,withdrawal,NG,declined,2026-05-24 13:22:10.847117,0
+11,1078,"Allen, Evans and Johnson",4933.19,transfer,UK,approved,2026-05-24 13:22:10.847603,0
+12,4877,Garza-Santiago,2429.11,purchase,CA,declined,2026-05-24 13:22:10.847926,1
+13,4798,"Phillips, Moyer and Valdez",1270.32,transfer,NG,declined,2026-05-24 13:22:10.848362,1
+14,3806,Harvey Ltd,654.05,withdrawal,US,declined,2026-05-24 13:22:10.848531,0
+15,3236,Cox and Sons,173.16,transfer,UK,approved,2026-05-24 13:22:10.848698,0
+16,3750,Collins-Stevenson,2162.9,transfer,CA,declined,2026-05-24 13:22:10.849000,0
+17,2290,Mitchell Inc,1230.02,withdrawal,UK,approved,2026-05-24 13:22:10.849169,1
+18,4243,Villanueva Inc,13.92,purchase,CA,declined,2026-05-24 13:22:10.849335,0
+19,4864,"Smith, Small and Scott",1454.69,transfer,UK,declined,2026-05-24 13:22:10.849763,0
+20,1145,"Myers, Harvey and Woodward",3036.81,transfer,UK,declined,2026-05-24 13:22:10.850188,1
+21,1736,Shaffer-Taylor,4158.49,withdrawal,UK,approved,2026-05-24 13:22:10.850481,0
+22,1536,Ferguson-Ferguson,2274.08,purchase,NG,approved,2026-05-24 13:22:10.850772,0
+23,1345,"Hernandez, Carpenter and Melton",3709.87,withdrawal,UK,approved,2026-05-24 13:22:10.851197,1
+24,2903,Walker Ltd,1362.62,withdrawal,US,declined,2026-05-24 13:22:10.851362,0
+25,2802,David-Roberts,2476.75,withdrawal,NG,approved,2026-05-24 13:22:10.851652,0
+26,1951,"Shelton, Moreno and Howard",974.77,withdrawal,NG,declined,2026-05-24 13:22:10.852078,1
+27,3091,Wyatt-Ross,1334.38,withdrawal,NG,declined,2026-05-24 13:22:10.852374,0
+28,2862,Colon Inc,4467.74,transfer,UK,declined,2026-05-24 13:22:10.852538,0
+29,4939,Hopkins-Wells,2847.75,withdrawal,CA,declined,2026-05-24 13:22:10.852832,0
+30,1892,Oliver LLC,1495.95,withdrawal,NG,approved,2026-05-24 13:22:10.852997,0
+31,3067,"Velasquez, Hill and Williams",1321.32,withdrawal,CA,declined,2026-05-24 13:22:10.853427,0
+32,1980,Flowers and Sons,2805.63,purchase,CA,approved,2026-05-24 13:22:10.853556,0
+33,3288,Gross-Shepherd,4475.13,withdrawal,US,approved,2026-05-24 13:22:10.853778,0
+34,4029,"Shelton, Hensley and Holloway",2491.41,withdrawal,US,approved,2026-05-24 13:22:10.854110,0
+35,1924,"West, Ramirez and Johnson",4329.54,transfer,UK,declined,2026-05-24 13:22:10.854435,0
+36,3498,Riley-Foster,3588.03,purchase,UK,declined,2026-05-24 13:22:10.854659,0
+37,1060,Burns-Williams,4077.44,withdrawal,NG,approved,2026-05-24 13:22:10.854883,1
+38,4595,Hale Ltd,3960.8,purchase,CA,declined,2026-05-24 13:22:10.855010,0
+39,1840,"Vasquez, Lewis and Carroll",276.92,purchase,UK,declined,2026-05-24 13:22:10.855334,1
+40,1706,Hernandez Group,2097.2,transfer,US,declined,2026-05-24 13:22:10.855460,1
+41,1031,Li Inc,2038.02,purchase,CA,approved,2026-05-24 13:22:10.855586,0
+42,2922,Malone-Smith,740.34,withdrawal,US,declined,2026-05-24 13:22:10.855809,1
+43,2579,Simpson Inc,3272.55,purchase,NG,declined,2026-05-24 13:22:10.855936,1
+44,3852,Williams and Sons,1564.31,withdrawal,UK,declined,2026-05-24 13:22:10.856061,1
+45,1749,Morris PLC,3293.21,withdrawal,CA,approved,2026-05-24 13:22:10.856186,0
+46,1186,"Doyle, Roth and Wright",1146.04,withdrawal,UK,declined,2026-05-24 13:22:10.856513,0
+47,3961,Chang-Newton,4089.95,transfer,CA,declined,2026-05-24 13:22:10.856738,1
+48,1037,Moore-Herman,4304.79,withdrawal,US,approved,2026-05-24 13:22:10.856969,0
+49,2920,"Gonzalez, Taylor and Martinez",4342.39,transfer,NG,approved,2026-05-24 13:22:10.857296,1
+50,2587,Townsend-Lee,4416.53,purchase,UK,declined,2026-05-24 13:22:10.857521,1
+51,2473,"Pope, Ramirez and Mora",133.64,purchase,UK,declined,2026-05-24 13:22:10.857969,0
+52,4832,"Campbell, Soto and Jacobs",3284.25,transfer,US,declined,2026-05-24 13:22:10.858356,0
+53,2492,Simmons-Moore,3393.67,withdrawal,US,declined,2026-05-24 13:22:10.858598,1
+54,4971,Duffy LLC,2761.56,withdrawal,NG,declined,2026-05-24 13:22:10.858734,1
+55,4646,Burton LLC,2613.19,purchase,US,declined,2026-05-24 13:22:10.858865,0
+56,4934,Short Group,4684.33,transfer,US,approved,2026-05-24 13:22:10.858994,0
+57,3695,Gomez and Sons,1823.04,withdrawal,US,declined,2026-05-24 13:22:10.859123,1
+58,2442,"Mendoza, Sims and Garcia",323.19,withdrawal,US,approved,2026-05-24 13:22:10.859462,0
+59,1096,Gallegos-Hogan,1450.64,purchase,UK,approved,2026-05-24 13:22:10.859692,0
+60,4456,"Benton, Robertson and Ochoa",2211.05,withdrawal,US,approved,2026-05-24 13:22:10.860029,1
+61,2163,"Taylor, Mcdonald and Walker",446.56,withdrawal,NG,declined,2026-05-24 13:22:10.860419,0
+62,3668,"White, Ortiz and Williams",1450.03,withdrawal,CA,approved,2026-05-24 13:22:10.860781,0
+63,3569,Carroll-Olsen,1764.97,purchase,UK,declined,2026-05-24 13:22:10.861016,0
+64,1278,"Brown, Johnson and Gilbert",4079.65,purchase,US,approved,2026-05-24 13:22:10.861348,0
+65,4805,Jackson LLC,1173.26,purchase,CA,declined,2026-05-24 13:22:10.861479,1
+66,1081,"Flores, Pearson and Reynolds",3118.31,purchase,UK,approved,2026-05-24 13:22:10.861783,1
+67,2388,Ford-Bishop,460.36,withdrawal,CA,approved,2026-05-24 13:22:10.861973,0
+68,4111,West-Kelly,1072.64,transfer,US,approved,2026-05-24 13:22:10.862163,0
+69,2984,"Lawson, Martin and Castaneda",2101.17,transfer,UK,approved,2026-05-24 13:22:10.862439,0
+70,4693,"Ortega, Wilson and Allen",3965.7,purchase,UK,declined,2026-05-24 13:22:10.862725,0
+71,3729,Campbell-Hicks,1033.33,transfer,UK,approved,2026-05-24 13:22:10.862948,0
+72,4836,"Griffin, Fitzgerald and Yang",4535.14,purchase,US,approved,2026-05-24 13:22:10.863278,0
+73,1420,Gonzalez and Sons,1510.24,transfer,US,approved,2026-05-24 13:22:10.863395,0
+74,4152,Ross-Mcgee,2349.08,transfer,NG,approved,2026-05-24 13:22:10.863590,0
+75,4066,Bass-Armstrong,549.2,purchase,NG,declined,2026-05-24 13:22:10.863784,0
+76,4429,Medina-Thompson,4249.68,purchase,NG,declined,2026-05-24 13:22:10.863976,0
+77,1907,Ramirez-Alvarez,2062.5,withdrawal,NG,declined,2026-05-24 13:22:10.864167,0
+78,1268,Guzman LLC,2407.62,withdrawal,NG,approved,2026-05-24 13:22:10.864277,0
+79,1076,Ferguson Group,358.07,purchase,UK,approved,2026-05-24 13:22:10.864385,0
+80,1552,Salinas PLC,1589.87,transfer,NG,approved,2026-05-24 13:22:10.864493,0
+81,3949,Perez Group,4860.15,withdrawal,US,approved,2026-05-24 13:22:10.864599,0
+82,4897,White PLC,3969.55,withdrawal,NG,declined,2026-05-24 13:22:10.864704,0
+83,3390,"Moses, Rodriguez and Harper",1475.38,withdrawal,US,approved,2026-05-24 13:22:10.864983,0
+84,1606,Miller-Stevenson,1155.94,withdrawal,US,declined,2026-05-24 13:22:10.865174,1
+85,3111,"Hawkins, Smith and Fitzgerald",3452.23,purchase,CA,declined,2026-05-24 13:22:10.865452,1
+86,3343,"Nguyen, Thompson and Hines",628.03,transfer,NG,approved,2026-05-24 13:22:10.865731,0
+87,4243,May-Shelton,3094.5,transfer,US,approved,2026-05-24 13:22:10.865921,0
+88,1122,Smith-Miller,346.57,transfer,US,approved,2026-05-24 13:22:10.866111,1
+89,3292,"Johnson, Hoffman and Sosa",56.02,withdrawal,US,approved,2026-05-24 13:22:10.866389,0
+90,2594,Hall Inc,2440.61,transfer,US,approved,2026-05-24 13:22:10.866503,0
+91,2959,Hanna Group,1367.22,transfer,UK,declined,2026-05-24 13:22:10.866611,1
+92,3018,"Young, Nelson and Schmidt",4903.42,transfer,CA,declined,2026-05-24 13:22:10.866890,0
+93,4831,"Salazar, Gould and Matthews",2448.06,withdrawal,UK,declined,2026-05-24 13:22:10.867167,0
+94,1923,Douglas-Rice,4992.18,withdrawal,NG,declined,2026-05-24 13:22:10.867358,0
+95,2443,Garcia-Davis,4047.89,withdrawal,CA,declined,2026-05-24 13:22:10.867546,0
+96,1935,"Roberts, Miller and Barry",3482.19,purchase,NG,declined,2026-05-24 13:22:10.867827,0
+97,4357,Singh-Garcia,3484.12,transfer,US,approved,2026-05-24 13:22:10.868022,0
+98,2374,Anthony-Trujillo,2006.55,purchase,UK,declined,2026-05-24 13:22:10.868213,0
+99,4696,"Nguyen, Stein and Carter",74.6,purchase,NG,declined,2026-05-24 13:22:10.868490,0
+100,2293,Freeman-Stone,3810.02,withdrawal,NG,declined,2026-05-24 13:22:10.868679,0
+101,2111,"Delacruz, Perez and Williams",4723.13,withdrawal,NG,approved,2026-05-24 13:22:10.868954,0
+102,2463,"Rivas, Perez and Sutton",2594.97,withdrawal,UK,declined,2026-05-24 13:22:10.869302,0
+103,4733,"Knight, Morales and Silva",1409.37,purchase,CA,approved,2026-05-24 13:22:10.869596,1
+104,4285,"Sanders, York and Kidd",2597.56,withdrawal,UK,declined,2026-05-24 13:22:10.869878,0
+105,1996,Greene-Davenport,649.34,purchase,CA,approved,2026-05-24 13:22:10.870068,0
+106,2405,Jones-Pruitt,1369.64,withdrawal,CA,approved,2026-05-24 13:22:10.870260,0
+107,1880,White-Lester,2109.1,transfer,US,approved,2026-05-24 13:22:10.870456,1
+108,4381,"Parker, Lawrence and Castillo",3408.33,purchase,NG,declined,2026-05-24 13:22:10.870736,0
+109,2482,Ryan Inc,4016.33,transfer,US,declined,2026-05-24 13:22:10.870848,1
+110,3815,Haney Inc,1682.39,purchase,CA,declined,2026-05-24 13:22:10.870957,0
+111,3000,Braun Ltd,2478.16,purchase,CA,approved,2026-05-24 13:22:10.871062,0
+112,3847,"Wheeler, Stephens and Houston",3648.64,transfer,US,declined,2026-05-24 13:22:10.871336,0
+113,2213,Rodriguez-Bennett,2492.44,purchase,NG,approved,2026-05-24 13:22:10.871524,1
+114,1869,"Johnson, Flores and Johnson",4717.76,transfer,CA,approved,2026-05-24 13:22:10.871811,1
+115,2849,"Wells, Jones and Gardner",4772.78,withdrawal,CA,declined,2026-05-24 13:22:10.872054,0
+116,4415,Phillips Ltd,2236.81,transfer,NG,approved,2026-05-24 13:22:10.872148,0
+117,3574,Black-Bell,3283.35,withdrawal,CA,declined,2026-05-24 13:22:10.872314,0
+118,3069,"Cole, Long and Flores",2236.75,purchase,US,approved,2026-05-24 13:22:10.872558,0
+119,3067,"Pierce, Wright and Taylor",755.05,transfer,US,approved,2026-05-24 13:22:10.872805,0
+120,3898,Chaney PLC,1672.11,purchase,NG,approved,2026-05-24 13:22:10.872900,0
+121,3604,"Yang, Vaughn and Ayers",165.28,withdrawal,NG,declined,2026-05-24 13:22:10.873145,0
+122,2276,Pierce and Sons,3599.03,withdrawal,CA,declined,2026-05-24 13:22:10.873239,0
+123,1270,"Harrison, Mcclure and Taylor",3123.83,transfer,US,approved,2026-05-24 13:22:10.873489,0
+124,1632,Werner-Lee,3446.51,transfer,US,declined,2026-05-24 13:22:10.873657,0
+125,3834,Rivas Inc,4497.05,transfer,CA,approved,2026-05-24 13:22:10.873751,0
+126,3716,Hendrix-Holland,2414.07,purchase,CA,declined,2026-05-24 13:22:10.873918,1
+127,2969,Berg-Walker,84.05,purchase,CA,approved,2026-05-24 13:22:10.874085,0
+128,2802,"Johnson, Graham and Henderson",3993.27,purchase,US,approved,2026-05-24 13:22:10.874381,0
+129,4735,Collins-Fitzgerald,4193.73,transfer,US,approved,2026-05-24 13:22:10.874570,0
+130,1743,Vaughan and Sons,237.03,purchase,CA,declined,2026-05-24 13:22:10.874670,0
+131,1061,"Porter, Alvarez and Boyd",1508.54,purchase,US,approved,2026-05-24 13:22:10.874918,0
+132,2178,Young Group,2129.75,withdrawal,UK,declined,2026-05-24 13:22:10.875013,0
+133,1671,Campbell-Salazar,1846.27,transfer,NG,declined,2026-05-24 13:22:10.875183,0
+134,1071,"Lee, Jenkins and Brown",3033.37,withdrawal,NG,declined,2026-05-24 13:22:10.875428,0
+135,3751,Acosta-Armstrong,212.57,transfer,NG,declined,2026-05-24 13:22:10.875605,1
+136,2957,"Bailey, Austin and Barnes",659.97,withdrawal,US,approved,2026-05-24 13:22:10.875851,0
+137,1947,"Fuentes, White and Hall",3371.44,purchase,CA,declined,2026-05-24 13:22:10.876095,0
+138,3339,Moreno and Sons,478.12,withdrawal,CA,approved,2026-05-24 13:22:10.876192,1
+139,2232,"Horton, Martinez and Foley",631.8,purchase,UK,declined,2026-05-24 13:22:10.876436,0
+140,2583,"Jones, Garcia and Perez",3694.12,withdrawal,NG,declined,2026-05-24 13:22:10.876739,0
+141,2728,Ramos-Miller,1061.14,transfer,US,declined,2026-05-24 13:22:10.876985,0
+142,1242,Burke Ltd,2676.93,withdrawal,CA,declined,2026-05-24 13:22:10.877090,1
+143,2654,"Ibarra, Wu and Russell",763.03,purchase,NG,declined,2026-05-24 13:22:10.877341,0
+144,2576,Porter Inc,1875.61,transfer,CA,declined,2026-05-24 13:22:10.877437,0
+145,4249,Miller PLC,4305.4,withdrawal,UK,declined,2026-05-24 13:22:10.877531,0
+146,4461,Perez-Carlson,1751.89,transfer,NG,declined,2026-05-24 13:22:10.877697,0
+147,3244,"Wells, Lewis and Kelly",4193.54,transfer,NG,declined,2026-05-24 13:22:10.877950,0
+148,3693,"Thomas, Ramsey and Stevenson",2329.32,withdrawal,UK,approved,2026-05-24 13:22:10.878204,1
+149,1391,"Bates, Baker and Miranda",2791.41,withdrawal,US,declined,2026-05-24 13:22:10.878450,0
+150,1095,"Bailey, Jones and Stewart",3111.24,transfer,US,approved,2026-05-24 13:22:10.878695,0
+151,4466,"Ramirez, Stephens and Rodriguez",2583.61,transfer,CA,approved,2026-05-24 13:22:10.878943,0
+152,2611,Orr-Rodriguez,4125.86,purchase,UK,declined,2026-05-24 13:22:10.879112,1
+153,2195,Werner-Mcdonald,1793.94,withdrawal,NG,approved,2026-05-24 13:22:10.879338,0
+154,4368,Malone-Ray,2666.78,transfer,NG,approved,2026-05-24 13:22:10.879510,0
+155,3500,"Garcia, Kirby and Contreras",2329.2,purchase,UK,approved,2026-05-24 13:22:10.879754,0
+156,1301,"Bean, Murillo and Miranda",1244.61,transfer,NG,declined,2026-05-24 13:22:10.879997,0
+157,3746,"Cannon, Lester and Sullivan",1386.24,withdrawal,CA,approved,2026-05-24 13:22:10.880240,0
+158,1131,"Jenkins, Martinez and Lee",274.4,purchase,US,declined,2026-05-24 13:22:10.880489,0
+159,2218,"Harper, Lopez and Roberson",864.17,withdrawal,US,declined,2026-05-24 13:22:10.880733,0
+160,4517,Patrick LLC,186.92,purchase,UK,approved,2026-05-24 13:22:10.880827,0
+161,1397,"Campbell, Edwards and Ayers",272.11,withdrawal,UK,declined,2026-05-24 13:22:10.881071,0
+162,3399,"Dean, Mejia and Wood",3198.25,purchase,NG,approved,2026-05-24 13:22:10.881319,1
+163,1269,"Fowler, Hale and Miller",2747.55,purchase,UK,approved,2026-05-24 13:22:10.881562,0
+164,3184,Mendez and Sons,4545.46,withdrawal,CA,declined,2026-05-24 13:22:10.881656,1
+165,2213,Jacobs-Mathis,556.89,transfer,US,approved,2026-05-24 13:22:10.881823,0
+166,3702,"Gray, Navarro and Meadows",3423.95,transfer,US,declined,2026-05-24 13:22:10.882066,0
+167,2621,Moore LLC,2263.33,withdrawal,NG,approved,2026-05-24 13:22:10.882161,0
+168,2098,"Price, Conley and Jones",510.76,transfer,CA,declined,2026-05-24 13:22:10.882407,0
+169,2897,"Jones, Allen and Bell",2167.39,purchase,US,declined,2026-05-24 13:22:10.882648,1
+170,4947,Rodriguez LLC,4739.18,transfer,UK,approved,2026-05-24 13:22:10.882741,0
+171,2526,Wood Group,3569.19,withdrawal,NG,approved,2026-05-24 13:22:10.882837,0
+172,1852,Small-Reid,2091.18,transfer,US,declined,2026-05-24 13:22:10.883004,0
+173,3142,"Murphy, Hernandez and Duncan",361.56,withdrawal,NG,approved,2026-05-24 13:22:10.883246,0
+174,4802,Juarez Group,1211.38,withdrawal,US,approved,2026-05-24 13:22:10.883349,0
+175,3533,"Lee, Moore and Mata",4083.37,purchase,CA,declined,2026-05-24 13:22:10.883595,0
+176,2821,Johnson-Cooper,4314.18,transfer,NG,approved,2026-05-24 13:22:10.883763,1
+177,3741,"Gonzalez, Reed and Stevens",1134.4,purchase,CA,declined,2026-05-24 13:22:10.884008,0
+178,3704,Evans and Sons,556.31,purchase,CA,approved,2026-05-24 13:22:10.884103,1
+179,4779,Terry PLC,1296.5,withdrawal,CA,declined,2026-05-24 13:22:10.884199,0
+180,3642,"Fowler, Gray and Anderson",1207.71,withdrawal,US,approved,2026-05-24 13:22:10.884445,1
+181,1093,"Smith, Palmer and Bradford",3300.71,withdrawal,US,approved,2026-05-24 13:22:10.884690,0
+182,2534,Hernandez-Fitzpatrick,3031.19,purchase,CA,declined,2026-05-24 13:22:10.884858,0
+183,1402,Taylor Inc,2826.41,purchase,NG,declined,2026-05-24 13:22:10.884952,0
+184,4415,Douglas-Neal,2792.5,withdrawal,NG,approved,2026-05-24 13:22:10.885124,0
+185,1163,Porter-Jackson,377.27,purchase,UK,approved,2026-05-24 13:22:10.885301,0
+186,3242,"Bradford, Martinez and Ayala",3114.12,transfer,UK,declined,2026-05-24 13:22:10.885596,0
+187,2441,King Ltd,2972.32,purchase,CA,declined,2026-05-24 13:22:10.885709,0
+188,2204,Watson Ltd,2340.88,transfer,US,approved,2026-05-24 13:22:10.885806,0
+189,3067,Garcia Group,1414.49,transfer,US,declined,2026-05-24 13:22:10.885901,1
+190,2779,"Stanley, Jones and Peterson",203.37,transfer,NG,declined,2026-05-24 13:22:10.886147,0
+191,3300,Mitchell-Greer,4822.63,purchase,NG,declined,2026-05-24 13:22:10.886326,1
+192,3773,"Brown, Montoya and Le",2780.82,transfer,US,declined,2026-05-24 13:22:10.886557,0
+193,4243,"Herrera, Cameron and Salas",1867.92,purchase,US,declined,2026-05-24 13:22:10.886791,0
+194,4404,Berg Inc,2928.76,transfer,NG,declined,2026-05-24 13:22:10.886881,0
+195,4510,"Bowers, Garcia and Torres",3102.15,purchase,CA,declined,2026-05-24 13:22:10.887112,0
+196,1692,"Elliott, Rivera and Mooney",1638.25,transfer,UK,declined,2026-05-24 13:22:10.887343,1
+197,4291,Smith Inc,3772.71,withdrawal,NG,approved,2026-05-24 13:22:10.887432,0
+198,1989,Flores Inc,401.0,purchase,US,declined,2026-05-24 13:22:10.887521,1
+199,4597,Davis PLC,2515.04,transfer,UK,declined,2026-05-24 13:22:10.887609,0
+200,2743,Williams Inc,3878.59,withdrawal,NG,approved,2026-05-24 13:22:10.887697,0
+201,1458,Garcia-Woods,4663.22,transfer,NG,approved,2026-05-24 13:22:10.887853,1
+202,4229,"Torres, Wood and Zamora",761.97,transfer,US,approved,2026-05-24 13:22:10.888084,0
+203,1616,Leonard PLC,3401.94,withdrawal,US,declined,2026-05-24 13:22:10.888172,0
+204,1882,Barajas and Sons,2985.43,transfer,NG,declined,2026-05-24 13:22:10.888260,0
+205,3134,Young-Giles,4706.16,purchase,UK,approved,2026-05-24 13:22:10.888427,0
+206,4365,Fowler Group,3113.48,purchase,NG,approved,2026-05-24 13:22:10.888513,0
+207,3479,Robbins-Cannon,1085.96,purchase,UK,approved,2026-05-24 13:22:10.888671,0
+208,4575,"Atkinson, Young and Rogers",2700.0,withdrawal,UK,declined,2026-05-24 13:22:10.888898,0
+209,1628,Blair-White,2155.35,withdrawal,NG,approved,2026-05-24 13:22:10.889052,0
+210,3251,Taylor-Mathews,2683.92,purchase,CA,declined,2026-05-24 13:22:10.889244,1
+211,3778,Thompson Group,4634.07,withdrawal,US,declined,2026-05-24 13:22:10.889332,1
+212,3716,Blackwell-Edwards,315.59,transfer,US,declined,2026-05-24 13:22:10.889485,0
+213,4434,"Freeman, English and Vasquez",2619.81,withdrawal,UK,declined,2026-05-24 13:22:10.889711,0
+214,2213,Garcia Inc,1859.74,purchase,US,declined,2026-05-24 13:22:10.889798,0
+215,4697,Hernandez Group,2482.66,transfer,UK,approved,2026-05-24 13:22:10.889886,0
+216,1779,Smith-Bennett,2688.12,withdrawal,NG,approved,2026-05-24 13:22:10.890040,0
+217,3704,Brown PLC,3871.95,withdrawal,NG,declined,2026-05-24 13:22:10.890127,0
+218,4931,Curtis LLC,1772.94,transfer,NG,declined,2026-05-24 13:22:10.890212,0
+219,4634,Anderson and Sons,3706.73,withdrawal,CA,approved,2026-05-24 13:22:10.890298,0
+220,2303,Ross-Peterson,2997.03,purchase,UK,approved,2026-05-24 13:22:10.890490,0
+221,3095,"Carter, Crawford and Barrera",4443.25,purchase,US,declined,2026-05-24 13:22:10.890744,0
+222,1949,Love Inc,3120.89,withdrawal,UK,approved,2026-05-24 13:22:10.890830,0
+223,2899,Houston-Villarreal,1702.07,purchase,UK,approved,2026-05-24 13:22:10.890984,0
+224,3216,"Brown, Wiggins and Trujillo",4157.79,withdrawal,CA,declined,2026-05-24 13:22:10.891228,1
+225,2803,"Thomas, Nguyen and Jones",1966.45,purchase,US,declined,2026-05-24 13:22:10.891595,1
+226,3694,Simmons-Buck,4301.56,purchase,NG,approved,2026-05-24 13:22:10.891774,0
+227,3091,Holland Ltd,1866.45,purchase,UK,approved,2026-05-24 13:22:10.891868,0
+228,1816,"Simpson, Garcia and Miller",440.4,purchase,US,approved,2026-05-24 13:22:10.892104,0
+229,1445,"Allen, Smith and Hurst",4423.04,withdrawal,UK,approved,2026-05-24 13:22:10.892338,0
+230,3438,Scott PLC,3492.99,purchase,CA,approved,2026-05-24 13:22:10.892429,0
+231,2158,"Murphy, Gutierrez and Odonnell",637.38,transfer,US,approved,2026-05-24 13:22:10.892662,0
+232,2733,"Gentry, Carroll and Robbins",2054.57,transfer,US,approved,2026-05-24 13:22:10.892894,1
+233,4152,Hudson-Davis,3447.07,withdrawal,NG,approved,2026-05-24 13:22:10.893054,0
+234,1810,Heath-Hernandez,298.34,purchase,NG,approved,2026-05-24 13:22:10.893218,1
+235,2658,Johnston Ltd,4634.29,transfer,UK,approved,2026-05-24 13:22:10.893308,0
+236,4260,"Crawford, Wilson and Meza",31.96,withdrawal,US,declined,2026-05-24 13:22:10.893541,1
+237,3615,Willis-Barron,78.68,withdrawal,US,approved,2026-05-24 13:22:10.893699,1
+238,2668,"Mitchell, Holt and Harvey",2290.68,withdrawal,CA,approved,2026-05-24 13:22:10.894033,0
+239,1230,"Davis, Guzman and Callahan",2873.53,transfer,US,declined,2026-05-24 13:22:10.894266,1
+240,1004,Thomas Group,4046.55,withdrawal,CA,declined,2026-05-24 13:22:10.894358,0
+241,2972,Perry-Frank,2993.06,withdrawal,NG,approved,2026-05-24 13:22:10.894518,1
+242,1757,"Chapman, Warren and Paul",4245.04,purchase,NG,declined,2026-05-24 13:22:10.894757,0
+243,3089,Anderson Ltd,350.57,purchase,NG,declined,2026-05-24 13:22:10.894847,1
+244,4141,"Gutierrez, Mercado and Ayala",1943.22,transfer,CA,declined,2026-05-24 13:22:10.895130,0
+245,3089,King PLC,3275.8,purchase,CA,declined,2026-05-24 13:22:10.895262,0
+246,1100,Patel-Mccarthy,412.61,withdrawal,UK,declined,2026-05-24 13:22:10.895432,0
+247,3457,Watson Inc,1934.58,purchase,CA,approved,2026-05-24 13:22:10.895556,0
+248,1196,"Freeman, Wilson and Jefferson",4407.24,withdrawal,NG,declined,2026-05-24 13:22:10.895785,1
+249,2724,Francis-Bell,1043.72,transfer,UK,approved,2026-05-24 13:22:10.895960,1
+250,1846,"Harris, Thompson and Pittman",4894.6,purchase,CA,declined,2026-05-24 13:22:10.896232,1
+251,1719,"Black, Hancock and Harris",3851.88,withdrawal,US,approved,2026-05-24 13:22:10.896512,1
+252,3723,"Knight, Kelly and Miller",3354.4,withdrawal,UK,declined,2026-05-24 13:22:10.896751,0
+253,3494,Harmon PLC,3262.17,transfer,CA,declined,2026-05-24 13:22:10.896838,1
+254,4086,Garcia and Sons,4263.9,transfer,NG,approved,2026-05-24 13:22:10.896925,1
+255,4217,Clark-Perez,2310.8,withdrawal,US,approved,2026-05-24 13:22:10.897078,0
+256,4626,Page-Mcknight,1124.59,transfer,CA,approved,2026-05-24 13:22:10.897233,0
+257,4011,Berry-Adams,2747.28,purchase,US,approved,2026-05-24 13:22:10.897386,1
+258,3318,"Moss, Little and Copeland",780.39,purchase,US,declined,2026-05-24 13:22:10.897646,1
+259,1437,Orozco-Rodriguez,3886.88,purchase,NG,approved,2026-05-24 13:22:10.897800,0
+260,4992,Lester and Sons,252.29,withdrawal,CA,declined,2026-05-24 13:22:10.897887,0
+261,3440,"Martinez, Patterson and Brown",2503.47,transfer,CA,approved,2026-05-24 13:22:10.898111,0
+262,3456,Robertson Inc,4270.51,purchase,CA,approved,2026-05-24 13:22:10.898198,0
+263,4890,Johnson Group,3854.72,transfer,UK,approved,2026-05-24 13:22:10.898304,0
+264,3864,Wilson Ltd,1981.63,transfer,US,declined,2026-05-24 13:22:10.898393,1
+265,4895,"Williams, Jordan and Armstrong",4703.17,purchase,US,declined,2026-05-24 13:22:10.898626,1
+266,3867,Merritt-Kemp,2817.56,withdrawal,US,declined,2026-05-24 13:22:10.898785,1
+267,3465,Lopez and Sons,1506.67,withdrawal,UK,declined,2026-05-24 13:22:10.898874,0
+268,1009,Cox-Wilson,3523.91,transfer,US,approved,2026-05-24 13:22:10.899032,0
+269,2878,Davis Inc,1987.06,transfer,CA,declined,2026-05-24 13:22:10.899121,0
+270,1843,Knight and Sons,848.83,transfer,NG,approved,2026-05-24 13:22:10.899210,0
+271,4564,"Jones, Bowers and Harrison",4578.78,transfer,CA,approved,2026-05-24 13:22:10.899441,0
+272,4376,Martinez Inc,2913.46,withdrawal,US,approved,2026-05-24 13:22:10.899530,1
+273,2483,Rodriguez LLC,569.48,withdrawal,CA,declined,2026-05-24 13:22:10.899618,0
+274,2774,"Joseph, Gomez and Vasquez",265.52,transfer,US,declined,2026-05-24 13:22:10.899849,0
+275,2898,Atkins-Hart,3399.24,purchase,UK,declined,2026-05-24 13:22:10.900007,0
+276,1731,King-Roberts,3422.56,purchase,US,approved,2026-05-24 13:22:10.900214,0
+277,4703,Mckay Ltd,4575.14,transfer,NG,approved,2026-05-24 13:22:10.900322,0
+278,4660,"Torres, Young and Baker",2193.27,purchase,UK,declined,2026-05-24 13:22:10.900623,0
+279,4053,Kelley Ltd,3943.87,withdrawal,NG,declined,2026-05-24 13:22:10.900721,0
+280,2978,Jones-Mcfarland,2847.1,transfer,NG,declined,2026-05-24 13:22:10.900884,0
+281,1008,"Williams, Russell and Foster",1813.77,transfer,CA,declined,2026-05-24 13:22:10.901121,1
+282,2018,Webb LLC,1325.9,transfer,CA,declined,2026-05-24 13:22:10.901213,0
+283,1378,Robinson-Suarez,4550.99,transfer,NG,declined,2026-05-24 13:22:10.901380,0
+284,2318,Smith-Tate,2381.28,transfer,CA,approved,2026-05-24 13:22:10.901550,0
+285,1104,Garner-Stanley,1409.27,withdrawal,UK,approved,2026-05-24 13:22:10.901719,0
+286,4393,"Lopez, Jackson and Jackson",4801.09,transfer,US,declined,2026-05-24 13:22:10.901955,1
+287,4238,Bridges-Murillo,2872.63,transfer,UK,declined,2026-05-24 13:22:10.902116,1
+288,4902,Mccoy Group,1771.8,transfer,NG,approved,2026-05-24 13:22:10.902207,0
+289,3608,Rogers-Smith,629.68,withdrawal,US,approved,2026-05-24 13:22:10.902368,1
+290,2928,"Silva, Garcia and Meyer",3769.68,withdrawal,US,declined,2026-05-24 13:22:10.902603,0
+291,1099,Rodgers LLC,583.11,withdrawal,UK,approved,2026-05-24 13:22:10.902695,0
+292,3801,"Jones, Stout and Phillips",1219.9,transfer,CA,approved,2026-05-24 13:22:10.902929,0
+293,4928,"Salas, Marsh and James",1159.02,purchase,UK,approved,2026-05-24 13:22:10.903164,1
+294,2412,"Garrett, English and Stewart",666.22,withdrawal,CA,approved,2026-05-24 13:22:10.903400,1
+295,3862,"Edwards, Romero and Figueroa",3415.01,withdrawal,NG,declined,2026-05-24 13:22:10.903635,0
+296,1451,Bell-Smith,4488.38,withdrawal,CA,declined,2026-05-24 13:22:10.903796,1
+297,2604,"Bowers, Torres and Hanna",2785.11,transfer,US,declined,2026-05-24 13:22:10.904031,0
+298,2648,"James, Robbins and Harrison",2613.78,withdrawal,NG,approved,2026-05-24 13:22:10.904266,0
+299,4228,Shields-Jordan,1556.27,purchase,UK,approved,2026-05-24 13:22:10.904427,0
+300,3701,Powers Group,4516.99,withdrawal,UK,declined,2026-05-24 13:22:10.904518,0
+301,4378,Smith Inc,3146.37,withdrawal,NG,approved,2026-05-24 13:22:10.904607,0
+302,1776,Dennis-Foster,2958.78,transfer,CA,approved,2026-05-24 13:22:10.904773,0
+303,4776,Mccarthy-Ramos,4762.71,withdrawal,NG,approved,2026-05-24 13:22:10.904935,0
+304,3691,Anderson and Sons,835.58,transfer,UK,approved,2026-05-24 13:22:10.905032,1
+305,3578,Pearson PLC,648.05,purchase,CA,approved,2026-05-24 13:22:10.905124,0
+306,1166,"Murphy, Stephens and Coleman",1060.66,transfer,CA,declined,2026-05-24 13:22:10.905358,0
+307,3440,Mercado-Smith,2688.92,purchase,CA,approved,2026-05-24 13:22:10.905520,1
+308,2803,Pratt Inc,2136.49,transfer,CA,approved,2026-05-24 13:22:10.905611,0
+309,4687,"Hebert, May and Yates",4561.6,withdrawal,UK,approved,2026-05-24 13:22:10.905849,0
+310,3334,Frye-Lang,71.23,purchase,CA,declined,2026-05-24 13:22:10.906011,1
+311,4830,Smith Group,1625.02,transfer,NG,declined,2026-05-24 13:22:10.906101,0
+312,4786,Martin Inc,1995.44,purchase,NG,declined,2026-05-24 13:22:10.906190,0
+313,1461,Skinner-Richardson,4487.72,purchase,UK,approved,2026-05-24 13:22:10.906351,0
+314,1177,Murray and Sons,3978.13,purchase,UK,declined,2026-05-24 13:22:10.906443,0
+315,2168,King-Barry,3108.15,purchase,NG,approved,2026-05-24 13:22:10.906604,0
+316,1517,"Edwards, Watts and Pena",1874.69,purchase,US,approved,2026-05-24 13:22:10.906870,0
+317,3607,French-Strickland,107.43,transfer,US,declined,2026-05-24 13:22:10.907033,0
+318,4462,"Hall, Contreras and Welch",1697.14,transfer,US,approved,2026-05-24 13:22:10.907266,1
+319,4379,Phelps Inc,2938.03,withdrawal,UK,declined,2026-05-24 13:22:10.907356,0
+320,4094,"Rivera, Parker and Reed",3518.99,withdrawal,US,declined,2026-05-24 13:22:10.907587,0
+321,3249,Jones Group,2982.65,transfer,NG,declined,2026-05-24 13:22:10.907678,0
+322,4913,Thompson PLC,441.43,withdrawal,US,declined,2026-05-24 13:22:10.907773,1
+323,1396,"Gray, Perez and Armstrong",1903.22,withdrawal,NG,approved,2026-05-24 13:22:10.908003,0
+324,3713,Strickland and Sons,268.07,transfer,UK,approved,2026-05-24 13:22:10.908098,1
+325,3513,Orr Group,3848.73,withdrawal,UK,approved,2026-05-24 13:22:10.908187,1
+326,3418,Holmes-Brooks,2695.18,transfer,UK,declined,2026-05-24 13:22:10.908357,0
+327,2100,Anderson-Blake,4226.6,withdrawal,US,declined,2026-05-24 13:22:10.908516,0
+328,1798,"Martinez, Sparks and Hammond",2510.83,withdrawal,US,approved,2026-05-24 13:22:10.908748,1
+329,4538,Guerra LLC,3416.68,purchase,UK,declined,2026-05-24 13:22:10.908836,0
+330,1406,Robinson PLC,2153.38,purchase,US,declined,2026-05-24 13:22:10.908954,0
+331,4851,Jones Group,1981.26,withdrawal,US,approved,2026-05-24 13:22:10.909056,0
+332,2058,Sanders PLC,3754.07,transfer,CA,declined,2026-05-24 13:22:10.909142,0
+333,1803,"Williams, Wolf and Hughes",4149.72,withdrawal,NG,declined,2026-05-24 13:22:10.909368,0
+334,4917,Snyder-Lamb,1074.28,withdrawal,US,approved,2026-05-24 13:22:10.909557,0
+335,4898,"Miles, Cunningham and Jones",1384.3,purchase,US,declined,2026-05-24 13:22:10.909803,1
+336,3490,Reyes-Blackburn,4378.96,purchase,CA,approved,2026-05-24 13:22:10.910062,0
+337,3222,Jackson-Wells,2875.85,withdrawal,NG,declined,2026-05-24 13:22:10.910355,1
+338,1966,Ortiz-Crawford,4708.28,transfer,UK,approved,2026-05-24 13:22:10.910529,1
+339,3989,Hall-Rodriguez,4138.91,purchase,CA,approved,2026-05-24 13:22:10.910693,0
+340,1084,"Alvarado, Schwartz and Johnson",2607.84,purchase,US,declined,2026-05-24 13:22:10.910931,0
+341,2987,"Mccarthy, Oliver and Wheeler",3849.33,purchase,US,declined,2026-05-24 13:22:10.911187,0
+342,1516,Hill-Bennett,4570.81,transfer,NG,declined,2026-05-24 13:22:10.911406,0
+343,2067,Lester PLC,753.22,purchase,CA,approved,2026-05-24 13:22:10.911516,0
+344,1107,Sherman Group,1458.84,purchase,UK,approved,2026-05-24 13:22:10.911631,0
+345,4403,"Mcdowell, Mcintyre and Thomas",2695.75,withdrawal,US,declined,2026-05-24 13:22:10.911884,0
+346,2017,Shelton-Cherry,2704.21,purchase,UK,approved,2026-05-24 13:22:10.912065,0
+347,1175,Oneal and Sons,4196.95,transfer,CA,declined,2026-05-24 13:22:10.912238,0
+348,4668,"Jensen, Butler and Smith",1584.05,purchase,CA,declined,2026-05-24 13:22:10.912475,1
+349,1324,"Hughes, Rodriguez and Ray",391.18,purchase,US,approved,2026-05-24 13:22:10.912712,0
+350,1593,Davenport and Sons,973.09,purchase,UK,approved,2026-05-24 13:22:10.912807,0
+351,4108,"Hall, Graham and Reilly",191.06,purchase,NG,approved,2026-05-24 13:22:10.913042,1
+352,2565,Gutierrez-Clarke,4281.85,withdrawal,US,declined,2026-05-24 13:22:10.913204,1
+353,3718,"Goodman, Long and Garrett",1070.66,transfer,NG,declined,2026-05-24 13:22:10.913438,0
+354,2179,"Carpenter, Baldwin and Hinton",1699.8,withdrawal,UK,approved,2026-05-24 13:22:10.913673,0
+355,3930,Smith and Sons,2053.47,transfer,US,declined,2026-05-24 13:22:10.913763,1
+356,4023,Mcknight LLC,3658.95,purchase,UK,approved,2026-05-24 13:22:10.913852,0
+357,3054,"Bryant, Christian and Thomas",476.33,transfer,NG,approved,2026-05-24 13:22:10.914086,0
+358,2821,Hernandez-Schroeder,912.41,purchase,UK,approved,2026-05-24 13:22:10.914245,0
+359,3115,"Anderson, Forbes and Coleman",4869.73,withdrawal,US,declined,2026-05-24 13:22:10.914477,0
+360,1468,Riggs-Gallagher,3514.48,withdrawal,UK,declined,2026-05-24 13:22:10.914639,0
+361,1826,Pena-Herman,2816.55,transfer,CA,approved,2026-05-24 13:22:10.914798,0
+362,2496,Brown Ltd,2569.44,transfer,UK,declined,2026-05-24 13:22:10.914888,0
+363,4368,"Frey, Gillespie and Merritt",1208.95,transfer,UK,declined,2026-05-24 13:22:10.915125,0
+364,3103,"Cruz, Myers and Patterson",4414.26,transfer,UK,approved,2026-05-24 13:22:10.915358,0
+365,4681,Gilbert-Moore,2867.15,purchase,NG,declined,2026-05-24 13:22:10.915518,0
+366,4495,Lee Ltd,4058.09,purchase,US,approved,2026-05-24 13:22:10.915608,1
+367,4257,Lee-Mccann,4642.27,transfer,CA,declined,2026-05-24 13:22:10.915766,1
+368,4323,"Perez, Delacruz and Rodgers",1978.04,withdrawal,CA,declined,2026-05-24 13:22:10.916032,0
+369,1859,Thompson Group,2314.77,transfer,UK,approved,2026-05-24 13:22:10.916122,1
+370,3893,Fisher Inc,989.36,purchase,CA,declined,2026-05-24 13:22:10.916211,0
+371,2300,Adams PLC,2614.87,transfer,NG,declined,2026-05-24 13:22:10.916301,1
+372,2959,Blake-Roberts,2787.34,transfer,US,approved,2026-05-24 13:22:10.916461,0
+373,4223,"James, Mason and Schmidt",2198.42,transfer,NG,declined,2026-05-24 13:22:10.916693,0
+374,1359,Johnston Group,1178.27,purchase,US,approved,2026-05-24 13:22:10.916783,0
+375,1115,"Edwards, Frye and Daniels",2637.05,purchase,CA,declined,2026-05-24 13:22:10.917015,0
+376,2922,"Wilson, Rosales and Cole",864.82,transfer,CA,approved,2026-05-24 13:22:10.917251,0
+377,2528,"Schroeder, Ruiz and Thomas",1431.36,transfer,NG,declined,2026-05-24 13:22:10.917520,0
+378,4855,"Smith, Anderson and Martin",1957.94,transfer,UK,approved,2026-05-24 13:22:10.917754,0
+379,2227,"Allen, Maynard and Kennedy",4453.45,purchase,NG,declined,2026-05-24 13:22:10.917988,0
+380,3075,Moses-Stanley,4058.46,purchase,CA,declined,2026-05-24 13:22:10.918148,0
+381,3977,"Waters, Proctor and Davis",1397.38,withdrawal,US,declined,2026-05-24 13:22:10.918403,0
+382,4432,Jackson-Mills,3463.79,withdrawal,NG,approved,2026-05-24 13:22:10.918571,0
+383,2802,Moore LLC,3931.43,withdrawal,CA,approved,2026-05-24 13:22:10.918663,0
+384,3601,Davis PLC,2079.38,purchase,UK,declined,2026-05-24 13:22:10.918755,1
+385,4910,Flores-Meza,534.14,transfer,CA,declined,2026-05-24 13:22:10.918918,0
+386,4187,"Bennett, Mathews and Evans",3273.55,withdrawal,UK,declined,2026-05-24 13:22:10.919160,0
+387,4944,"Douglas, Williams and Jones",284.35,withdrawal,UK,approved,2026-05-24 13:22:10.919400,1
+388,2362,"Jackson, Tucker and Rodriguez",4315.27,transfer,NG,declined,2026-05-24 13:22:10.919639,0
+389,4415,Thomas-Pearson,2425.0,withdrawal,NG,approved,2026-05-24 13:22:10.919803,0
+390,2923,"Richard, Shepherd and Salas",1679.24,transfer,NG,approved,2026-05-24 13:22:10.920044,1
+391,1085,Sloan Inc,4564.22,purchase,NG,declined,2026-05-24 13:22:10.920136,0
+392,1172,Jones PLC,70.99,withdrawal,US,declined,2026-05-24 13:22:10.920227,0
+393,2762,Anderson-Carter,832.76,transfer,NG,approved,2026-05-24 13:22:10.920391,0
+394,1891,Brewer-Sanchez,3637.65,transfer,CA,approved,2026-05-24 13:22:10.920555,0
+395,3453,Hoffman-Evans,1936.72,transfer,UK,approved,2026-05-24 13:22:10.920718,0
+396,4258,"Williams, Taylor and Barnes",2336.61,withdrawal,CA,approved,2026-05-24 13:22:10.920957,0
+397,4801,Castillo Ltd,3262.88,purchase,NG,declined,2026-05-24 13:22:10.921048,0
+398,4496,Gross-Hicks,287.88,transfer,NG,approved,2026-05-24 13:22:10.921215,0
+399,3341,Cooper-Griffin,273.81,transfer,CA,declined,2026-05-24 13:22:10.921380,0
+400,1518,Mitchell-Rodriguez,4068.52,transfer,UK,approved,2026-05-24 13:22:10.921545,0
+401,4314,Armstrong LLC,2058.43,purchase,CA,declined,2026-05-24 13:22:10.921638,0
+402,4600,David LLC,1563.06,transfer,NG,declined,2026-05-24 13:22:10.921734,1
+403,1372,Lopez-Clark,2197.96,withdrawal,UK,declined,2026-05-24 13:22:10.921897,0
+404,4245,"Preston, Hurst and Bennett",1045.05,withdrawal,US,declined,2026-05-24 13:22:10.922137,0
+405,2493,"Vasquez, Neal and Singleton",2093.95,withdrawal,US,declined,2026-05-24 13:22:10.922378,0
+406,2195,Smith LLC,1202.3,transfer,US,declined,2026-05-24 13:22:10.922524,1
+407,4185,"Smith, Palmer and Baker",4800.41,purchase,UK,declined,2026-05-24 13:22:10.922773,0
+408,4844,Adams PLC,2668.67,transfer,NG,approved,2026-05-24 13:22:10.922869,0
+409,3586,Brown-Palmer,1305.77,purchase,UK,declined,2026-05-24 13:22:10.923038,0
+410,3212,"Nelson, Davidson and Smith",2236.86,transfer,NG,approved,2026-05-24 13:22:10.923277,0
+411,2398,Rodriguez PLC,4292.9,purchase,US,approved,2026-05-24 13:22:10.923369,0
+412,4801,"Crawford, Wiley and Davis",4363.81,purchase,CA,declined,2026-05-24 13:22:10.923611,0
+413,2399,"Armstrong, Stokes and Carter",2349.67,withdrawal,UK,declined,2026-05-24 13:22:10.923859,0
+414,2497,"Ellis, Cook and Meyer",1094.67,transfer,US,declined,2026-05-24 13:22:10.924096,0
+415,3356,Robinson PLC,3960.46,purchase,NG,declined,2026-05-24 13:22:10.924188,1
+416,4621,Parker-Ortiz,1917.31,transfer,US,approved,2026-05-24 13:22:10.924349,0
+417,1164,Mendez Inc,2786.39,withdrawal,US,declined,2026-05-24 13:22:10.924441,0
+418,2066,Parker and Sons,2672.39,transfer,NG,declined,2026-05-24 13:22:10.924541,0
+419,1414,"Leach, Williams and Garrett",2364.78,transfer,US,declined,2026-05-24 13:22:10.924821,1
+420,3326,"Jones, Clark and Lee",802.16,transfer,NG,approved,2026-05-24 13:22:10.925061,0
+421,2376,"Murphy, Levy and Carlson",3846.56,transfer,UK,approved,2026-05-24 13:22:10.925304,0
+422,2983,"Johnson, Thompson and Harvey",2377.92,purchase,UK,declined,2026-05-24 13:22:10.925542,0
+423,3975,Fleming-Avery,1858.04,transfer,UK,approved,2026-05-24 13:22:10.925706,1
+424,4469,Hammond PLC,3276.04,withdrawal,CA,declined,2026-05-24 13:22:10.925797,0
+425,4219,"Salinas, Holloway and Miller",1680.7,withdrawal,US,approved,2026-05-24 13:22:10.926033,0
+426,1517,"Harris, Austin and Chaney",1887.23,purchase,US,declined,2026-05-24 13:22:10.926268,0
+427,2521,"Rodriguez, Bailey and Cruz",797.7,purchase,CA,declined,2026-05-24 13:22:10.926504,0
+428,1662,Gomez-Compton,1243.44,purchase,CA,declined,2026-05-24 13:22:10.926665,0
+429,2785,Navarro PLC,718.03,purchase,US,declined,2026-05-24 13:22:10.926756,0
+430,1570,Hughes-Hawkins,4113.77,transfer,NG,declined,2026-05-24 13:22:10.926917,0
+431,3470,Evans Inc,4009.71,purchase,CA,approved,2026-05-24 13:22:10.927008,0
+432,4528,"Smith, Thompson and Riley",439.51,transfer,NG,declined,2026-05-24 13:22:10.927247,0
+433,2142,Carlson-Solomon,4970.39,withdrawal,CA,declined,2026-05-24 13:22:10.927462,0
+434,2093,Richardson-Phillips,1011.13,purchase,CA,approved,2026-05-24 13:22:10.927645,1
+435,2950,"Wilson, Oliver and Sanchez",877.2,transfer,UK,declined,2026-05-24 13:22:10.927890,1
+436,3153,Ponce-Dixon,3668.97,purchase,NG,declined,2026-05-24 13:22:10.928058,0
+437,3609,Newman LLC,2168.14,transfer,CA,declined,2026-05-24 13:22:10.928152,0
+438,2881,Robinson-Stafford,1088.42,transfer,US,declined,2026-05-24 13:22:10.928318,0
+439,4342,"Sanders, Brown and Rodriguez",3729.72,transfer,US,approved,2026-05-24 13:22:10.928558,1
+440,4154,"Lowery, Nichols and Johnson",3292.96,withdrawal,CA,approved,2026-05-24 13:22:10.928804,0
+441,1962,Hale Group,2062.08,purchase,US,declined,2026-05-24 13:22:10.928907,0
+442,3997,Long-Edwards,2046.86,withdrawal,UK,approved,2026-05-24 13:22:10.929072,1
+443,3836,Davis-Case,2151.39,transfer,NG,approved,2026-05-24 13:22:10.929237,0
+444,1373,Bush-Washington,2738.2,withdrawal,NG,approved,2026-05-24 13:22:10.929403,0
+445,1409,Solis and Sons,2737.53,transfer,NG,approved,2026-05-24 13:22:10.929495,0
+446,3434,"Long, Collins and Donovan",529.5,purchase,NG,approved,2026-05-24 13:22:10.929734,0
+447,2118,"Bowers, Mclean and Smith",1875.61,transfer,UK,approved,2026-05-24 13:22:10.929973,0
+448,3090,Martinez and Sons,2200.67,purchase,UK,approved,2026-05-24 13:22:10.930065,0
+449,2890,Johnson and Sons,2929.01,withdrawal,CA,declined,2026-05-24 13:22:10.930158,0
+450,2148,Johnson-Garrett,3803.91,withdrawal,UK,approved,2026-05-24 13:22:10.930328,1
+451,4713,"Pierce, Gray and Wise",629.71,purchase,US,declined,2026-05-24 13:22:10.930567,0
+452,2683,Johnson Inc,4744.5,transfer,NG,declined,2026-05-24 13:22:10.930660,1
+453,2868,Robinson-Taylor,346.62,transfer,UK,approved,2026-05-24 13:22:10.930824,1
+454,1882,Morrison and Sons,2806.45,transfer,US,declined,2026-05-24 13:22:10.930922,0
+455,4801,"Johnson, Perez and Williams",840.01,withdrawal,NG,approved,2026-05-24 13:22:10.931177,1
+456,3679,Gill-Lopez,3167.35,withdrawal,UK,approved,2026-05-24 13:22:10.931352,1
+457,1437,"Lewis, Robertson and Whitaker",1358.16,purchase,NG,approved,2026-05-24 13:22:10.931605,0
+458,3945,"Fernandez, Mendez and Crane",1749.73,transfer,CA,approved,2026-05-24 13:22:10.931859,1
+459,2067,Little LLC,3383.27,transfer,US,approved,2026-05-24 13:22:10.931958,0
+460,3298,"Bell, Fuentes and Williams",704.27,transfer,UK,approved,2026-05-24 13:22:10.932206,0
+461,4839,"Wood, Buchanan and Ayers",2112.31,withdrawal,US,declined,2026-05-24 13:22:10.932491,1
+462,3152,"Esparza, Ayers and Kelley",1792.48,purchase,UK,approved,2026-05-24 13:22:10.932760,0
+463,1651,Poole-Hunt,4829.82,purchase,UK,approved,2026-05-24 13:22:10.932929,0
+464,4211,"Bauer, Douglas and Santiago",3928.53,purchase,US,approved,2026-05-24 13:22:10.933169,1
+465,3754,"Koch, Morgan and Moore",814.38,transfer,US,declined,2026-05-24 13:22:10.933412,0
+466,2246,Powell Inc,1814.89,transfer,US,approved,2026-05-24 13:22:10.933506,0
+467,4292,Johnson and Sons,1814.17,transfer,US,declined,2026-05-24 13:22:10.933599,0
+468,1193,Giles-Hester,4418.94,purchase,US,declined,2026-05-24 13:22:10.933765,0
+469,3620,Hicks-Roth,4575.94,transfer,UK,approved,2026-05-24 13:22:10.933928,0
+470,3757,Barnes PLC,2846.77,purchase,US,declined,2026-05-24 13:22:10.934026,0
+471,4091,"Campbell, Rice and Ibarra",4732.2,withdrawal,NG,declined,2026-05-24 13:22:10.934263,0
+472,1593,Ramos-Rogers,2216.21,purchase,NG,declined,2026-05-24 13:22:10.934426,0
+473,1402,Mitchell-Kelly,1471.56,withdrawal,UK,declined,2026-05-24 13:22:10.934589,1
+474,2625,"Jones, Hull and Roach",1398.5,transfer,CA,declined,2026-05-24 13:22:10.934826,0
+475,1938,Esparza-Walker,2174.89,withdrawal,US,approved,2026-05-24 13:22:10.934989,0
+476,3442,Sullivan Inc,2006.3,purchase,CA,approved,2026-05-24 13:22:10.935081,0
+477,3191,Hartman-Rodriguez,261.94,transfer,UK,approved,2026-05-24 13:22:10.935241,0
+478,3253,"Martinez, Kennedy and Mendoza",1253.34,transfer,US,declined,2026-05-24 13:22:10.935477,1
+479,3107,Lawrence-Lane,629.21,purchase,CA,approved,2026-05-24 13:22:10.935640,0
+480,4038,Brown PLC,3715.1,transfer,UK,declined,2026-05-24 13:22:10.935735,0
+481,1942,Floyd-Elliott,4359.28,purchase,UK,approved,2026-05-24 13:22:10.935897,0
+482,1173,"Johnson, Clark and Moore",455.68,transfer,CA,approved,2026-05-24 13:22:10.936133,0
+483,3812,Dawson Group,4686.53,transfer,US,declined,2026-05-24 13:22:10.936226,0
+484,2229,Liu-Parker,2254.56,transfer,CA,declined,2026-05-24 13:22:10.936388,0
+485,4880,Smith LLC,602.75,transfer,US,approved,2026-05-24 13:22:10.936484,0
+486,1535,Barnes-Fitzgerald,4927.2,withdrawal,NG,approved,2026-05-24 13:22:10.936646,0
+487,3965,Richards-Romero,2865.6,transfer,CA,declined,2026-05-24 13:22:10.936809,1
+488,4914,Roberts-Williams,1397.37,purchase,CA,declined,2026-05-24 13:22:10.936972,0
+489,4298,"Weber, Franco and Alvarez",1621.84,purchase,CA,declined,2026-05-24 13:22:10.937208,1
+490,3719,"Taylor, Walker and Castillo",2922.09,transfer,CA,declined,2026-05-24 13:22:10.937444,1
+491,4438,"Meadows, Hoover and Thompson",360.68,withdrawal,NG,declined,2026-05-24 13:22:10.937682,0
+492,4003,Elliott Group,1841.84,withdrawal,CA,approved,2026-05-24 13:22:10.937773,0
+493,4580,"Smith, Fuller and Collins",3022.32,transfer,NG,approved,2026-05-24 13:22:10.938009,1
+494,4313,Richards and Sons,1570.56,withdrawal,US,approved,2026-05-24 13:22:10.938102,1
+495,1678,Hughes Group,3100.36,purchase,CA,approved,2026-05-24 13:22:10.938193,0
+496,2307,Landry PLC,3053.55,withdrawal,US,approved,2026-05-24 13:22:10.938282,0
+497,2202,Graham-Cooley,3043.18,transfer,CA,approved,2026-05-24 13:22:10.938491,0
+498,3507,Goodwin-Smith,4233.34,purchase,CA,declined,2026-05-24 13:22:10.938725,0
+499,2529,"Wilson, Dennis and Perez",2136.41,purchase,NG,declined,2026-05-24 13:22:10.939007,0
+500,2537,Brady PLC,4972.66,withdrawal,NG,declined,2026-05-24 13:22:10.939109,0
+501,1361,Alvarez PLC,591.42,transfer,UK,approved,2026-05-24 13:22:10.939200,1
+502,4784,"Turner, Lozano and Delgado",4238.21,purchase,US,declined,2026-05-24 13:22:10.939433,1
+503,2543,Gardner Inc,4114.83,purchase,NG,approved,2026-05-24 13:22:10.939526,0
+504,4500,"Martinez, Lewis and Freeman",556.93,purchase,NG,approved,2026-05-24 13:22:10.939759,0
+505,4280,Beck-Johnson,4244.3,transfer,US,declined,2026-05-24 13:22:10.939951,0
+506,3436,Gonzalez-Carney,2317.37,transfer,US,declined,2026-05-24 13:22:10.940110,1
+507,3001,Edwards PLC,449.4,purchase,US,declined,2026-05-24 13:22:10.940199,0
+508,4760,Parks-Molina,4196.13,purchase,UK,declined,2026-05-24 13:22:10.940357,0
+509,3638,"King, Branch and Ware",2991.7,withdrawal,US,declined,2026-05-24 13:22:10.940589,0
+510,2154,Jackson-Moore,447.9,withdrawal,UK,approved,2026-05-24 13:22:10.940747,0
+511,4708,Robertson and Sons,1793.16,transfer,NG,declined,2026-05-24 13:22:10.940838,0
+512,3543,"Gray, Hughes and Bailey",2804.05,withdrawal,NG,approved,2026-05-24 13:22:10.941069,0
+513,1739,Butler Inc,2860.38,transfer,US,approved,2026-05-24 13:22:10.941193,1
+514,4583,Hamilton-Jacobs,3375.2,withdrawal,US,approved,2026-05-24 13:22:10.941351,0
+515,4449,Davis-Martinez,4939.01,transfer,CA,declined,2026-05-24 13:22:10.941509,0
+516,3935,Hickman Inc,4628.35,transfer,CA,declined,2026-05-24 13:22:10.941597,0
+517,4017,Hendricks Group,4357.57,purchase,UK,declined,2026-05-24 13:22:10.941685,1
+518,4194,Smith-Smith,320.87,withdrawal,UK,declined,2026-05-24 13:22:10.941842,0
+519,1804,Johnson Ltd,4928.27,transfer,CA,declined,2026-05-24 13:22:10.941934,0
+520,4244,Harris LLC,353.25,purchase,NG,declined,2026-05-24 13:22:10.942023,1
+521,3118,"Miller, Washington and Collins",2590.84,withdrawal,NG,declined,2026-05-24 13:22:10.942279,0
+522,3274,Morrison-Santos,3900.47,transfer,UK,approved,2026-05-24 13:22:10.942457,0
+523,3040,Williams Inc,4720.8,withdrawal,US,declined,2026-05-24 13:22:10.942547,0
+524,4116,Dickerson-Frazier,401.67,withdrawal,US,declined,2026-05-24 13:22:10.942706,0
+525,3525,"Henderson, Roberson and Evans",3363.85,transfer,CA,approved,2026-05-24 13:22:10.942971,1
+526,2677,Graham-Tyler,3002.5,purchase,UK,declined,2026-05-24 13:22:10.943191,0
+527,3540,Buchanan-Cook,2293.85,purchase,UK,approved,2026-05-24 13:22:10.943506,0
+528,1686,King Inc,1341.6,withdrawal,UK,declined,2026-05-24 13:22:10.943683,0
+529,3795,Jones and Sons,1883.97,transfer,CA,approved,2026-05-24 13:22:10.943778,0
+530,4632,Gibson LLC,3470.44,withdrawal,CA,approved,2026-05-24 13:22:10.943868,1
+531,2223,Edwards LLC,4503.61,purchase,UK,approved,2026-05-24 13:22:10.943957,0
+532,3404,"Crosby, Baker and Reynolds",3621.45,withdrawal,US,approved,2026-05-24 13:22:10.944187,1
+533,2869,Anderson-Burke,4099.16,purchase,US,approved,2026-05-24 13:22:10.944345,0
+534,4400,"Gates, Martinez and Stewart",366.48,withdrawal,NG,declined,2026-05-24 13:22:10.944644,0
+535,1638,Brown-White,3388.2,transfer,UK,approved,2026-05-24 13:22:10.944824,0
+536,3557,"Padilla, Lane and Howard",4917.25,purchase,NG,approved,2026-05-24 13:22:10.945063,0
+537,3577,Jones Inc,683.21,purchase,NG,approved,2026-05-24 13:22:10.945174,1
+538,2400,Smith-Fitzgerald,3354.74,withdrawal,CA,declined,2026-05-24 13:22:10.945362,1
+539,4770,Freeman-Williams,343.94,transfer,US,approved,2026-05-24 13:22:10.945521,0
+540,1007,Smith-Mcdonald,2195.05,withdrawal,NG,declined,2026-05-24 13:22:10.945733,1
+541,1891,"Rogers, Jordan and Williams",1972.71,transfer,NG,approved,2026-05-24 13:22:10.945979,0
+542,2043,Webb Ltd,3499.29,purchase,UK,approved,2026-05-24 13:22:10.946070,0
+543,4721,"Moreno, Garcia and Hanson",4459.52,transfer,US,approved,2026-05-24 13:22:10.946308,0
+544,2130,Powell Group,2301.43,purchase,UK,approved,2026-05-24 13:22:10.946465,0
+545,4468,"Thomas, Glass and Gibson",4093.28,withdrawal,NG,approved,2026-05-24 13:22:10.946696,0
+546,2944,Schmidt-Wall,4367.96,purchase,NG,approved,2026-05-24 13:22:10.946855,0
+547,1883,Johnson-Myers,1289.0,transfer,UK,approved,2026-05-24 13:22:10.947018,0
+548,4221,"Vega, Turner and Baker",2985.07,withdrawal,UK,declined,2026-05-24 13:22:10.947250,0
+549,4476,"Mills, Stein and Baker",2170.27,transfer,UK,approved,2026-05-24 13:22:10.947482,1
+550,4482,Warren-Atkinson,1850.8,withdrawal,US,approved,2026-05-24 13:22:10.947641,0
+551,4808,"Barnes, Harmon and Stewart",486.06,purchase,UK,declined,2026-05-24 13:22:10.947872,0
+552,2436,Hoffman Ltd,1524.37,transfer,CA,declined,2026-05-24 13:22:10.947962,1
+553,2554,Todd-Travis,1238.56,purchase,UK,approved,2026-05-24 13:22:10.948120,1
+554,1156,"Andrews, Sullivan and Bradley",442.43,withdrawal,CA,declined,2026-05-24 13:22:10.948374,0
+555,4364,Matthews PLC,1964.61,transfer,CA,approved,2026-05-24 13:22:10.948467,0
+556,3466,"Walker, Taylor and Wagner",3396.2,withdrawal,US,declined,2026-05-24 13:22:10.948705,1
+557,2664,Martin Inc,2888.44,transfer,US,declined,2026-05-24 13:22:10.948800,0
+558,1531,Smith Ltd,367.99,transfer,NG,approved,2026-05-24 13:22:10.948894,1
+559,2095,Anderson-Shepherd,2963.74,withdrawal,UK,approved,2026-05-24 13:22:10.949056,1
+560,2153,Olson PLC,2728.84,purchase,US,declined,2026-05-24 13:22:10.949149,0
+561,3677,"Bradley, Coleman and Wilson",558.94,purchase,US,approved,2026-05-24 13:22:10.949391,1
+562,1321,Marks-Daniel,1605.11,withdrawal,CA,approved,2026-05-24 13:22:10.949559,1
+563,3245,Evans PLC,2281.29,purchase,CA,declined,2026-05-24 13:22:10.949651,0
+564,2356,Ferrell Group,3664.46,withdrawal,UK,declined,2026-05-24 13:22:10.949742,0
+565,1770,Lopez PLC,2982.58,transfer,US,declined,2026-05-24 13:22:10.949833,0
+566,1924,Coleman Ltd,625.97,purchase,US,approved,2026-05-24 13:22:10.949924,0
+567,2259,"Davis, Cooper and Chavez",2854.44,purchase,UK,approved,2026-05-24 13:22:10.950159,1
+568,1688,Young-Bishop,3256.16,transfer,NG,declined,2026-05-24 13:22:10.950322,0
+569,3403,Wilson-Townsend,4033.47,transfer,CA,approved,2026-05-24 13:22:10.950485,0
+570,4713,Peterson-Burke,2934.3,purchase,CA,approved,2026-05-24 13:22:10.950647,1
+571,1071,Williams-Hughes,2119.47,transfer,NG,declined,2026-05-24 13:22:10.950809,0
+572,3265,Jones-Garcia,1336.93,withdrawal,US,approved,2026-05-24 13:22:10.950976,0
+573,4942,Garcia Inc,620.42,purchase,NG,declined,2026-05-24 13:22:10.951066,1
+574,2751,Jones-Burns,3287.82,purchase,UK,declined,2026-05-24 13:22:10.951229,0
+575,3943,"Butler, Chase and Smith",3636.38,transfer,CA,approved,2026-05-24 13:22:10.951465,0
+576,1908,"Hahn, Arroyo and Nichols",2102.74,purchase,NG,approved,2026-05-24 13:22:10.951702,0
+577,2539,Hodge-Zamora,2458.0,purchase,CA,approved,2026-05-24 13:22:10.951868,1
+578,3374,Harvey Ltd,3205.32,purchase,US,declined,2026-05-24 13:22:10.951959,1
+579,2819,Foster-Frank,1773.47,transfer,CA,approved,2026-05-24 13:22:10.952123,0
+580,3885,Buckley PLC,1737.7,transfer,US,declined,2026-05-24 13:22:10.952215,0
+581,1847,Walker-Brown,2642.85,transfer,NG,approved,2026-05-24 13:22:10.952379,1
+582,2770,Collins-Evans,2259.67,withdrawal,NG,declined,2026-05-24 13:22:10.952543,0
+583,3504,"Ward, Santiago and Kirk",930.37,purchase,CA,declined,2026-05-24 13:22:10.952781,1
+584,1274,Moore and Sons,4431.1,withdrawal,UK,declined,2026-05-24 13:22:10.952872,0
+585,1887,Smith Ltd,3587.0,withdrawal,NG,declined,2026-05-24 13:22:10.952963,0
+586,2622,Davidson-Coffey,781.04,transfer,CA,approved,2026-05-24 13:22:10.953125,1
+587,1542,Ray-Rodriguez,2789.68,purchase,NG,approved,2026-05-24 13:22:10.953291,0
+588,2725,Hughes PLC,3909.07,withdrawal,US,approved,2026-05-24 13:22:10.953383,0
+589,2898,Thomas Ltd,1397.55,withdrawal,NG,declined,2026-05-24 13:22:10.953473,0
+590,3879,"Bowman, Wright and Drake",1758.88,purchase,UK,declined,2026-05-24 13:22:10.953710,1
+591,2371,Collins-Perez,513.06,transfer,UK,declined,2026-05-24 13:22:10.953877,0
+592,4227,May Inc,3757.52,transfer,NG,approved,2026-05-24 13:22:10.953968,0
+593,2929,Gomez and Sons,866.72,transfer,NG,declined,2026-05-24 13:22:10.954059,0
+594,1006,Byrd Ltd,208.11,purchase,UK,declined,2026-05-24 13:22:10.954150,0
+595,4883,Miller-Swanson,1998.89,transfer,US,declined,2026-05-24 13:22:10.954311,1
+596,2266,Anthony Inc,3015.18,purchase,US,declined,2026-05-24 13:22:10.954402,1
+597,4482,"Marquez, Rodriguez and Carter",175.16,transfer,US,approved,2026-05-24 13:22:10.954692,0
+598,4596,"Jackson, Cox and Stephens",2115.84,withdrawal,UK,declined,2026-05-24 13:22:10.954942,0
+599,4024,"Brandt, Smith and Hawkins",1029.34,purchase,US,approved,2026-05-24 13:22:10.955180,0
+600,4398,"Hodges, Lawrence and Mata",3877.66,transfer,UK,declined,2026-05-24 13:22:10.955415,0
+601,4561,Parker and Sons,270.69,withdrawal,US,approved,2026-05-24 13:22:10.955506,1
+602,4315,Randall-Li,657.15,withdrawal,NG,declined,2026-05-24 13:22:10.955666,1
+603,2819,"Ramirez, Mejia and Friedman",3303.76,transfer,CA,declined,2026-05-24 13:22:10.955900,0
+604,2098,White Inc,574.05,withdrawal,NG,declined,2026-05-24 13:22:10.955991,1
+605,2409,"Baldwin, Boyle and Humphrey",3787.64,withdrawal,CA,declined,2026-05-24 13:22:10.956223,0
+606,1192,Parsons-Harris,213.22,purchase,US,approved,2026-05-24 13:22:10.956383,0
+607,3805,Gomez-Smith,3021.96,withdrawal,US,declined,2026-05-24 13:22:10.956543,0
+608,3971,Gardner-Pope,2383.25,withdrawal,NG,approved,2026-05-24 13:22:10.956703,0
+609,3408,Conway-Jones,1428.9,withdrawal,US,declined,2026-05-24 13:22:10.956862,0
+610,4508,"Wright, Lucas and Johnson",13.84,purchase,US,declined,2026-05-24 13:22:10.957094,0
+611,1916,"Hunt, Cunningham and Mccall",2761.88,purchase,CA,declined,2026-05-24 13:22:10.957327,1
+612,4868,Decker Group,941.0,purchase,NG,approved,2026-05-24 13:22:10.957416,1
+613,1819,Lyons-Brown,1852.99,withdrawal,NG,declined,2026-05-24 13:22:10.957574,0
+614,4733,Velasquez LLC,2807.57,transfer,US,declined,2026-05-24 13:22:10.957664,0
+615,4480,"Wolf, Taylor and Wilson",1838.18,purchase,UK,approved,2026-05-24 13:22:10.957971,0
+616,1182,Castro-Lee,3875.16,withdrawal,UK,approved,2026-05-24 13:22:10.958148,0
+617,3666,Wright Group,4304.95,withdrawal,NG,approved,2026-05-24 13:22:10.958239,0
+618,1727,"Hicks, Duncan and Petty",2537.22,transfer,NG,approved,2026-05-24 13:22:10.958473,0
+619,4356,"White, Fowler and Lynch",3661.78,purchase,CA,declined,2026-05-24 13:22:10.958706,0
+620,3872,"Rodriguez, Snyder and Flores",2001.67,transfer,NG,declined,2026-05-24 13:22:10.958940,0
+621,4582,Collins-Scott,3784.39,withdrawal,NG,approved,2026-05-24 13:22:10.959100,0
+622,2340,"Cook, Fuller and Hawkins",1912.74,purchase,UK,approved,2026-05-24 13:22:10.959332,0
+623,2268,Reynolds-Alexander,300.91,transfer,US,approved,2026-05-24 13:22:10.959491,0
+624,4642,Leonard-King,2237.67,transfer,NG,declined,2026-05-24 13:22:10.959654,0
+625,2313,"Lawson, Hill and Arroyo",2060.31,transfer,UK,approved,2026-05-24 13:22:10.959977,1
+626,2188,Marquez-Wolfe,4713.5,purchase,NG,approved,2026-05-24 13:22:10.960159,0
+627,1929,Cardenas-Little,1405.56,transfer,NG,approved,2026-05-24 13:22:10.960329,0
+628,4584,Mendez-Johnson,1870.53,transfer,US,declined,2026-05-24 13:22:10.960494,1
+629,1051,"Horne, Chapman and Turner",3561.63,purchase,CA,approved,2026-05-24 13:22:10.960734,1
+630,1282,Mcgrath Inc,4774.42,purchase,NG,declined,2026-05-24 13:22:10.960828,1
+631,3722,Bond PLC,1224.27,purchase,NG,declined,2026-05-24 13:22:10.960919,1
+632,3966,Brooks-Rollins,1815.64,withdrawal,NG,declined,2026-05-24 13:22:10.961081,0
+633,1008,Perez Group,4918.58,withdrawal,UK,declined,2026-05-24 13:22:10.961173,0
+634,4674,Johnson PLC,2805.1,withdrawal,NG,approved,2026-05-24 13:22:10.961264,0
+635,2677,Mccall-Mathis,2637.79,purchase,NG,approved,2026-05-24 13:22:10.961426,1
+636,1970,Mann-Scott,2739.13,transfer,CA,declined,2026-05-24 13:22:10.961597,1
+637,3944,"Pena, Malone and Lee",884.22,withdrawal,CA,declined,2026-05-24 13:22:10.961840,0
+638,4484,Mcdaniel-Middleton,3228.24,transfer,US,declined,2026-05-24 13:22:10.962005,0
+639,2746,Walsh and Sons,2870.65,purchase,US,declined,2026-05-24 13:22:10.962097,0
+640,4320,"Charles, Taylor and Rodriguez",3767.0,transfer,CA,approved,2026-05-24 13:22:10.962337,0
+641,1463,Silva Inc,4164.34,withdrawal,NG,declined,2026-05-24 13:22:10.962430,0
+642,1663,Maxwell-Navarro,2718.65,withdrawal,NG,declined,2026-05-24 13:22:10.962594,0
+643,2597,"Schultz, Hudson and Brooks",4299.96,withdrawal,US,declined,2026-05-24 13:22:10.962832,1
+644,4881,Scott-Robinson,4359.1,withdrawal,US,approved,2026-05-24 13:22:10.962994,0
+645,3020,"Davis, Perry and Joseph",4089.28,purchase,UK,declined,2026-05-24 13:22:10.963233,0
+646,1843,"Taylor, Walker and Johnson",1658.8,transfer,CA,declined,2026-05-24 13:22:10.963472,0
+647,2522,"Grant, Singh and Martinez",132.06,purchase,NG,approved,2026-05-24 13:22:10.963709,0
+648,2290,Zimmerman-Franklin,455.82,withdrawal,CA,approved,2026-05-24 13:22:10.963872,0
+649,1711,"Hall, Edwards and Rivera",4233.06,transfer,US,approved,2026-05-24 13:22:10.964110,1
+650,4473,Bryan-Sanchez,872.73,purchase,NG,approved,2026-05-24 13:22:10.964272,0
+651,1005,Green-Gonzalez,4353.31,purchase,US,declined,2026-05-24 13:22:10.964461,1
+652,3751,Barnes-Parker,2875.85,withdrawal,CA,approved,2026-05-24 13:22:10.964664,0
+653,4707,Bridges-Christian,1562.16,purchase,UK,approved,2026-05-24 13:22:10.964832,1
+654,1326,"Armstrong, Camacho and Braun",811.38,purchase,NG,declined,2026-05-24 13:22:10.965071,1
+655,4721,Walker Inc,3725.98,purchase,CA,approved,2026-05-24 13:22:10.965167,0
+656,3462,Contreras Group,744.08,withdrawal,US,declined,2026-05-24 13:22:10.965259,0
+657,2658,"Roberts, Rodriguez and Wilkerson",1235.3,transfer,CA,approved,2026-05-24 13:22:10.965495,1
+658,1192,"Ramos, Davis and Atkins",4051.42,transfer,US,approved,2026-05-24 13:22:10.965730,0
+659,4564,Jordan-Howell,183.78,purchase,UK,declined,2026-05-24 13:22:10.965892,0
+660,2523,Gonzalez Inc,4930.87,withdrawal,CA,approved,2026-05-24 13:22:10.965984,0
+661,3404,Rogers Group,205.05,purchase,US,declined,2026-05-24 13:22:10.966073,0
+662,2326,Freeman-Morgan,2337.19,withdrawal,NG,declined,2026-05-24 13:22:10.966233,0
+663,3640,Ramirez LLC,2342.54,withdrawal,UK,declined,2026-05-24 13:22:10.966324,0
+664,2069,Nunez-Lee,2333.91,withdrawal,NG,approved,2026-05-24 13:22:10.966484,0
+665,1097,Juarez Ltd,2920.94,withdrawal,CA,approved,2026-05-24 13:22:10.966574,0
+666,2765,Strickland PLC,537.85,purchase,US,approved,2026-05-24 13:22:10.966663,0
+667,1378,Patel-Joseph,3690.44,withdrawal,US,declined,2026-05-24 13:22:10.966833,0
+668,1246,"Silva, Johnson and Morrison",1014.22,transfer,CA,declined,2026-05-24 13:22:10.967068,0
+669,1832,"Farmer, Manning and Rodriguez",3750.16,transfer,UK,declined,2026-05-24 13:22:10.967302,0
+670,1998,"Jones, Moss and Brown",871.75,withdrawal,CA,declined,2026-05-24 13:22:10.967536,1
+671,4755,Mendez-Pennington,2181.94,transfer,CA,approved,2026-05-24 13:22:10.967698,0
+672,4944,Rodriguez-Gill,2826.83,transfer,NG,approved,2026-05-24 13:22:10.967858,0
+673,3917,"Krause, White and Brown",4097.17,purchase,NG,declined,2026-05-24 13:22:10.968091,0
+674,4928,"Nelson, Glenn and Hodge",4445.35,transfer,CA,declined,2026-05-24 13:22:10.968325,0
+675,4056,Osborn LLC,1020.3,purchase,US,declined,2026-05-24 13:22:10.968419,0
+676,1970,Nguyen Group,1111.52,purchase,NG,approved,2026-05-24 13:22:10.968508,1
+677,1388,"Mcdonald, Bonilla and Jones",2420.93,withdrawal,US,approved,2026-05-24 13:22:10.968741,0
+678,2864,Griffith-Martin,4655.06,purchase,CA,declined,2026-05-24 13:22:10.968902,1
+679,1035,Li-Vargas,2822.32,purchase,UK,declined,2026-05-24 13:22:10.969065,0
+680,2500,Le-Harper,4508.38,purchase,UK,approved,2026-05-24 13:22:10.969225,0
+681,4159,"Turner, Oconnor and Paul",2889.99,transfer,NG,approved,2026-05-24 13:22:10.969459,0
+682,2516,Moore-Garcia,4709.61,withdrawal,CA,approved,2026-05-24 13:22:10.969618,0
+683,3194,Hernandez LLC,2534.08,transfer,US,approved,2026-05-24 13:22:10.969709,0
+684,2670,Estes Inc,2224.98,transfer,US,declined,2026-05-24 13:22:10.969798,0
+685,1425,"Logan, Cohen and Long",2005.15,withdrawal,NG,approved,2026-05-24 13:22:10.970032,0
+686,2690,Bowman-Barajas,1121.05,transfer,UK,approved,2026-05-24 13:22:10.970192,0
+687,4531,Johnson and Sons,3922.83,transfer,NG,declined,2026-05-24 13:22:10.970289,0
+688,1610,Figueroa and Sons,3394.22,transfer,CA,declined,2026-05-24 13:22:10.970379,0
+689,2454,Webb and Sons,4407.79,purchase,UK,declined,2026-05-24 13:22:10.970469,1
+690,3454,"Stevenson, Brown and Smith",2180.43,withdrawal,US,declined,2026-05-24 13:22:10.970757,0
+691,3649,"Stewart, Harris and Best",79.6,transfer,NG,approved,2026-05-24 13:22:10.971016,0
+692,2380,"Johnson, Roach and Allen",3625.43,withdrawal,US,approved,2026-05-24 13:22:10.971262,0
+693,2809,"Lane, Daniels and Jordan",2983.14,purchase,US,approved,2026-05-24 13:22:10.971505,0
+694,2559,Gutierrez Inc,476.73,withdrawal,NG,declined,2026-05-24 13:22:10.971606,1
+695,3656,Frey LLC,416.51,withdrawal,UK,approved,2026-05-24 13:22:10.971700,0
+696,3336,Kelly-Ellis,351.9,transfer,CA,approved,2026-05-24 13:22:10.971869,0
+697,2414,Barr-Davidson,4433.35,withdrawal,NG,declined,2026-05-24 13:22:10.972036,0
+698,4199,Herrera-Elliott,127.61,transfer,CA,approved,2026-05-24 13:22:10.972201,0
+699,2337,"Johnson, Frye and Collier",1529.63,transfer,NG,approved,2026-05-24 13:22:10.972443,1
+700,2525,Jenkins Ltd,4811.07,withdrawal,NG,approved,2026-05-24 13:22:10.972535,0
+701,3001,Berry-Sanchez,4079.39,purchase,NG,declined,2026-05-24 13:22:10.972700,0
+702,3363,Baird Ltd,2422.39,transfer,CA,declined,2026-05-24 13:22:10.972793,0
+703,3900,"Richardson, Simpson and Reilly",1639.83,purchase,NG,approved,2026-05-24 13:22:10.973033,0
+704,3935,"Hernandez, Webb and West",327.14,transfer,CA,declined,2026-05-24 13:22:10.973273,0
+705,3359,"Warner, Peters and Green",2642.01,withdrawal,NG,declined,2026-05-24 13:22:10.973513,1
+706,4781,Moss Inc,4191.62,purchase,CA,declined,2026-05-24 13:22:10.973606,1
+707,1180,"Price, Higgins and Mccann",3952.52,withdrawal,UK,approved,2026-05-24 13:22:10.973845,0
+708,3130,Anderson PLC,3451.25,purchase,UK,approved,2026-05-24 13:22:10.973942,0
+709,2298,Manning Ltd,241.02,withdrawal,NG,approved,2026-05-24 13:22:10.974039,0
+710,4489,"Snow, Day and Mueller",3730.33,purchase,UK,approved,2026-05-24 13:22:10.974281,0
+711,2152,"Robinson, Ferguson and Summers",463.72,transfer,NG,approved,2026-05-24 13:22:10.974522,0
+712,2780,"Coleman, Smith and Blake",75.31,transfer,NG,approved,2026-05-24 13:22:10.974767,0
+713,3123,Young-Young,3476.04,withdrawal,UK,declined,2026-05-24 13:22:10.974932,0
+714,3563,Higgins Group,579.65,purchase,CA,declined,2026-05-24 13:22:10.975041,1
+715,3143,Johnson and Sons,4225.47,transfer,NG,approved,2026-05-24 13:22:10.975133,0
+716,1691,"Martinez, Erickson and Schultz",514.93,transfer,CA,approved,2026-05-24 13:22:10.975375,0
+717,3311,"Green, Alvarez and Archer",2274.58,purchase,US,approved,2026-05-24 13:22:10.975696,0
+718,1384,"Morrison, English and Jackson",1248.15,withdrawal,NG,approved,2026-05-24 13:22:10.975955,0
+719,4527,"Le, Shaw and Walter",3935.94,withdrawal,CA,declined,2026-05-24 13:22:10.976193,1
+720,2092,Navarro-Avila,3077.23,transfer,CA,approved,2026-05-24 13:22:10.976407,0
+721,2356,King and Sons,180.96,purchase,UK,declined,2026-05-24 13:22:10.976530,0
+722,1052,"Gomez, Manning and Brown",1180.74,transfer,NG,approved,2026-05-24 13:22:10.976865,0
+723,3590,Howard LLC,1330.5,transfer,CA,declined,2026-05-24 13:22:10.976972,0
+724,1932,Hawkins PLC,507.31,purchase,US,approved,2026-05-24 13:22:10.977067,0
+725,4503,"Ortiz, Morrow and Howard",1795.6,withdrawal,US,declined,2026-05-24 13:22:10.977305,0
+726,2580,Daniel-Benson,3433.76,withdrawal,NG,approved,2026-05-24 13:22:10.977466,1
+727,3478,Rice-Hall,1965.94,withdrawal,NG,declined,2026-05-24 13:22:10.977627,1
+728,4021,"Conway, Davis and Keller",1918.59,transfer,UK,declined,2026-05-24 13:22:10.977863,0
+729,4499,"Martin, Hall and Reyes",2481.0,purchase,CA,approved,2026-05-24 13:22:10.978101,0
+730,3360,Gordon-Nunez,1111.95,transfer,UK,approved,2026-05-24 13:22:10.978263,0
+731,1176,Stark PLC,263.3,transfer,CA,declined,2026-05-24 13:22:10.978354,0
+732,2980,Clements and Sons,2614.32,withdrawal,NG,approved,2026-05-24 13:22:10.978443,0
+733,4027,"Espinoza, Moore and Johnson",3687.94,transfer,NG,approved,2026-05-24 13:22:10.978681,1
+734,3560,Howell LLC,262.63,transfer,NG,approved,2026-05-24 13:22:10.978772,1
+735,4374,"Bryant, Carter and Walters",3354.75,purchase,UK,approved,2026-05-24 13:22:10.979005,1
+736,1921,Martinez and Sons,4203.09,withdrawal,CA,approved,2026-05-24 13:22:10.979095,0
+737,1453,"Campbell, Lin and Beck",1379.56,transfer,UK,declined,2026-05-24 13:22:10.979328,0
+738,4737,Holder-Hartman,2665.06,withdrawal,US,declined,2026-05-24 13:22:10.979488,0
+739,4786,Patel Group,1750.01,withdrawal,CA,declined,2026-05-24 13:22:10.979579,0
+740,1832,Sparks LLC,1841.55,transfer,US,approved,2026-05-24 13:22:10.979668,0
+741,3217,Mccoy PLC,1783.88,transfer,UK,declined,2026-05-24 13:22:10.979756,0
+742,3753,Davis and Sons,1634.34,transfer,UK,declined,2026-05-24 13:22:10.979845,0
+743,1010,Parsons Ltd,98.09,transfer,CA,declined,2026-05-24 13:22:10.979937,0
+744,1390,Rosales-Hammond,4038.65,withdrawal,UK,approved,2026-05-24 13:22:10.980098,1
+745,4271,"Prince, Nichols and Reyes",1928.64,transfer,US,approved,2026-05-24 13:22:10.980332,0
+746,4841,Martinez-Gonzalez,2038.77,transfer,UK,declined,2026-05-24 13:22:10.980493,0
+747,1993,"Peterson, Beard and Jones",1077.91,withdrawal,NG,approved,2026-05-24 13:22:10.980727,0
+748,3320,"Lopez, Harris and Dennis",784.17,purchase,CA,declined,2026-05-24 13:22:10.980960,1
+749,3387,Green-Mcbride,3968.32,purchase,CA,approved,2026-05-24 13:22:10.981120,0
+750,2797,Mendoza and Sons,3881.34,withdrawal,UK,declined,2026-05-24 13:22:10.981216,0
+751,4642,"Gordon, Cannon and Morrow",3721.35,withdrawal,US,approved,2026-05-24 13:22:10.981453,0
+752,1007,"Woodard, Cole and Smith",884.68,withdrawal,US,approved,2026-05-24 13:22:10.981688,0
+753,1307,Romero and Sons,577.06,withdrawal,UK,approved,2026-05-24 13:22:10.981783,1
+754,3048,"Phillips, Collins and Graham",2543.47,withdrawal,NG,declined,2026-05-24 13:22:10.982015,0
+755,3410,Patel Inc,2241.68,purchase,US,approved,2026-05-24 13:22:10.982105,0
+756,4850,James-Molina,1722.7,transfer,CA,approved,2026-05-24 13:22:10.982264,0
+757,2906,"Miller, Miller and Conner",2759.16,withdrawal,UK,approved,2026-05-24 13:22:10.982497,0
+758,1902,Torres-Williams,3580.58,withdrawal,CA,declined,2026-05-24 13:22:10.982658,0
+759,2008,Pruitt Ltd,1524.45,purchase,NG,approved,2026-05-24 13:22:10.982748,0
+760,4691,"Guerra, Campbell and Leonard",4446.84,withdrawal,US,declined,2026-05-24 13:22:10.982983,0
+761,1829,Martinez Group,1853.24,withdrawal,UK,approved,2026-05-24 13:22:10.983073,0
+762,3759,Williams-Merritt,2588.14,withdrawal,CA,approved,2026-05-24 13:22:10.983233,0
+763,3060,Jenkins Ltd,4012.97,purchase,UK,declined,2026-05-24 13:22:10.983323,0
+764,2640,"Williams, Moore and Young",2555.63,purchase,US,declined,2026-05-24 13:22:10.983556,0
+765,4272,Costa Group,2942.31,withdrawal,UK,approved,2026-05-24 13:22:10.983648,1
+766,4962,Smith and Sons,395.94,purchase,UK,declined,2026-05-24 13:22:10.983737,0
+767,1897,Lane-Brown,3964.12,purchase,NG,declined,2026-05-24 13:22:10.983896,1
+768,3685,"Walker, Gomez and Fernandez",4445.03,withdrawal,UK,approved,2026-05-24 13:22:10.984130,0
+769,1384,"Sutton, Cross and Vaughn",3736.18,withdrawal,US,approved,2026-05-24 13:22:10.984363,0
+770,4195,"Hodge, Waters and Espinoza",3180.21,withdrawal,CA,approved,2026-05-24 13:22:10.984596,1
+771,2949,Mcgrath-Henderson,944.17,transfer,NG,declined,2026-05-24 13:22:10.984757,0
+772,1339,Turner-Young,2616.45,withdrawal,NG,declined,2026-05-24 13:22:10.984920,1
+773,2454,Reeves-Bishop,4131.86,withdrawal,UK,declined,2026-05-24 13:22:10.985080,0
+774,1461,Baker-Knight,28.66,purchase,NG,approved,2026-05-24 13:22:10.985239,1
+775,2282,Hughes-Lopez,2482.4,purchase,US,declined,2026-05-24 13:22:10.985399,0
+776,3810,Martin-Green,2127.54,transfer,NG,approved,2026-05-24 13:22:10.985609,0
+777,4298,Hood-Wright,4048.0,purchase,CA,declined,2026-05-24 13:22:10.985789,0
+778,2358,"Wolf, Herrera and Olsen",818.95,purchase,CA,declined,2026-05-24 13:22:10.986032,0
+779,3071,"Fleming, Dunn and Eaton",2002.75,withdrawal,US,approved,2026-05-24 13:22:10.986273,0
+780,4397,"Forbes, Vega and Hatfield",3551.71,withdrawal,NG,declined,2026-05-24 13:22:10.986520,0
+781,2596,Baker-Foster,2625.81,purchase,UK,approved,2026-05-24 13:22:10.986684,1
+782,2698,Bailey LLC,4046.85,purchase,CA,declined,2026-05-24 13:22:10.986781,1
+783,4175,Ellis PLC,1778.37,transfer,UK,approved,2026-05-24 13:22:10.986873,1
+784,1159,Norris Group,2902.75,transfer,CA,approved,2026-05-24 13:22:10.986965,0
+785,1410,Welch LLC,785.52,purchase,CA,approved,2026-05-24 13:22:10.987055,0
+786,4873,Patrick-Goodman,3865.91,transfer,US,approved,2026-05-24 13:22:10.987217,1
+787,3969,Harper Ltd,2762.23,purchase,CA,declined,2026-05-24 13:22:10.987309,0
+788,3427,Wilkins-Maynard,1356.67,withdrawal,NG,declined,2026-05-24 13:22:10.987470,0
+789,1685,"Ryan, Fernandez and Martinez",2002.22,transfer,NG,declined,2026-05-24 13:22:10.987707,0
+790,2752,"Wade, Brown and Jenkins",36.79,transfer,UK,approved,2026-05-24 13:22:10.987944,0
+791,3667,"Butler, Matthews and Underwood",682.33,transfer,CA,approved,2026-05-24 13:22:10.988180,1
+792,2671,Davis Group,1094.75,purchase,NG,declined,2026-05-24 13:22:10.988289,1
+793,3007,"White, Koch and Ross",3155.6,withdrawal,NG,approved,2026-05-24 13:22:10.988520,0
+794,4639,Morgan and Sons,868.49,withdrawal,CA,approved,2026-05-24 13:22:10.988614,0
+795,3540,"Long, Rose and Santana",1004.64,withdrawal,CA,approved,2026-05-24 13:22:10.988844,0
+796,2239,Robles-Spears,3050.16,purchase,CA,declined,2026-05-24 13:22:10.989002,1
+797,1594,Barnes and Sons,3901.43,purchase,NG,declined,2026-05-24 13:22:10.989091,0
+798,3491,"White, Humphrey and Jones",4614.64,withdrawal,US,approved,2026-05-24 13:22:10.989348,0
+799,3991,Davis Group,2255.71,transfer,NG,declined,2026-05-24 13:22:10.989463,0
+800,1789,Johnson-Horton,365.7,withdrawal,US,approved,2026-05-24 13:22:10.989621,0
+801,1281,"Stephens, Petersen and Santos",304.97,purchase,NG,declined,2026-05-24 13:22:10.989851,0
+802,1435,Wright-Higgins,3486.73,purchase,NG,declined,2026-05-24 13:22:10.990008,0
+803,2777,Orr and Sons,3876.62,withdrawal,NG,declined,2026-05-24 13:22:10.990097,0
+804,4432,Paul-Lopez,774.58,purchase,CA,approved,2026-05-24 13:22:10.990254,0
+805,4167,Ramos-Cardenas,127.8,withdrawal,CA,approved,2026-05-24 13:22:10.990411,0
+806,3766,"Davis, Lyons and Burns",48.03,transfer,CA,declined,2026-05-24 13:22:10.990644,0
+807,4154,"Brown, Bauer and Walker",1537.75,withdrawal,UK,declined,2026-05-24 13:22:10.990875,0
+808,4032,"Wiggins, Lee and Carr",2336.26,withdrawal,US,declined,2026-05-24 13:22:10.991105,0
+809,1070,"Davis, Martinez and Strong",3991.07,purchase,NG,declined,2026-05-24 13:22:10.991574,0
+810,2306,Bullock Group,1501.08,transfer,NG,approved,2026-05-24 13:22:10.991677,0
+811,4340,"Haney, Summers and Williams",3722.85,transfer,CA,approved,2026-05-24 13:22:10.991921,1
+812,4359,Cook-Gordon,418.25,transfer,NG,approved,2026-05-24 13:22:10.992080,0
+813,2888,Garcia-Cruz,1455.7,withdrawal,UK,declined,2026-05-24 13:22:10.992241,0
+814,3010,"Walsh, Clayton and Bradshaw",2000.4,transfer,CA,approved,2026-05-24 13:22:10.992469,0
+815,4130,"Travis, Adams and Rios",4587.07,transfer,CA,declined,2026-05-24 13:22:10.992697,1
+816,3902,Bailey PLC,1738.49,withdrawal,CA,approved,2026-05-24 13:22:10.992785,0
+817,1808,"Martin, Nguyen and Ellis",337.54,purchase,US,approved,2026-05-24 13:22:10.993011,0
+818,1863,"Parker, Hall and Mendoza",3718.88,transfer,UK,approved,2026-05-24 13:22:10.993306,1
+819,4631,"Hammond, Carroll and Rangel",4901.19,transfer,NG,approved,2026-05-24 13:22:10.993568,0
+820,4718,Cole Group,814.51,transfer,US,declined,2026-05-24 13:22:10.993657,0
+821,2007,"Blankenship, Alexander and Martinez",3256.47,withdrawal,US,approved,2026-05-24 13:22:10.993884,0
+822,3971,Watson and Sons,4414.55,withdrawal,CA,approved,2026-05-24 13:22:10.993973,1
+823,4069,"Hall, Farley and Hernandez",4141.42,transfer,CA,declined,2026-05-24 13:22:10.994199,1
+824,1040,"Adams, Hernandez and Hernandez",1850.13,withdrawal,UK,approved,2026-05-24 13:22:10.994461,0
+825,3767,"Hunter, Jenkins and Clark",2666.07,withdrawal,US,declined,2026-05-24 13:22:10.994688,0
+826,3268,"Ortiz, Kane and George",4660.79,transfer,CA,declined,2026-05-24 13:22:10.994934,0
+827,4011,Johnson-Hall,2369.33,transfer,US,approved,2026-05-24 13:22:10.995106,0
+828,2632,"Mccullough, Burns and Rojas",461.89,purchase,US,declined,2026-05-24 13:22:10.995333,0
+829,2173,Anderson Inc,843.99,withdrawal,UK,declined,2026-05-24 13:22:10.995441,0
+830,2314,Wilcox LLC,4579.14,transfer,CA,approved,2026-05-24 13:22:10.995577,0
+831,4855,Harvey-Martinez,4909.03,purchase,CA,approved,2026-05-24 13:22:10.995742,0
+832,1725,Morris-Hull,4198.11,purchase,CA,declined,2026-05-24 13:22:10.995899,0
+833,1659,Vega PLC,610.66,purchase,UK,approved,2026-05-24 13:22:10.995986,0
+834,1349,"Shepard, Garcia and Wright",3739.18,purchase,CA,approved,2026-05-24 13:22:10.996213,0
+835,3839,Kaufman Ltd,24.82,transfer,NG,declined,2026-05-24 13:22:10.996300,0
+836,3467,Ponce-Price,3372.52,purchase,US,declined,2026-05-24 13:22:10.996458,0
+837,2053,"Gomez, Guerrero and Robertson",4856.61,purchase,CA,approved,2026-05-24 13:22:10.996686,0
+838,3103,"Harrell, Rogers and Lawson",1654.68,transfer,NG,declined,2026-05-24 13:22:10.996914,0
+839,4579,Ramos LLC,2958.59,withdrawal,UK,approved,2026-05-24 13:22:10.997002,0
+840,3509,Frederick-Swanson,4853.62,transfer,UK,declined,2026-05-24 13:22:10.997156,0
+841,1745,"Smith, Carey and Wilcox",1005.35,purchase,NG,approved,2026-05-24 13:22:10.997489,0
+842,1567,"Mccarthy, Cooper and Robertson",644.36,withdrawal,CA,declined,2026-05-24 13:22:10.997716,1
+843,3334,"Whitehead, Hurley and Duncan",1842.49,purchase,CA,approved,2026-05-24 13:22:10.997996,0
+844,3180,Wells Group,2245.92,purchase,US,approved,2026-05-24 13:22:10.998098,0
+845,4869,Zamora and Sons,4361.61,transfer,NG,declined,2026-05-24 13:22:10.998185,0
+846,2734,Chang-Alvarez,2874.24,purchase,UK,approved,2026-05-24 13:22:10.998358,0
+847,1249,Long and Sons,4409.73,purchase,NG,declined,2026-05-24 13:22:10.998448,0
+848,1914,"Caldwell, Smith and Bell",363.53,transfer,UK,declined,2026-05-24 13:22:10.998682,0
+849,3864,"Ramirez, Howard and Parks",2788.32,withdrawal,US,declined,2026-05-24 13:22:10.998915,1
+850,2630,Olson-Dixon,4918.52,purchase,NG,approved,2026-05-24 13:22:10.999080,1
+851,4209,Hall PLC,112.27,purchase,CA,declined,2026-05-24 13:22:10.999171,0
+852,3793,Graves Group,1030.54,transfer,US,approved,2026-05-24 13:22:10.999263,0
+853,2652,Curtis-Chavez,4654.02,withdrawal,UK,approved,2026-05-24 13:22:10.999423,0
+854,3708,"Harper, Cooper and Williams",2437.84,withdrawal,NG,approved,2026-05-24 13:22:10.999657,0
+855,4531,Bullock-Barrera,1545.9,withdrawal,CA,approved,2026-05-24 13:22:10.999818,1
+856,2309,"Harris, Dickson and Terry",3603.39,transfer,NG,approved,2026-05-24 13:22:11.000051,0
+857,3346,"Sandoval, Rivera and Jackson",3096.72,transfer,UK,declined,2026-05-24 13:22:11.000291,0
+858,4399,King PLC,1805.81,transfer,NG,approved,2026-05-24 13:22:11.000382,0
+859,4725,Smith Inc,1669.87,withdrawal,CA,declined,2026-05-24 13:22:11.000471,0
+860,1344,"Vasquez, Salazar and Nelson",308.53,purchase,US,approved,2026-05-24 13:22:11.000704,0
+861,1838,"Kim, Cummings and Thompson",3354.39,withdrawal,US,approved,2026-05-24 13:22:11.000937,1
+862,3764,"Brown, Schwartz and Gomez",2113.79,transfer,NG,declined,2026-05-24 13:22:11.001171,1
+863,2089,Lopez Ltd,1262.52,purchase,NG,approved,2026-05-24 13:22:11.001261,1
+864,4447,Perez LLC,2598.46,withdrawal,CA,approved,2026-05-24 13:22:11.001351,0
+865,2728,Barton-Contreras,1471.87,transfer,UK,declined,2026-05-24 13:22:11.001510,0
+866,4591,Wilcox-Drake,392.46,withdrawal,NG,declined,2026-05-24 13:22:11.001671,0
+867,2761,Mcmillan-Richardson,2921.84,purchase,US,approved,2026-05-24 13:22:11.001830,0
+868,3568,Kane Inc,2042.74,withdrawal,CA,declined,2026-05-24 13:22:11.001920,0
+869,2892,Hamilton and Sons,3432.42,withdrawal,UK,declined,2026-05-24 13:22:11.002009,0
+870,1117,Silva-Watkins,3399.79,withdrawal,CA,declined,2026-05-24 13:22:11.002173,0
+871,4791,Davis Ltd,3390.24,withdrawal,CA,approved,2026-05-24 13:22:11.002262,1
+872,1835,Schneider and Sons,1725.2,transfer,US,declined,2026-05-24 13:22:11.002352,0
+873,3093,"Schroeder, Wilson and Martin",3183.55,withdrawal,UK,declined,2026-05-24 13:22:11.002588,0
+874,2498,Romero Ltd,1360.25,withdrawal,CA,approved,2026-05-24 13:22:11.002678,1
+875,2649,Morgan-Sherman,158.74,transfer,UK,approved,2026-05-24 13:22:11.002837,0
+876,1860,Butler-Brown,3611.36,transfer,CA,declined,2026-05-24 13:22:11.002996,1
+877,1100,"Smith, Wright and Thompson",800.86,purchase,CA,approved,2026-05-24 13:22:11.003229,0
+878,4621,Hansen Ltd,3896.54,withdrawal,US,declined,2026-05-24 13:22:11.003319,0
+879,4067,Brooks-Cox,3575.51,withdrawal,US,declined,2026-05-24 13:22:11.003481,0
+880,3262,Walker Inc,2707.91,withdrawal,UK,declined,2026-05-24 13:22:11.003571,1
+881,4324,Sims Ltd,1545.37,transfer,UK,declined,2026-05-24 13:22:11.003660,0
+882,3165,"Wright, Stewart and Herman",4530.85,purchase,NG,approved,2026-05-24 13:22:11.003892,0
+883,2525,Lopez-Bryant,220.56,transfer,NG,approved,2026-05-24 13:22:11.004052,0
+884,2184,Calhoun LLC,2245.29,withdrawal,NG,approved,2026-05-24 13:22:11.004142,0
+885,3320,"Martin, Andrews and Williamson",4110.63,withdrawal,CA,declined,2026-05-24 13:22:11.004374,1
+886,1967,"James, Collier and Ritter",1520.73,withdrawal,NG,approved,2026-05-24 13:22:11.004608,0
+887,1686,Flores-Perez,962.57,withdrawal,CA,approved,2026-05-24 13:22:11.004772,0
+888,1589,"Griffin, Moore and Morgan",3114.86,purchase,CA,approved,2026-05-24 13:22:11.005009,0
+889,4392,Wise and Sons,4925.16,purchase,UK,declined,2026-05-24 13:22:11.005103,0
+890,1463,Brown-Jordan,2752.71,purchase,CA,approved,2026-05-24 13:22:11.005262,0
+891,1127,Vincent and Sons,3368.35,withdrawal,NG,declined,2026-05-24 13:22:11.005353,1
+892,1885,Mathis-Garcia,3972.13,transfer,US,approved,2026-05-24 13:22:11.005513,0
+893,4639,"Velasquez, Franklin and Powers",4914.22,transfer,NG,approved,2026-05-24 13:22:11.005754,0
+894,1077,"Bright, Richardson and Wyatt",3793.08,withdrawal,UK,declined,2026-05-24 13:22:11.005989,1
+895,2692,Calhoun-Mitchell,385.65,transfer,NG,approved,2026-05-24 13:22:11.006148,1
+896,1757,Bryan Inc,3576.17,purchase,NG,approved,2026-05-24 13:22:11.006239,0
+897,4338,"Allen, Stephens and Dixon",2582.47,purchase,US,approved,2026-05-24 13:22:11.006472,0
+898,2006,"Ward, Luna and Valencia",4268.27,purchase,US,declined,2026-05-24 13:22:11.006705,0
+899,4211,Thompson-King,205.72,withdrawal,US,declined,2026-05-24 13:22:11.006864,0
+900,4173,Burton PLC,3938.26,withdrawal,CA,declined,2026-05-24 13:22:11.006953,0
+901,3907,Ruiz Inc,3936.96,transfer,US,declined,2026-05-24 13:22:11.007042,0
+902,3696,"Carter, Soto and Robinson",1491.26,purchase,CA,declined,2026-05-24 13:22:11.007276,0
+903,3333,"Allen, Stone and Lee",22.11,transfer,NG,declined,2026-05-24 13:22:11.007510,0
+904,2741,Flores-Lyons,4095.73,transfer,NG,declined,2026-05-24 13:22:11.007671,0
+905,3007,"Conner, Hensley and Porter",4522.93,withdrawal,CA,declined,2026-05-24 13:22:11.007959,1
+906,2267,Carter-Smith,1836.27,withdrawal,US,approved,2026-05-24 13:22:11.008140,1
+907,1502,Fuentes-Kim,1178.41,purchase,CA,approved,2026-05-24 13:22:11.008320,0
+908,1655,Wong-Peterson,3601.44,purchase,CA,approved,2026-05-24 13:22:11.008481,0
+909,1588,Bradley-Ortiz,15.41,transfer,CA,declined,2026-05-24 13:22:11.008647,1
+910,1008,Jones-Kelly,2905.11,transfer,UK,declined,2026-05-24 13:22:11.008806,0
+911,1967,Vega-Levy,4318.24,purchase,NG,approved,2026-05-24 13:22:11.009004,0
+912,4800,Davis-Jones,3993.52,purchase,US,approved,2026-05-24 13:22:11.009163,0
+913,3716,Mcneil LLC,1279.17,transfer,CA,declined,2026-05-24 13:22:11.009253,1
+914,1634,Robinson PLC,2510.17,transfer,US,declined,2026-05-24 13:22:11.009342,0
+915,2645,French-Richardson,3577.55,purchase,US,declined,2026-05-24 13:22:11.009534,0
+916,1305,Bowen-Miranda,2523.85,transfer,UK,declined,2026-05-24 13:22:11.009692,0
+917,2279,"Benson, Solis and Henson",3280.4,withdrawal,CA,approved,2026-05-24 13:22:11.010179,1
+918,4622,Reeves-Shah,1366.99,transfer,NG,approved,2026-05-24 13:22:11.010387,0
+919,3051,Thomas Ltd,3481.51,withdrawal,US,declined,2026-05-24 13:22:11.010484,1
+920,1093,"Williams, Hawkins and Jones",4502.24,purchase,CA,declined,2026-05-24 13:22:11.010714,0
+921,3680,Wheeler Group,3408.88,purchase,US,declined,2026-05-24 13:22:11.010804,0
+922,2050,Sosa-Michael,2471.3,withdrawal,US,declined,2026-05-24 13:22:11.010968,1
+923,3732,Murphy-Wu,2184.11,transfer,US,approved,2026-05-24 13:22:11.011143,1
+924,3686,Ramos PLC,2808.61,purchase,UK,declined,2026-05-24 13:22:11.011237,0
+925,4536,Lang-Davis,1291.11,withdrawal,CA,declined,2026-05-24 13:22:11.011406,0
+926,2486,Jones PLC,3000.18,withdrawal,US,approved,2026-05-24 13:22:11.011495,1
+927,1245,King PLC,4414.35,withdrawal,UK,approved,2026-05-24 13:22:11.011582,0
+928,1826,Jackson and Sons,4035.68,purchase,CA,declined,2026-05-24 13:22:11.011693,0
+929,3666,Jefferson-Shepherd,3852.82,purchase,UK,approved,2026-05-24 13:22:11.011864,0
+930,2777,Johnson-Gibson,1513.58,withdrawal,UK,approved,2026-05-24 13:22:11.012021,1
+931,4993,"Yang, Gonzalez and Anderson",3100.68,withdrawal,NG,approved,2026-05-24 13:22:11.012429,1
+932,2480,Mendoza-Price,146.06,withdrawal,CA,declined,2026-05-24 13:22:11.012632,0
+933,1792,"Little, Cunningham and Carter",3168.92,transfer,US,declined,2026-05-24 13:22:11.012863,0
+934,3920,Farrell and Sons,3549.02,withdrawal,NG,approved,2026-05-24 13:22:11.012951,0
+935,3382,Marshall PLC,4480.47,withdrawal,NG,approved,2026-05-24 13:22:11.013039,0
+936,1693,Daniels PLC,3642.85,withdrawal,UK,declined,2026-05-24 13:22:11.013125,0
+937,4183,Jackson-Gonzalez,2454.37,purchase,CA,approved,2026-05-24 13:22:11.013280,0
+938,2645,Hall and Sons,1408.77,withdrawal,UK,approved,2026-05-24 13:22:11.013368,1
+939,1087,Lewis-Garrett,3070.05,withdrawal,US,approved,2026-05-24 13:22:11.013522,0
+940,1098,"Martin, Medina and Hunter",618.73,transfer,US,approved,2026-05-24 13:22:11.013750,1
+941,1230,"Rodriguez, Hernandez and Pace",1327.39,withdrawal,NG,declined,2026-05-24 13:22:11.013977,0
+942,2277,"Garcia, Knight and Herrera",582.27,purchase,UK,declined,2026-05-24 13:22:11.014204,0
+943,1834,Anderson-Johnson,1170.74,purchase,CA,declined,2026-05-24 13:22:11.014359,0
+944,4914,Smith LLC,2636.45,withdrawal,US,approved,2026-05-24 13:22:11.014446,0
+945,1206,Newman-Frye,2488.51,purchase,CA,declined,2026-05-24 13:22:11.014601,0
+946,3354,Beard-Mckay,2344.68,purchase,UK,approved,2026-05-24 13:22:11.014756,0
+947,4792,Martinez-Bridges,1388.96,transfer,CA,declined,2026-05-24 13:22:11.014912,0
+948,4459,Davis Ltd,838.41,transfer,NG,declined,2026-05-24 13:22:11.015004,0
+949,2384,Walker Ltd,2418.55,withdrawal,US,declined,2026-05-24 13:22:11.015091,1
+950,1392,Davis-Nguyen,3966.14,purchase,US,declined,2026-05-24 13:22:11.015299,0
+951,1632,"Yang, Esparza and Sanders",395.74,purchase,US,declined,2026-05-24 13:22:11.015632,0
+952,1639,"Cohen, Wilson and Saunders",2540.34,withdrawal,CA,declined,2026-05-24 13:22:11.015962,0
+953,1629,"Rivera, Cook and Martin",3841.75,withdrawal,NG,declined,2026-05-24 13:22:11.016306,0
+954,3848,Farrell-Edwards,2650.49,transfer,UK,declined,2026-05-24 13:22:11.016463,1
+955,3858,Williams Group,4262.99,purchase,US,approved,2026-05-24 13:22:11.016551,0
+956,3418,Sanchez and Sons,3610.77,purchase,CA,approved,2026-05-24 13:22:11.016637,0
+957,2560,"Gaines, Bell and Rivera",3523.52,transfer,CA,approved,2026-05-24 13:22:11.016864,1
+958,2106,Carter-Brewer,4112.74,transfer,NG,declined,2026-05-24 13:22:11.017018,0
+959,2249,Duran-Clark,1362.04,withdrawal,UK,declined,2026-05-24 13:22:11.017176,0
+960,1362,Munoz PLC,3208.85,withdrawal,US,approved,2026-05-24 13:22:11.017264,0
+961,2606,Warren-Oconnell,3492.64,purchase,US,approved,2026-05-24 13:22:11.017417,0
+962,2736,"Munoz, Young and Stark",3776.87,transfer,CA,approved,2026-05-24 13:22:11.017643,0
+963,1757,Payne-Reyes,4844.28,purchase,US,declined,2026-05-24 13:22:11.017799,1
+964,3484,Hawkins Inc,4504.3,purchase,CA,declined,2026-05-24 13:22:11.017889,1
+965,1081,"Woods, Williams and Henry",2871.56,transfer,UK,declined,2026-05-24 13:22:11.018120,0
+966,3607,Hernandez LLC,4338.12,withdrawal,CA,declined,2026-05-24 13:22:11.018208,1
+967,4045,"Stafford, Martinez and Thomas",4720.61,withdrawal,NG,declined,2026-05-24 13:22:11.018456,0
+968,4631,Williams Group,3651.29,transfer,NG,declined,2026-05-24 13:22:11.018548,0
+969,2286,"Michael, Green and Conrad",3587.5,transfer,NG,declined,2026-05-24 13:22:11.018834,0
+970,1104,"Gray, Davidson and Rogers",4994.46,withdrawal,CA,declined,2026-05-24 13:22:11.019086,1
+971,2073,"Hernandez, Brown and Guerra",3819.98,withdrawal,CA,approved,2026-05-24 13:22:11.019326,0
+972,2557,West and Sons,556.66,transfer,NG,declined,2026-05-24 13:22:11.019419,0
+973,4171,"Washington, Stevens and Stone",830.61,purchase,UK,approved,2026-05-24 13:22:11.019654,1
+974,4575,Clark-Lloyd,2153.06,transfer,CA,declined,2026-05-24 13:22:11.019815,1
+975,3180,Graves-Ortiz,4596.94,purchase,UK,declined,2026-05-24 13:22:11.019975,1
+976,2129,"Davis, Pope and Yoder",1279.61,withdrawal,US,declined,2026-05-24 13:22:11.020209,1
+977,4193,Parks-Guzman,3116.04,withdrawal,US,approved,2026-05-24 13:22:11.020369,1
+978,1410,Sanders and Sons,4838.83,transfer,UK,declined,2026-05-24 13:22:11.020458,1
+979,4548,Gallegos Inc,4642.73,purchase,US,declined,2026-05-24 13:22:11.020548,0
+980,4331,Lee-Jackson,1343.87,purchase,CA,declined,2026-05-24 13:22:11.020708,0
+981,3993,Thomas Ltd,746.97,withdrawal,UK,approved,2026-05-24 13:22:11.020803,0
+982,2566,Rangel-Freeman,3575.84,purchase,NG,declined,2026-05-24 13:22:11.020965,1
+983,1335,Lyons Ltd,4439.07,purchase,UK,declined,2026-05-24 13:22:11.021056,0
+984,1712,"Robbins, Watts and Walker",716.04,withdrawal,US,approved,2026-05-24 13:22:11.021288,0
+985,1068,"Jimenez, Parsons and Young",378.0,withdrawal,CA,approved,2026-05-24 13:22:11.021522,0
+986,1688,Murphy-Lewis,3158.73,withdrawal,NG,declined,2026-05-24 13:22:11.021680,0
+987,4121,Lopez-Banks,295.16,withdrawal,NG,declined,2026-05-24 13:22:11.021845,1
+988,4791,Bryant-Kaufman,612.1,purchase,UK,approved,2026-05-24 13:22:11.022004,0
+989,2368,Stewart and Sons,4361.77,purchase,CA,approved,2026-05-24 13:22:11.022093,0
+990,3641,"Allen, Carrillo and Brown",2079.26,purchase,US,declined,2026-05-24 13:22:11.022325,1
+991,4786,"Norris, Harrison and Hansen",1764.89,withdrawal,NG,declined,2026-05-24 13:22:11.022556,0
+992,1606,Howard Group,2311.51,purchase,UK,declined,2026-05-24 13:22:11.022645,0
+993,1942,"Ellis, Murphy and Smith",3715.82,withdrawal,US,approved,2026-05-24 13:22:11.022877,0
+994,3898,Schneider-Castro,3318.52,withdrawal,NG,approved,2026-05-24 13:22:11.023039,0
+995,4330,Roth-Garrett,173.57,withdrawal,CA,approved,2026-05-24 13:22:11.023200,0
+996,2544,Gallagher-Small,741.12,withdrawal,CA,declined,2026-05-24 13:22:11.023360,0
+997,1349,Riley Ltd,28.05,purchase,UK,declined,2026-05-24 13:22:11.023450,0
+998,3790,"Potter, Lee and Smith",4025.14,withdrawal,CA,approved,2026-05-24 13:22:11.023682,1
+999,2818,"Wilson, Jones and Mccoy",2682.17,transfer,UK,approved,2026-05-24 13:22:11.023955,1
+1000,2817,Horton Group,727.58,transfer,US,approved,2026-05-24 13:22:11.024049,0
